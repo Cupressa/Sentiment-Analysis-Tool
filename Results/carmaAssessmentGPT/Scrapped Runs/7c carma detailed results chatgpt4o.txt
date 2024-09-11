@@ -1,0 +1,519 @@
+### Sentiment Analysis Results
+
+1| The buttons are easy to find and easy to use|  0.85|  High|  This comment is very positive because it says the buttons are easy to find and use, which is a good thing.
+
+2| It looks good. Words are a bit small and hard to read though.|  0.65|  High|  This comment is mostly positive because it says "it looks good," but there is a small complaint about the words being hard to read.
+
+3| Easy to use.|  0.90|  High|  This is a very positive comment because it says the software is easy to use, which is what people generally want.
+
+4| picture is cute|  0.80|  High|  This comment is positive because calling something "cute" is a nice thing to say.
+
+5| The buttons at the bottom are a little awkward. I did not know what the 'why' button's purpose was. The Ok button kept taking me to the next page when I thought Ok meant done. There were just a lot of buttons.|  0.30|  High|  This comment is mostly negative because it describes confusion and frustration with the buttons.
+
+6| The menus seem slightly confusing to use|  0.40|  High|  This comment is somewhat negative because it says the menus are confusing.
+
+7| it seemed thrown together|  0.20|  High|  This is a negative comment because saying something seems "thrown together" implies it is not well-made.
+
+8| It wasn't personal or warm, colorful or inviting.|  0.25|  High|  This is a negative comment because it lists several ways the software did not meet the user's expectations.
+
+9| don't know about grasshoppers|  0.50|  Medium|  This comment is neutral because it simply states a lack of knowledge, without expressing positive or negative feelings.
+
+10| The buttons in the middle of the screen are small and vary in length, would much better if they were a little bigger and standardized|  0.45|  High|  This comment is slightly negative because it points out a problem with the button sizes and suggests an improvement.
+
+11| Program took too long. Estimations may have to be more broad|  0.35|  High|  This is a negative comment because it complains about the program taking too long.
+
+12| the program didn't do anything that caught my interest at all.|  0.20|  High|  This is a negative comment because it states that the program was uninteresting.
+
+13| there was not interest to me about the program/software|  0.25|  High|  This is a negative comment because it says the program was not interesting.
+
+14| Not much to it. Pull down menus were plain.|  0.40|  High|  This is a slightly negative comment because it suggests the program is too simple and the menus are plain.
+
+15| The language was understandable but appropriate vocabulary was used for the content.|  0.70|  High|  This is a positive comment because it praises the language used in the program.
+
+16| professional and easy to navigate|  0.85|  High|  This is a very positive comment because it describes the program as professional and easy to navigate.
+
+17| very direct questions, easy to understand|  0.85|  High|  This is a very positive comment because it praises the clarity of the questions.
+
+18| very professionally written|  0.90|  High|  This is a very positive comment because it compliments the writing quality.
+
+19| The text in the software was formal and concise.|  0.75|  High|  This is a positive comment because it appreciates the formality and conciseness of the text.
+
+20| well organized|  0.80|  High|  This is a positive comment because it says the program is well organized.
+
+21| Sticks to the facts|  0.75|  High|  This is a positive comment because it appreciates that the program sticks to the facts.
+
+22| Professional|  0.85|  High|  This is a very positive comment because it describes the program as professional.
+
+23| Too much stuff everywhere...kind of confusing.|  0.30|  High|  This is a negative comment because it mentions that the interface is cluttered and confusing.
+
+24| It looks good. Words are a bit small and hard to read though.|  0.65|  High|  This is mostly positive because it says "it looks good," but there is a small complaint about the words being hard to read.
+
+25| clear to know what to do|  0.80|  High|  This is a positive comment because it states that the instructions are clear.
+
+26| not a lot of excess graphics to distract the user|  0.75|  High|  This is a positive comment because it appreciates the lack of distracting graphics.
+
+27| Much like usable. Very straightforward and easy to use.|  0.85|  High|  This is a very positive comment because it describes the program as straightforward and easy to use.
+
+28| easy to see what is what and not complex|  0.80|  High|  This is a positive comment because it praises the simplicity and clarity of the program.
+
+29| just like easy to use it was clear where I needed to go to do what I wanted to|  0.85|  High|  This is a very positive comment because it emphasizes ease of use and clarity.
+
+30| easy to understand directions|  0.85|  High|  This is a very positive comment because it highlights that the directions are easy to understand.
+
+31| directions and results are written clearly and concisely|  0.85|  High|  This is a very positive comment because it appreciates the clarity and conciseness of the directions and results.
+
+32| Information was not jumbled on the page|  0.80|  High|  This is a positive comment because it appreciates the clear layout of information.
+
+33| Language was simple and pictures had enough detail to be helpful|  0.80|  High|  This is a positive comment because it praises the simplicity of the language and the helpfulness of the pictures.
+
+34| No need to think as you went through software|  0.75|  High|  This is a positive comment because it implies the software is user-friendly and intuitive.
+
+35| It information it was trying to relay to me was very clear, and there wasn't anything in the way to distract me from the message or idea of what the program was trying to do.|  0.80|  High|  This is a positive comment because it appreciates the clarity and focus of the information.
+
+36| Seems easy enough to understand.|  0.75|  High|  This is a positive comment because it suggests the program is easy to understand.
+
+37| Didn't get lost in the directions and the layout was easy to understand.|  0.85|  High|  This is a very positive comment because it highlights the ease of understanding the directions and layout.
+
+38| The explanatory paragraphs were plain and too crammed together to want to read them.|  0.35|  High|  This is a negative comment because it criticizes the layout and readability of the paragraphs.
+
+39| no idea about this topic|  0.50|  Medium|  This comment is neutral because it simply states a lack of knowledge, without expressing positive or negative feelings.
+
+40| There are many steps and I was unsure at times what button to click. I was unsure if the crop border and all those terms were commonplace knowledge for someone dealing with a grasshopper infestation.|  0.40|  High|  This is a slightly negative comment because it describes confusion and uncertainty about the steps and terms.
+
+41| Great if you do have grasshopper problems.|  0.75|  High|  This is a positive comment because it says the program is great for people with grasshopper problems.
+
+42| I was not sure exactly what I was supposed to do, but once I clicked the how to, everything was much clearer. Also, if I had been dealing with a grasshopper issue or simply knew more about farming, I might have understood it a little better.|  0.60|  High|  This is a mixed comment because it mentions initial confusion but also acknowledges that the instructions made things clearer.
+
+43| due to technical terminology|  0.45|  Medium|  This is slightly negative because it suggests that the technical terminology was a barrier.
+
+44| I could not figure out the density question. I did not find information about how many grasshoppers per square foot. Was I suppose to go to a field and count?|  0.35|  High|  This is a negative comment because it expresses confusion and frustration about a specific question.
+
+45| again, I had not idea what the content was about, but I am not the target audience|  0.50|  Medium|  This is a neutral comment because it acknowledges a lack of understanding but also notes that the user is not the target audience.
+
+46| I was confused as to how to get the percentages right until I figured it out|  0.50|  High|  This is a mixed comment because it mentions initial confusion but also notes eventual understanding.
+
+47| Took 2-3 minutes just playing around before I understood what the program was intended for, however, that was probably more due to a lack of information about the program beforehand. Most programs people use people have a basic idea of what they want to get out of the program or expect to get out of the program.|  0.55|  High|  This is a mixed comment because it describes a learning curve but also provides a reasonable explanation.
+
+48| If you were having problems with grasshoppers in your fields, this would be a fast and convenient way to look for solutions|  0.75|  High|  This is a positive comment because it praises the program's speed and convenience for those with grasshopper problems.
+
+49| Doesn't require a lot of work to get the right information.|  0.80|  High|  This is a positive comment because it appreciates the program's efficiency in providing information.
+
+50| Accessible and easy to use.|  0.85|  High|  This is a very positive comment because it describes the program as accessible and easy to use.
+
+51| use whenever|  0.75|  Medium|  This is a positive comment because it suggests the program is available for use anytime.
+
+52| It gave diagrams on which grasshoppers to look for and how to identify them|  0.80|  High|  This is a positive comment because it appreciates the helpful diagrams provided by the program.
+
+53| Simple program to find the information one is looking for.|  0.75|  High|  This is a positive comment because it describes the program as simple and effective in finding information.
+
+54| Never seen anything like it before.|  0.70|  High|  This is a positive comment because it suggests the program is unique and innovative.
+
+55| Although the averages (or standards, defaults) were given, for any situation where the farmer/rancher may have a special situation--and face it, nothing is exactly average, no matter where one is farming or ranching--one could adjust the settings for the individual needs.|  0.75|  High|  This is a positive comment because it appreciates the program's flexibility in adjusting settings for individual needs.
+
+56| Many options to choose from to make it work for each person.|  0.80|  High|  This is a positive comment because it praises the variety of options available.
+
+57| Can attune it to individual person|  0.80|  High|  This is a positive comment because it highlights the program's customization capabilities.
+
+58| you didn't use many words kept it simple. that is more cutting edge than websites that make you read a bunch to get to one thing|  0.75|  High|  This is a positive comment because it appreciates the simplicity and efficiency of the program.
+
+59| very good information|  0.85|  High|  This is a very positive comment because it praises the quality of the information provided.
+
+60| Brand new to the farming community. Can read about it in magazines, but are unable to really interact with the different types.|  0.60|  Medium|  This is a mixed comment because it mentions a gap in interaction despite being new to the farming community.
+
+61| the whole set up seems awfully boring and was thrown together. The whole visual experience was not good nor interesting.|  0.20|  High|  This is a negative comment because it criticizes the setup and visual experience as boring and poorly made.
+
+62| looked old|  0.30|  High|  This is a negative comment because it describes the program as looking old.
+
+63| The graphic and the setup are a little plain, similar to something created about 5-10 years ago.|  0.35|  High|  This is a negative comment because it criticizes the graphics and setup as outdated.
+
+64| Looks like it was made in the 80's|  0.30|  High|  This is a negative comment because it describes the program as looking very old.
+
+65| the design seemed like it was from the 80's|  0.30|  High|  This is a negative comment because it criticizes the design as very outdated.
+
+66| Again, confusing because there was stuff everywhere.|  0.30|  High|  This is a negative comment because it describes the interface as cluttered and confusing.
+
+67| Consider refining the program interface to make it more user-friendly|  0.45|  High|  This is slightly negative because it suggests the interface needs improvement to be more user-friendly.
+
+68| almost seemed as if I was reading a black and white newspaper. No color no interest.|  0.30|  High|  This is a negative comment because it criticizes the program as uninteresting and lacking color.
+
+69| besides the front cover of the grasshopper with the hat, the font is too small and it's difficult to read. Instead of moving the bar left or right to include a number, have the person type it in an empty box. The map where you select your county should have the names of the counties within the box or at least have a box pull up when the mouse rolls over it.|  0.40|  High|  This is a slightly negative comment because it describes several issues with the font size, navigation, and map functionality.
+
+70| maybe using a design layout and better typography might make it more appealing, make people want to read|  0.40|  High|  This is a slightly negative comment because it suggests improvements to the design and typography.
+
+71| It's gray. It's a little bland. It doesn't need to be colorful or flashy or anything, I just noticed it was a little simple, which is good.|  0.50|  High|  This is a mixed comment because it acknowledges simplicity as a positive aspect but also notes the blandness.
+
+72| See comment above.|  0.50|  Low|  This comment is neutral as it references a previous comment without adding new information.
+
+73| one question per-page, easy to follow|  0.80|  High|  This is a positive comment because it appreciates the simplicity and ease of following the questions.
+
+74| The questions were fairly easy to answer and they were easy to find.|  0.80|  High|  This is a positive comment because it praises the ease of answering and finding the questions.
+
+75| i found everything very easily|  0.85|  High|  This is a very positive comment because it highlights the ease of finding information.
+
+76| Each button was labeled well.|  0.85|  High|  This is a very positive comment because it appreciates the clear labeling of the buttons.
+
+77| self explanatory|  0.85|  High|  This is a very positive comment because it suggests the program is easy to understand without additional explanations.
+
+78| It walked you through the steps of what to do|  0.85|  High|  This is a very positive comment because it appreciates the guided process provided by the program.
+
+79| I know nothing about grasshoppers or this kind of system but found the instructions easy to understand and follow|  0.80|  High|  This is a positive comment because it highlights the ease of understanding and following the instructions despite a lack of prior knowledge.
+
+80| Directions were concise and easy to follow.|  0.85|  High|  This is a very positive comment because it praises the clarity and conciseness of the directions.
+
+81| I did not know about different types of grasshoppers|  0.50|  Medium|  This is a neutral comment because it simply states a lack of knowledge without expressing positive or negative feelings.
+
+82| Easy to learn what to do for an infestation.|  0.85|  High|  This is a very positive comment because it praises the ease of learning how to handle an infestation.
+
+83| one could learn what they need to do about their grasshopper population|  0.80|  High|  This is a positive comment because it highlights the educational value of the program.
+
+84| Good information|  0.85|  High|  This is a very positive comment because it praises the quality of the information provided.
+
+85| I learned things I never knew about grasshoppers.|  0.85|  High|  This is a very positive comment because it highlights the educational value of the program.
+
+86| Learned something about grasshopper levels|  0.80|  High|  This is a positive comment because it indicates that the program provided useful information.
+
+87| results are informative|  0.85|  High|  This is a very positive comment because it praises the informativeness of the results.
+
+88| it can help teach|  0.80|  High|  This is a positive comment because it acknowledges the educational potential of the program.
+
+89| Good resource tool for farmers.|  0.85|  High|  This is a very positive comment because it recognizes the program as a valuable resource for farmers.
+
+90| I got to learn more about grasshoppers|  0.85|  High|  This is a very positive comment because it highlights the educational benefit of the program.
+
+91| Contained information about grasshopper infestation and what to do about it.|  0.80|  High|  This is a positive comment because it acknowledges the helpful information provided by the program.
+
+92| I think it could be given the right circumstances|  0.65|  Medium|  This is a slightly positive comment because it suggests the program could be useful under the right circumstances.
+
+93| it gets the information across|  0.75|  High|  This is a positive comment because it appreciates the program's ability to convey information effectively.
+
+94| Seems like a very easy way to manage infestation problems|  0.80|  High|  This is a positive comment because it highlights the ease of managing infestation problems with the program.
+
+95| It gave me the information I needed so it did achieve its purpose|  0.80|  High|  This is a positive comment because it acknowledges that the program achieved its intended purpose.
+
+96| It moved swiftly from one question to the next.|  0.80|  High|  This is a positive comment because it appreciates the smooth transition between questions.
+
+97| does a good job|  0.80|  High|  This is a positive comment because it praises the overall performance of the program.
+
+98| A usable way to diagnose grasshopper infestations without wasting time.|  0.85|  High|  This is a very positive comment because it appreciates the efficiency and usability of the program.
+
+99| A quick and easy way to diagnose grasshopper infestations.|  0.85|  High|  This is a very positive comment because it highlights the quick and easy diagnosis provided by the program.
+
+100| The software didn't have any distracting ads or banners to get in the way of the survey.|  0.80|  High|  This is a positive comment because it appreciates the lack of distractions in the software.
+
+101| Didn't take very long to come up with recommendations|  0.80|  High|  This is a positive comment because it appreciates the quick generation of recommendations.
+
+102| Worked well|  0.85|  High|  This is a very positive comment because it praises the overall functionality of the program.
+
+103| It was very easy to use.|  0.85|  High|  This is a very positive comment because it highlights the ease of use.
+
+104| As long as you could read and follow directions you were good|  0.80|  High|  This is a positive comment because it emphasizes the importance of reading and following directions for successful use.
+
+105| learning about bugs|  0.70|  High|  This is a positive comment because it appreciates the educational aspect of learning about bugs.
+
+106| its my first time to use a software like this!|  0.75|  Medium|  This is a slightly positive comment because it mentions the novelty of the experience.
+
+107| expected would need to treat field with pesticides|  0.60|  Medium|  This is a mixed comment because it acknowledges a common expectation without strong positive or negative sentiment.
+
+108| It looks good. Words are a bit small and hard to read though.|  0.65|  High|  This is mostly positive because it says "it looks good," but there is a small complaint about the words being hard to read.
+
+109| With only a few clicks and you had useful information|  0.80|  High|  This is a positive comment because it appreciates the efficiency of obtaining useful information.
+
+110| I was not expecting to get results that quickly. I just guessed on numbers and tried to make it realistic but it still only took me about two minutes to get an answer.|  0.75|  High|  This is a positive comment because it appreciates the quick and efficient results.
+
+111| It did not take long to get to the next question.|  0.80|  High|  This is a positive comment because it highlights the quick transition between questions.
+
+112| fast results|  0.85|  High|  This is a very positive comment because it appreciates the fast results.
+
+113| It didn't take a long time to load|  0.80|  High|  This is a positive comment because it appreciates the quick loading time.
+
+114| It ran very quickly.|  0.85|  High|  This is a very positive comment because it highlights the fast performance of the program.
+
+115| The system didn't lag or anything. I clicked the buttons that I needed to and it took me straight to my destination.|  0.85|  High|  This is a very positive comment because it appreciates the smooth and responsive performance of the system.
+
+116| The responses both forward back, help have quick responses that fall within an acceptable period of time.|  0.80|  High|  This is a positive comment because it highlights the quick and acceptable response times.
+
+117| Easily changed and navigated through.|  0.85|  High|  This is a very positive comment because it appreciates the ease of navigation and making changes.
+
+118| allows you to view multiple areas. not restricted to one.|  0.80|  High|  This is a positive comment because it highlights the flexibility in viewing multiple areas.
+
+119| Adaptable to user's needs.|  0.85|  High|  This is a very positive comment because it appreciates the adaptability of the program to user needs.
+
+120| Never seen anything like it before|  0.70|  High|  This is a positive comment because it suggests the program is unique and innovative.
+
+121| It was easy to use|  0.85|  High|  This is a very positive comment because it highlights the ease of use.
+
+122| Could not find the information I was looking for.|  0.30|  High|  This is a negative comment because it expresses frustration with not finding the needed information.
+
+123| It was frustrating to get all the percentages right|  0.35|  High|  This is a negative comment because it describes frustration with getting the percentages right.
+
+124| Just a cool program that could be very useful.|  0.80|  High|  This is a positive comment because it describes the program as cool and potentially very useful.
+
+125| I like the way the page was set up it said fun to me|  0.80|  High|  This is a positive comment because it appreciates the fun setup of the page.
+
+126| pictures were cool|  0.75|  High|  This is a positive comment because it appreciates the cool pictures.
+
+127| its fun to check those bugs|  0.75|  High|  This is a positive comment because it describes checking the bugs as fun.
+
+128| Good program|  0.85|  High|  This is a very positive comment because it praises the program overall.
+
+129| I thought that it presented a good product|  0.85|  High|  This is a very positive comment because it acknowledges the good presentation of the product.
+
+130| I did not understand what was to be done|  0.30|  High|  This is a negative comment because it expresses confusion about what needs to be done.
+
+131| interesting idea|  0.75|  High|  This is a positive comment because it acknowledges the interesting idea behind the program.
+
+132| I have no idea about grasshoppers|  0.50|  Medium|  This is a neutral comment because it simply states a lack of knowledge without expressing positive or negative feelings.
+
+133| Helps build on the expertise of individuals and provides alternatives based on individual situations.|  0.80|  High|  This is a positive comment because it appreciates the program's ability to build expertise and provide alternatives.
+
+134| The graphs and maps showed a good and detailed view of what the consumer would need to know.|  0.80|  High|  This is a positive comment because it appreciates the detailed view provided by the graphs and maps.
+
+135| Simple control panel, 'Help' button|  0.75|  High|  This is a positive comment because it appreciates the simple control panel and help button.
+
+136| useful for teaching|  0.80|  High|  This is a positive comment because it acknowledges the teaching usefulness of the program.
+
+137| Something that I've never seen before.|  0.70|  High|  This is a positive comment because it suggests the program is unique and innovative.
+
+138| You can tell.|  0.50|  Low|  This is a neutral comment because it is unclear what specific sentiment is being expressed.
+
+139| I didn't think it added any value|  0.30|  High|  This is a negative comment because it suggests the program did not add value.
+
+140| The overall appearance seems really old-fashioned.|  0.35|  High|  This is a negative comment because it criticizes the appearance as old-fashioned.
+
+141| the menu panel looks out of date|  0.30|  High|  This is a negative comment because it describes the menu panel as outdated.
+
+142| appeared as aged software|  0.30|  High|  This is a negative comment because it criticizes the software as appearing aged.
+
+143| Looks like it was made in the 80's|  0.30|  High|  This is a negative comment because it describes the program as looking very old.
+
+144| Looked like an old Atari game compared to newer software|  0.30|  High|  This is a negative comment because it criticizes the program as looking outdated like an old video game.
+
+145| Didn't really distinguish itself user wise.|  0.40|  High|  This is a slightly negative comment because it suggests the program did not stand out in terms of usability.
+
+146| It was definitely a matter of 1-2-3: in this order, we need this information, in order to reach this conclusion.|  0.70|  High|  This is a positive comment because it appreciates the clear and straightforward process.
+
+147| one question per-page, easy to follow|  0.80|  High|  This is a positive comment because it appreciates the simplicity and ease of following the questions.
+
+148| Very easy step by step process. Had a very logical flow.|  0.85|  High|  This is a very positive comment because it praises the logical and easy step-by-step process.
+
+149| easy to use because menus are easy to use and helpful|  0.85|  High|  This is a very positive comment because it highlights the ease of use and helpfulness of the menus.
+
+150| The software was organized in a way that was easy to use.|  0.85|  High|  This is a very positive comment because it appreciates the organization and ease of use.
+
+151| many questions and pictures|  0.70|  High|  This is a positive comment because it highlights the abundance of questions and pictures.
+
+152| The program had a natural flow and was well organized.|  0.80|  High|  This is a positive comment because it appreciates the natural flow and organization of the program.
+
+153| easy to use|  0.85|  High|  This is a very positive comment because it highlights the ease of use.
+
+154| Lots of information in a very small space|  0.75|  High|  This is a positive comment because it appreciates the efficiency of presenting lots of information in a small space.
+
+155| the wording was tough for me to read|  0.30|  High|  This is a negative comment because it describes difficulty in reading the wording.
+
+156| When I hit the why button it took me back to the beginning which was extremely annoying.|  0.20|  High|  This is a very negative comment because it describes an annoying experience with the "why" button.
+
+157| very simple, good content, poor design|  0.55|  High|  This is a mixed comment because it praises the simplicity and content but criticizes the design.
+
+158| Seems too basic and boring. It also seems crammed at the top of the page|  0.30|  High|  This is a negative comment because it describes the program as basic, boring, and poorly laid out.
+
+159| The way the program opens seems kind of goofy.|  0.35|  High|  This is a slightly negative comment because it criticizes the opening of the program.
+
+160| It looks good. Words are a bit small and hard to read though.|  0.65|  High|  This is mostly positive because it says "it looks good," but there is a small complaint about the words being hard to read.
+
+161| It wasn't filled with advertisements or useless pictures.|  0.80|  High|  This is a positive comment because it appreciates the lack of advertisements and useless pictures.
+
+162| Very professional 'speech'|  0.85|  High|  This is a very positive comment because it praises the professional tone of the content.
+
+163| well laid out|  0.80|  High|  This is a positive comment because it appreciates the layout of the program.
+
+164| It had a professional look.|  0.85|  High|  This is a very positive comment because it praises the professional appearance of the program.
+
+165| Sounds like author knew what he's talking about.|  0.75|  High|  This is a positive comment because it acknowledges the expertise of the author.
+
+166| I am not a farmer but I can see how this would help a farmer with a grasshopper infestation help understand it better so it can be more easily taken care of.|  0.75|  High|  This is a positive comment because it appreciates the usefulness of the program for farmers.
+
+167| Important tool for farmers and valuable resource.|  0.85|  High|  This is a very positive comment because it recognizes the program as an important tool and valuable resource for farmers.
+
+168| Seems easy to use and like it would really help a user to find the crop problems|  0.80|  High|  This is a positive comment because it highlights the ease of use and usefulness in identifying crop problems.
+
+169| Quick response time|  0.85|  High|  This is a very positive comment because it appreciates the quick response time.
+
+170| moves quickly from page to page|  0.80|  High|  This is a positive comment because it highlights the quick navigation between pages.
+
+171| on the spot results|  0.85|  High|  This is a very positive comment because it appreciates the immediate results.
+
+172| It provided a response to my input and when I clicked on 'Why' it had explanations for things.|  0.80|  High|  This is a positive comment because it appreciates the informative responses and explanations.
+
+173| The program didn't reroute me somewhere weird, didn't lag, and didn't crash when I clicked a button. Very responsive to my commands.|  0.85|  High|  This is a very positive comment because it highlights the stability and responsiveness of the program.
+
+174| It looks good. Words are a bit small and hard to read though.|  0.65|  High|  This is mostly positive because it says "it looks good," but there is a small complaint about the words being hard to read.
+
+175| questions were easy to understand.|  0.85|  High|  This is a very positive comment because it praises the clarity of the questions.
+
+176| Seems easy to use.|  0.80|  High|  This is a positive comment because it suggests the program is easy to use.
+
+177| Each button had a purpose and there wasn't too much on the page or too little.|  0.80|  High|  This is a positive comment because it appreciates the balanced and purposeful layout of the buttons.
+
+178| It is easy to use.|  0.85|  High|  This is a very positive comment because it highlights the ease of use.
+
+179| Was very easy to use. Even those who are not really computer savvy will be able to figure it out.|  0.85|  High|  This is a very positive comment because it emphasizes the ease of use for all users, including those not computer savvy.
+
+180| easy to use|  0.85|  High|  This is a very positive comment because it highlights the ease of use.
+
+181| There was no extra stuff that got in the way.|  0.80|  High|  This is a positive comment because it appreciates the lack of unnecessary distractions.
+
+182| user friendly|  0.85|  High|  This is a very positive comment because it describes the program as user-friendly.
+
+183| Simple artwork, buttons clear and easy to click on|  0.80|  High|  This is a positive comment because it appreciates the simplicity and clarity of the artwork and buttons.
+
+184| seemed straightforward and able to gain the help and knowledge one needed|  0.80|  High|  This is a positive comment because it highlights the straightforwardness and usefulness of the program.
+
+185| I really, really do not like the font chosen. It looked like it was thrown together pretty quickly.|  0.25|  High|  This is a negative comment because it criticizes the font choice and the appearance of being quickly thrown together.
+
+186| Again, easy to use and I understood immediately what I needed to do.|  0.85|  High|  This is a very positive comment because it emphasizes the ease of use and clarity.
+
+187| information was not jumbled on the page|  0.80|  High|  This is a positive comment because it appreciates the clear layout of information.
+
+188| Just clicking on buttons to see information.|  0.75|  High|  This is a positive comment because it describes the simplicity of accessing information.
+
+189| Not very engaging|  0.30|  High|  This is a negative comment because it describes the program as not very engaging.
+
+190| Questions were easy to understand, layout simple.|  0.80|  High|  This is a positive comment because it appreciates the clarity of the questions and the simplicity of the layout.
+
+191| easy to use. not a lot of buttons|  0.80|  High|  This is a positive comment because it highlights the ease of use and the simplicity of having not many buttons.
+
+192| Interesting way to evaluate a problem, even for people who are not typically involved in pest control (such as myself).|  0.75|  High|  This is a positive comment because it appreciates the interesting evaluation method even for those not involved in pest control.
+
+193| I'm not sure, not being an entomologist or farmer/rancher, how applicable this information is. I think it may be available from one's local extension agent. However, despite that it was very clear: gather and input your specific information to receive customized results, and if you have any questions the answers to at least the basic questions are available.|  0.65|  Medium|  This is a mixed comment because it acknowledges clarity and usefulness despite some uncertainty about applicability.
+
+194| very direct questions, easy to understand|  0.85|  High|  This is a very positive comment because it praises the clarity and directness of the questions.
+
+195| Got to the point; not cluttered.|  0.80|  High|  This is a positive comment because it appreciates the straightforward and uncluttered nature of the program.
+
+196| Questions were direct and gave good choices for answers.|  0.80|  High|  This is a positive comment because it praises the directness of the questions and the quality of the answer choices.
+
+197| Seems easy to use.|  0.80|  High|  This is a positive comment because it suggests the program is easy to use.
+
+198| Gets to the point in an informative manner.|  0.80|  High|  This is a positive comment because it appreciates the straightforward and informative approach.
+
+199| Presents information in an understandable and effective manner.|  0.80|  High|  This is a positive comment because it praises the clarity and effectiveness of the information presentation.
+
+200| self explanatory|  0.85|  High|  This is a very positive comment because it suggests the program is easy to understand without additional explanations.
+
+Continuing with the remaining lines in the document:
+
+201| Does not ask questions that lead nowhere|  0.80|  High|  This is a positive comment because it appreciates the relevance and direction of the questions.
+
+202| The instructions were very clear.|  0.85|  High|  This is a very positive comment because it praises the clarity of the instructions.
+
+203| Seems easy enough to understand.|  0.75|  High|  This is a positive comment because it suggests the program is easy to understand.
+
+204| The directions were simple and easy to understand.|  0.85|  High|  This is a very positive comment because it praises the simplicity and clarity of the directions.
+
+205| Questions were easy to understand.|  0.85|  High|  This is a very positive comment because it praises the clarity of the questions.
+
+206| Easy to understand statements and questions|  0.85|  High|  This is a very positive comment because it highlights the clarity of the statements and questions.
+
+207| Understandable|  0.80|  High|  This is a positive comment because it describes the program as understandable.
+
+208| It gives you options on a step by step basis|  0.80|  High|  This is a positive comment because it appreciates the step-by-step options provided.
+
+209| goes through all the stages in chronological order|  0.80|  High|  This is a positive comment because it appreciates the chronological order of the stages.
+
+210| Consider refining the program-develop a more advanced and intuitive interface.|  0.45|  High|  This is slightly negative because it suggests the need for interface improvements.
+
+211| There are many steps and knowledge needed beforehand in order to answer all questions. If I knew all the info needed beforehand, I would have spent much less time figuring out what was needed.|  0.45|  High|  This is slightly negative because it describes the program as requiring a lot of prior knowledge and steps.
+
+212| The time it takes to look at different grasshoppers would take a while.|  0.40|  High|  This is a slightly negative comment because it mentions that looking at different grasshoppers takes time.
+
+213| took a while|  0.35|  High|  This is a negative comment because it describes the program as time-consuming.
+
+214| Repetitive clicking from it being so customizable|  0.45|  High|  This is slightly negative because it criticizes the repetitive clicking due to customization.
+
+215| Time-saving for those who need to figure quickly.|  0.80|  High|  This is a positive comment because it highlights the time-saving aspect for quick figuring.
+
+216| It is workable|  0.70|  High|  This is a positive comment because it describes the program as workable.
+
+217| not for people who don't understand about grasshoppers|  0.40|  High|  This is a slightly negative comment because it suggests the program is not suitable for those without grasshopper knowledge.
+
+218| need to perform some study and know grasshopper terms ahead of time|  0.45|  High|  This is slightly negative because it suggests the need for prior study and knowledge of grasshopper terms.
+
+219| May be too technical in some of the terminology for the lay person. For example, the things behind their heads, the pictures looked way too much alike.|  0.40|  High|  This is a slightly negative comment because it describes the terminology and pictures as too technical and similar.
+
+220| believe is accurate|  0.70|  Medium|  This is a positive comment because it suggests confidence in the accuracy of the program.
+
+221| the figures were not very good looking|  0.35|  High|  This is a negative comment because it criticizes the appearance of the figures.
+
+222| program seemed dated|  0.30|  High|  This is a negative comment because it describes the program as outdated.
+
+223| I really do not like the font chosen.|  0.30|  High|  This is a negative comment because it criticizes the font choice.
+
+224| It just needs some pizzazz|  0.45|  High|  This is slightly negative because it suggests the program needs more excitement or flair.
+
+225| The look was very old school|  0.35|  High|  This is a negative comment because it describes the look as very old-fashioned.
+
+226| Type/font was hard to read|  0.30|  High|  This is a negative comment because it criticizes the readability of the type/font.
+
+227| boring color scheme|  0.30|  High|  This is a negative comment because it describes the color scheme as boring.
+
+228| When putting in acres it goes from 1 to 101 acres which may be frustrating for people who have small acreages.|  0.40|  High|  This is a slightly negative comment because it describes a potential frustration with the acre input range.
+
+229| Even though the language was specialized for the content, it was well within the range of the ordinary user. Any time I was unclear about what something meant or why it was necessary, one of the options at the bottom explained it to me.|  0.75|  High|  This is a positive comment because it appreciates the clarity and explanations provided by the program.
+
+230| It was straightforward and asked you exactly what it wanted.|  0.80|  High|  This is a positive comment because it appreciates the straightforwardness of the questions.
+
+231| The questions were easy to understand.|  0.85|  High|  This is a very positive comment because it praises the clarity of the questions.
+
+232| Easy to use, not too complex or difficult to grasp.|  0.85|  High|  This is a very positive comment because it highlights the ease of use and simplicity.
+
+233| Not too complex or technical; not difficult to grasp.|  0.85|  High|  This is a very positive comment because it emphasizes the lack of complexity and technicality.
+
+234| I could understand what it was trying to do, but didn't understand why I was asked to do it when I do not have crops or rangeland.|  0.55|  Medium|  This is a mixed comment because it acknowledges understanding the purpose but questions its relevance.
+
+235| Explains how to use fairly well.|  0.75|  High|  This is a positive comment because it appreciates the clarity of the explanations.
+
+236| Easy to understand the process.|  0.85|  High|  This is a very positive comment because it highlights the ease of understanding the process.
+
+237| Java applet is very simple.|  0.70|  High|  This is a positive comment because it appreciates the simplicity of the Java applet.
+
+238| Easy to use; didn't need any special instructions.|  0.85|  High|  This is a very positive comment because it emphasizes the ease of use without needing special instructions.
+
+239| The program was usable and provided information on whether or not a grasshopper infestation existed.|  0.80|  High|  This is a positive comment because it appreciates the usability and the information provided.
+
+240| Much like clean. Very simple to use and understand.|  0.85|  High|  This is a very positive comment because it highlights the simplicity and ease of use.
+
+241| was well organized|  0.80|  High|  This is a positive comment because it appreciates the organization of the program.
+
+242| simple to follow and easy to use|  0.85|  High|  This is a very positive comment because it highlights the simplicity and ease of use.
+
+243| I thought that this was a very usable tool|  0.85|  High|  This is a very positive comment because it praises the usability of the tool.
+
+244| It was very user friendly and easy to understand.|  0.85|  High|  This is a very positive comment because it highlights the user-friendliness and clarity.
+
+245| This provides solutions based on your specific issues, how to find out what you are dealing with and how to fix your problem.|  0.80|  High|  This is a positive comment because it appreciates the problem-solving capability of the program.
+
+246| To me personally, it wasn't, but on a bigger scale it would be very useful.|  0.60|  Medium|  This is a mixed comment because it acknowledges the usefulness on a bigger scale despite personal irrelevance.
+
+247| I liked how many different things were on there for me to use|  0.80|  High|  This is a positive comment because it appreciates the variety of features available.
+
+248| I think so for farmers who might have this type of problem|  0.75|  High|  This is a positive comment because it acknowledges the usefulness for farmers with this problem.
+
+249| I could see that this would be a very easy and helpful way for farmers, for example, to notify of a grasshopper infestation.|  0.80|  High|  This is a positive comment because it highlights the ease and helpfulness for farmers to notify infestations.
+
+250| Will come in handy for those wanting to know why the grasshoppers have broken out on their property.|  0.75|  High|  This is a positive comment because it acknowledges the usefulness for identifying grasshopper outbreaks.
+
+251| Provided information on whether the area has a grasshopper outbreak based on the information you give|  0.80|  High|  This is a positive comment because it appreciates the information provided based on input.
+
+252| All the information was there that I needed depending on what I was trying to access. There was enough information there to help me with my grasshopper situation.|  0.80|  High|  This is a positive comment because it highlights the sufficiency of information for addressing the grasshopper situation.
+
+253| Seems like it would be useful to farmers.|  0.75|  High|  This is a positive comment because it acknowledges the usefulness for farmers.
+
+254| Useful for general knowledge base.|  0.75|  High|  This is a positive comment because it recognizes the usefulness for general knowledge.
+
+255| Contains the correct information.|  0.80|  High|  This is a positive comment because it appreciates the accuracy of the information.
+
+256| for weather stations|  0.60|  Medium|  This is a slightly positive comment because it suggests applicability for weather stations.
+
+257| For a user experienced with grasshoppers it appears to be of little to no value, the information, pictures may still be useful however.|  0.55|  High|  This is a mixed comment because it acknowledges limited value for experienced users but usefulness of information and pictures.
+
+258| The maps are vague, needs landmarks|  0.40|  High|  This is a slightly negative comment because it criticizes the maps as vague and lacking landmarks.

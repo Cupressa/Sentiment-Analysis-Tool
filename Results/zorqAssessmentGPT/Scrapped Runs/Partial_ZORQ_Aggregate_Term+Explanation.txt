@@ -1,0 +1,333 @@
+﻿
+1,```csv
+Original score,Adjusted score,Confidence,Explanation
+0.80,0.80,high,"'Accessible' is generally a positive term indicating ease of use or approachability."
+0.90,0.90,high,"'Fun' is a highly positive term typically associated with enjoyment or pleasure."
+0.85,0.85,high,"'Stimulating' is a positive term, suggesting something engaging or thought-provoking."
+0.70,0.70,high,"'Straight forward' tends to be positive, denoting simplicity or clarity."
+0.40,0.40,high,"'Time-consuming' has a more neutral to negative connotation, indicating something that takes a lot of time."
+```
+2,```csv
+original_score,adjusted_score,confidence,explanation
+0.85,0.85,high,"The word 'Accessible' suggests ease of understanding and familiarity, which creates a positive sentiment."
+0.90,0.90,high,"The word 'Appealing' indicates an enjoyable change and unconventionality, both of which invoke a positive sentiment."
+0.95,0.95,high,"The word 'Fun' implies enjoyment and positive experiences related to autonomy and class interactions."
+0.88,0.88,high,"The word 'Inviting' relates to excitement and competitiveness, drawing a positive association with motivation and engagement."
+0.92,0.92,high,"The word 'Stimulating' conveys interest and engagement, leading to a highly positive sentiment related to the project."
+```
+3,```csv
+0.85,0.85,high,The term 'Customizable' denotes flexibility and personalization, which generally carries positive connotations as it offers individuals the ability to tailor something to their specific needs or desires.
+0.75,0.75,high,The term 'Personal' also carries positive connotations, implying a sense of individuality and unique expression which are typically valued in academic and competitive contexts.
+0.90,0.90,high,The term 'Stimulating' is highly positive as it suggests engagement, excitement, and mental activation, which are desirable in educational settings.
+0.80,0.80,high,The term 'Unconventional' carries a positive undertone as it suggests innovation and breaking away from the norm, making activities more interesting and engaging.
+0.65,0.65,high,The term 'Unpredictable' can have mixed connotations. While it may add an element of excitement, it also introduces uncertainty and could lead to anxiety or inconsistency in outcomes.
+```
+4,```csv
+0.78,0.78,high,"Accessible implies ease of understanding; overall positive but indicates some complexity."
+0.84,0.84,high,"Comprehensive shows thoroughness and completeness; high positive sentiment indicating usefulness."
+0.92,0.92,high,"Fun suggests high enjoyment and positivity; very favorable sentiment."
+0.88,0.88,high,"Useful denotes practicality and benefit, indicating a high positive sentiment level."
+0.87,0.88,high,"Valuable carries a similar connotation to 'Useful,' indicating high importance and benefit with positive sentiment."
+```
+5,```csv
+original score,adjusted score,confidence,explanation
+0.92,0.92,high,"Overall, the words selected are positive or neutral, reflecting appealing, customizable, fun, simplistic, and unpredictable aspects, which generally convey positive sentiments with slight variance."
+```
+6,```csv
+Original Score,Adjusted Score,Confidence,Explanation
+0.30,0.30,High,The words chosen describe complex and negative experiences with learning and using a tool, reflecting frustration, difficulty, stress, and time consumption.
+```
+7,```csv
+0.90,0.90,high,The words indicate a highly positive experience with the project and learning outcomes.
+0.80,0.80,high,The word 'Relevant' suggests the project was closely aligned with the course material, implying a positive sentiment.
+0.85,0.85,high,The word 'Stimulating' with the explanation suggests an engaging and inspiring experience.
+0.88,0.88,high,The word 'Useful' and its context reflect a positive learning experience.
+0.89,0.89,high,The term 'Valuable' indicates a forward-looking positive sentiment regarding the benefits of the project.
+```
+8,```csv
+original score,adjusted score,confidence,explanation
+0.80,0.80,high,"Comprehensive: This suggests thoroughness and inclusion of various elements, which is positive."
+0.85,0.85,high,"Customizable: Being able to choose features implies flexibility and personalization, which is positive."
+0.90,0.90,high,"Exciting: Indicates a high level of engagement and interest, which is very positive."
+0.85,0.85,high,"Fun: Indicates enjoyment and pleasure, which is a positive sentiment."
+0.90,0.90,high,"Valuable: Indicates that the experience was of significant worth, which is a strong positive sentiment."
+```
+9,```csv
+original_score,adjusted_score,confidence,explanation
+0.40,0.40,medium,Complex implies difficulty and effort required.
+0.70,0.75,high,Comprehensive suggests thoroughness and inclusion of learnt material, a slightly positive undertone.
+0.30,0.25,high,Confusing communicates a more negative feeling correlated with 'Complex.'
+0.80,0.85,high,Fun indicates enjoyment and engagement despite initial difficulties.
+0.45,0.40,high,Time-consuming suggests a negative sentiment due to the extensive time required, but also an understanding of the process.
+```
+10,```csv
+original score,adjusted score,confidence,explanation
+0.80,0.80,high,"Collaborative has a positive connotation, suggesting a cooperative and productive environment."
+0.40,0.40,high,"Complex is neutral to slightly negative; while it may suggest depth, it often implies difficulty and can be overwhelming."
+0.20,0.20,high,"Intimidating is negative; it suggests fear or apprehension about the task at hand."
+0.70,0.70,high,"Relevant has a positive connotation, indicating the task's applicability and interest among students."
+0.90,0.90,high,"Stimulating is very positive, suggesting that the task is engaging and intellectually challenging."
+```
+11,```csv
+original_score,adjusted_score,confidence,explanation
+0.85,0.85,high,"Customizable indicates flexibility and positive control over the situation."
+0.90,0.90,high,"Empowering shows personal growth, confidence, and positive emotional development."
+0.30,0.30,high,"Overwhelming reflects initial difficulty and a sense of being lost, indicating negative sentiment."
+0.80,0.80,high,"Stimulating implies intellectual challenge and engagement, which is generally positive."
+0.88,0.88,high,"Valuable signifies practical learning and usefulness, reflecting a highly positive sentiment."
+```
+12,```csv
+original score,adjusted score,confidence,explanation
+0.85,0.85,high,Words like "Appealing," "Desirable," "Exciting," "Fun," and "Valuable" all carry positive connotations suggesting high approval or positive engagement.
+```
+13,0.95,0.95,high,"The words 'Collaborative', 'Comprehensive', 'Fun', 'Relevant', and 'Stimulating' all have strong positive connotations. They suggest positive emotions and beneficial attributes, indicating content that is engaging, thorough, enjoyable, and pertinent."
+14,```csv
+original_score,adjusted_score,confidence,explanation
+0.85,0.85,high,"Customizable: Implies flexibility and autonomy, which are generally positive aspects."
+0.90,0.90,high,"Fresh: Denotes novelty and excitement, contributing to a positive sentiment."
+0.95,0.95,high,"Fun: Clearly conveys enjoyment and pleasure, which are highly positive."
+0.90,0.90,high,"Motivating: Motivation is a positive attribute that enhances efforts and achievements."
+0.85,0.85,high,"Stimulating: Indicates intellectual engagement and challenge, which are positive aspects."
+```
+15,```csv
+original score,adjusted score,confidence,explanation
+0.75,0.75,high,"Connected generally has a positive connotation suggesting unity or association."
+0.80,0.80,high,"Customizable connotes flexibility and personalization, which are often seen as positive traits."
+0.30,0.30,high,"Overwhelming suggests being overpowered or burdened, which has a more negative connotation."
+0.40,0.40,high,"Unpredictable implies uncertainty or lack of control, often a negative trait."
+0.85,0.85,high,"Valuable implies worth or usefulness, which is highly positive."
+```
+16,Original Score,Adjusted Score,Confidence,Explanation
+0.75,0.75,high,"The provided words like 'Complex', 'Fun', 'Motivating', 'Relevant', and 'Stimulating' all have positive or neutral connotations, contributing to an overall positive sentiment. There were no explanations given, so the adjusted score remains the same as the original score."
+
+17,```csv
+original score,adjusted score,confidence,explanation
+0.78,0.78,high,"Accessible suggests that the project was easy to understand, possibly positive for beginners."
+0.85,0.85,high,"Fun indicates enjoyment and positive engagement in the project."
+0.80,0.80,high,"Relevant suggests that the project had meaningful connections to real-world applications, positively contributing to future work."
+0.90,0.90,high,"Stimulating suggests that the project was intellectually engaging and challenging, a positive experience."
+0.88,0.88,high,"Valuable indicates that the project was seen as worthwhile and beneficial, contributing positively to the learning experience."
+```
+18,```csv
+Original Score, Adjusted Score, Confidence, Explanation
+0.80, 0.80, high, The term "Complex" suggests a positive challenge that can be intellectually stimulating and rewarding.
+0.90, 0.90, high, "Connected" indicates ease and success in integration, suggesting a positive and seamless experience.
+0.95, 0.95, high, "Exciting" expresses strong positive emotion related to engagement and enthusiasm.
+0.85, 0.85, high, "Usable" reflects ease of use and accessibility, which connotes a positive user experience.
+0.88, 0.88, high, "Valuable" underscores the practical benefits and relevance, enhancing the perceived worth of the experience.
+```
+19,```csv
+Original Score,Adjusted Score,Confidence,Explanation
+0.80,0.80,high,The word "Appealing" denotes something attractive or interesting, and the explanation emphasizes the excitement and strategy involved in the learning process.
+0.75,0.75,high,"Customizable" suggests flexibility and personalization, with the explanation highlighting the uniqueness of each student's approach.
+0.85,0.85,high,"Fun" conveys enjoyment, and the explanation shows the learner's positive experience with the project despite the technical work involved.
+0.90,0.90,high,"Motivating" indicates incentive and drive, and the explanation relates this to the competitive aspects of the project, adding to a sense of challenge and accomplishment.
+0.85,0.85,high,"Stimulating" means intellectually exciting, and the explanation corroborates this by describing an engaging and deep learning experience.
+```
+20,```csv
+0.60,0.70,high,"The sentiment is mixed but leans towards the positive side. 'Comprehensive' and 'Stimulating' indicate engagement and learning, while 'Intimidating,' 'Stressful,' and 'Unpredictable' denote challenges faced. The explanations, however, highlight resolution of issues and skill acquisition, which adjusts the score positively."
+```
+21,```csv
+original score,adjusted score,confidence,explanation
+0.90,0.90,high,All words generally elicit positive sentiments related to usability, adaptability, and integration which relate to positive user experience and satisfaction.
+```
+22,```csv
+original_score,adjusted_score,confidence,explanation
+0.54,0.54,high,"'Complex' suggests a somewhat neutral to slightly negative feeling."
+0.78,0.78,high,"'Exciting' carries a positive sentiment related to the first-time experience."
+0.83,0.83,high,"'Fun' denotes a positive sentiment especially with the mention of enjoyment and competition."
+0.32,0.32,high,"'Overwhelming' indicates a negative sentiment, reflecting difficulty and a wish for more guidance."
+0.75,0.75,high,"'Useful' carries a positive sentiment because the skills learned are recognized as important."
+```
+23,```csv
+original_score,adjusted_score,confidence,explanation
+0.80,0.80,high,Collaborative experience that fosters teamwork and problem-solving.
+0.50,0.50,high,Acknowledges the difficulty and scale but is neutral in emotional impact.
+0.90,0.90,high,Positive sentiment due to enjoyment and engagement in the activity.
+0.30,0.40,high,Although frustrating, there’s an element of engagement that enhances the overall experience.
+0.75,0.80,high,Perceived as highly rewarding and applicable, offers substantial value to students.
+```
+24,```csv
+original score,adjusted score,confidence,explanation
+0.85,0.85,high,All chosen words are positive and evoke a sense of engagement, interest, and cooperation, indicating a high positive sentiment.
+```
+25,```csv
+original score,adjusted score,confidence,explanation
+0.50,0.50,medium,"The term 'Complex' is neutral and can imply sophistication or difficulty without additional context."
+0.30,0.30,medium,"'Confusing' carries a somewhat negative connotation, suggesting a lack of clarity."
+0.70,0.70,medium,"'Consistent' has a positive connotation, indicating reliability and stability."
+0.20,0.20,medium,"'Overwhelming' has a negative connotation, implying too much to handle or stress."
+0.80,0.80,medium,"'Useful' carries a positive connotation, indicating functionality and benefit."
+```
+26,```csv
+original_score,adjusted_score,confidence,explanation
+0.80,0.80,high,"The word 'Accessible' suggests inclusivity and success in a collective setting."
+0.85,0.90,high,"'Appealing' indicates enjoyment and engagement; this is emphasized by the fun, gamified approach."
+0.75,0.75,medium,"'Collaborative' points to teamwork and shared effort, but no specific sentiment strength noted."
+0.70,0.75,medium,"'Desirable' suggests a positive reaction towards competition; slightly stronger sentiment inferred."
+0.80,0.85,high,"'Stimulating' indicates a positive challenge that invokes creativity; explanation reinforces a positive sentiment."
+```
+27,```csv
+original score,adjusted score,confidence,explanation
+0.90,0.90,high,All the words chosen have positive connotations, suggesting productivity, teamwork, motivation, structure, and appropriateness.
+```
+28,```csv
+original_score,adjusted_score,confidence,explanation
+0.90,0.90,high,The word "Appealing" and explanation suggest a strong positive sentiment towards the task as enjoyable and interesting.
+0.85,0.85,high,The word "Motivating" and explanation show a highly positive sentiment fueled by ambition and dedication.
+0.80,0.80,high,The word "Relevant" and explanation indicate a positive sentiment towards the practical and applicable nature of the task.
+0.40,0.70,medium,The word "Time-consuming" has a negative connotation. However, the explanation added a positive spin, indicating the task was worthwhile.
+0.75,0.75,high,The word "Useful" and explanation highlight the task's practical benefits, expressing a positive sentiment.
+```
+29,```csv
+original score,adjusted score,confidence,explanation
+0.80,0.80,high,All words have positive connotations, suggesting high adaptability, enjoyment, encouragement, intellectual engagement, and worth.
+```
+30,```csv
+original score,adjusted score,confidence,explanation
+0.30,0.30,high,"'Intimidating' generally elicits feelings of fear or anxiety."
+0.85,0.85,high,"'Motivating' typically brings about positive feelings of encouragement and inspiration."
+0.40,0.40,high,"'Overwhelming' tends to evoke negative emotions of being overburdened or stressed."
+0.80,0.80,high,"'Stimulating' usually has positive connotations, suggesting excitement and engagement."
+0.90,0.90,high,"'Usable' evokes practical and positive feelings of utility and functionality."
+```
+31,```csv
+original_score,adjusted_score,confidence,explanation
+0.80,0.80,high,"Collaborative indicates a sentiment that leans towards cooperation and working well together, which is generally positive."
+0.20,0.20,high,"Frustrating suggests a negative feeling of annoyance or distress."
+0.90,0.90,high,"Fun reflects a strong positive sentiment related to enjoyment and pleasure."
+0.30,0.30,high,"Time-consuming conveys a negative connotation as it implies spending a lot of time potentially on tasks that could be viewed as tedious."
+0.50,0.50,high,"Unpredictable has a neutral to slightly negative sentiment, indicating something that lacks stability or certainty."
+```
+32,```csv
+original_score,adjusted_score,confidence,explanation
+0.60,0.60,high,"'Complex' implies there are a lot of elements, interpretation can vary, but it's generally neutral."
+0.70,0.75,high,"'Comprehensive' is positive as it indicates thoroughness, the explanation strengthens the positivity by highlighting the encapsulation of different concepts."
+0.65,0.65,high,"'Organized' is positive, reflecting order and structure, the explanation supports this by noting visibility and accessibility."
+0.30,0.25,high,"'Overwhelming' is negative, indicating excessive difficulty; the explanation reinforces the difficulty and the hectic situation."
+0.55,0.65,high,"'Usable' is positive, indicating functionality, the explanation adds a slight positive by acknowledging good commenting and partitioning despite some difficulty."
+```
+33,```csv
+original score,adjusted score,confidence,explanation
+0.86,0.86,high,The words reflect positive sentiments overall, tied to pleasant, engaging, and meaningful experiences in the context of teamwork and projects.
+```
+34,```csv
+original score,adjusted score,confidence,explanation
+0.80,0.80,high,"'Customizable' has a generally positive sentiment, suggesting flexibility and adaptability in use."
+0.90,0.90,high,"'Exciting' conveys strong positive emotions of enthusiasm and engagement."
+0.20,0.30,high,"'Frustrating' bears a negative sentiment, implying challenges and difficulties; however, it's explained that it encourages thoughtful engagement."
+0.85,0.85,high,"'High quality' indicates a positive sentiment, reflecting a well-made and user-friendly experience."
+0.75,0.75,high,"'Stimulating' is positive and emphasizes intellectual engagement and interest."
+```
+35,```csv
+original_score,adjusted_score,confidence,explanation
+0.30,0.30,high,The phrase "Gets in the way" has a negative connotation as it implies an obstruction or hindrance, especially towards mental health and other stresses.
+0.10,0.10,high,"Intimidating" expresses fear and a lack of motivation, which gives it a strongly negative sentiment.
+0.15,0.20,medium,"Not valuable" has a negative connotation overall, but the experience with computer programming in a work environment brings in a slight positive aspect, leading to a slight adjustment.
+0.20,0.20,high,"Overwhelming" indicates a strong negative feeling of frustration and difficulty, particularly due to the complexity of understanding existing code.
+0.05,0.05,high,"Stressful" is a very negative term, especially when expanded upon with details of tears, fear, and lack of motivation, showcasing high stress and emotional toll.
+```
+36,Original Score,Adjusted Score,Confidence,Explanation
+0.75,0.75,High,"The word 'Accessible' is generally positive as it indicates that the task was approachable and within reach."
+0.90,0.90,High,"'Fresh' is highly positive, indicating novelty and enjoyment. The explanation supports the positive sentiment by expressing enjoyment of the competitive challenge."
+0.95,0.95,High,"'Fun' is a very positive term and the explanation reinforces this by indicating high engagement and enjoyment."
+0.85,0.85,High,"'Stimulating' is positive, denoting a mentally engaging experience. The justification ties it to the previous point about fun and engagement, reinforcing its positive nature."
+0.80,0.80,High,"'Valuable' is positive, signifying worth and significance. The explanation notes that it was an entertaining and educational application, making the term more meaningful."
+
+
+37,```csv
+original score,adjusted score,confidence,explanation
+0.90,0.90,high,"'Appealing' has a positive sentiment, indicating excitement and interest."
+0.40,0.30,high,"'Complex' typically has a neutral to slightly negative sentiment due to lack of experience mentioned in the context."
+0.85,0.85,high,"'Fun' has a positive sentiment and indicates enjoyment in solving problems."
+0.25,0.35,high,"'Intimidating' usually has a negative sentiment, but the explanation shows the sentiment improves as the task becomes simpler."
+0.95,0.95,high,"'Motivating' is highly positive, indicating a strong drive and excitement about the possibility of coding video games."
+```
+38,```csv
+original score,adjusted score,confidence,explanation
+0.80,0.80,high,"The words used generally convey positive aspects related to user experience, ease, and enjoyment. 'Easy to use', 'Flexible', 'Fun', 'Simplistic', and 'Usable' all contribute to a welcoming and user-friendly tone."
+```
+39,```csv
+original score,adjusted score,confidence,explanation
+0.85,0.85,high,"The words 'Exciting', 'Fun', 'Motivating', 'Stimulating', and 'Valuable' all carry positive connotations. They describe experiences or qualities that are likely to be perceived positively."
+```
+40,```csv
+original score,adjusted score,confidence,explanation
+0.85,0.85,medium,"'Exciting' conveys a high level of positivity, with an enthusiastic tone. 'I like final game' supports this with a positive attitude toward the final game."
+0.70,0.70,low,"'Fun' generally denotes a positive experience. However, the accompanying explanation is confusing and might imply some underlying stress or concern about studies."
+0.30,0.30,medium,"'Gets in the way' suggests something is hindering or obstructing, which carries a negative sentiment."
+0.90,0.90,high,"'High quality' indicates a very positive assessment, signifying something is of great value or standard."
+0.80,0.80,medium,"'Usable' is a positive term indicating practicality and functionality although not as strongly positive as 'High quality'."
+```
+41,```csv
+Original Score,Adjusted Score,Confidence,Explanation
+0.50,0.50,medium,The word "Complex" indicates neutrality as it highlights a need for improvement without strong emotion.
+0.80,0.80,medium,"Stimulating" denotes a high level of interest and excitement, suggesting a positive sentiment.
+0.70,0.70,medium,"Straight forward" indicates clarity and simplicity, reflecting a fairly positive experience.
+0.60,0.60,medium,"Usable" suggests functionality and practicality, though its sentiment is somewhat neutral to slightly positive.
+0.90,0.90,medium,"Valuable" shows a strong positive emotion owing to the learning experience and its importance.
+```
+42,```csv
+original score,adjusted score,confidence,explanation
+0.80,0.80,high,"'Fun' suggests a positive experience, contributing positively to sentiment."
+0.30,0.30,medium,"'Hard to use' implies a negative experience, deterring usability and satisfaction."
+0.40,0.40,high,"'Slow' indicates inefficiency and possible frustration, lowering sentiment slightly."
+0.20,0.20,medium,"'Uncontrollable' signifies a significant drawback or issue, contributing negatively to sentiment."
+0.50,0.50,high,"'Unconventional' can be neutral; it doesn't imply a definitive positive or negative, but may not adhere to usual expectations, thus a neutral score."
+```
+43,```csv
+original_score,adjusted_score,confidence,explanation
+0.90,0.90,high,"'Comprehensive' indicates a thorough and complete nature in learning, which is highly positive."
+0.80,0.80,high,"'Easy to use' implies user-friendliness, which is a very positive trait."
+0.85,0.85,high,"'Stimulating' suggests it engages and challenges the user, which is positive."
+0.75,0.75,high,"'Straight forward,' although slightly less enthusiastic, still carries a positive connotation of simplicity and clarity."
+0.50,0.60,high,"'Time-consuming,' while having a potentially negative connotation, is mitigated by the explanation that it isn't necessarily a bad thing."
+```
+44,```csv
+Original score,Adjusted score,Confidence,Explanation
+0.90,0.90,high,"'Customizable' and 'Lots of different ways to make the ship' indicate a highly positive sentiment, emphasizing flexibility and creativity."
+0.85,0.85,high,"'Fresh' and 'I've never done something like this before' convey a positive sentiment tied to novelty and new experiences."
+0.95,0.95,high,"'Fun' and 'I had a lot of fun doing the project' strongly reflect an enjoyable and positive experience."
+0.90,0.90,high,"'Stimulating' and 'I had to really think and the project stimulated the mind' indicate a positive sentiment related to mental engagement and challenge."
+0.40,0.40,high,"'Time-consuming' and 'The project took a lot of time even though I had fun with it' presents a mix of sentiment, with the focus on the potential downside of taking a lot of time mitigating the overall positive experience."
+```
+45,```csv
+original score,adjusted score,confidence,explanation
+0.85,0.85,high,"Most of the words and explanations share a common positive sentiment related to ease of use, enjoyment, invitation, organization, and even the benefits of an unconventional approach. This suggests a strongly positive sentiment."
+```
+46,```csv
+original score,adjusted score,confidence,explanation
+0.90,0.90,high,The word "Exciting" conveys strong positive sentiment, supported by the positive context of enjoying learning and having fun.
+0.85,0.85,high,"High quality" suggests positive sentiment, particularly in the sophisticated and updated work by Dr. Hastings, despite the repetitive assignments.
+0.40,0.40,high,"Intimidating" carries a negative sentiment, reinforced by the overwhelming feeling described in the explanation regarding difficulty in tracking classes.
+0.70,0.70,high,"Straight forward" indicates a positive sentiment but is somewhat less intense; interested in newer applications indicates a desire for improvement rather than dissatisfaction.
+0.80,0.80,high,"Useful" conveys a positive sentiment, particularly emphasizing the practicality and benefit of continuous practice that aids memory and learning.
+```
+47,```csv
+original score,adjusted score,confidence,explanation
+0.95,0.95,high,"The word 'Exciting' and the explanation convey a high positive sentiment due to the satisfaction and morale boost from successful feature implementation."
+0.30,0.30,high,"The word 'Intimidating' and the explanation convey a low positive sentiment as it recognizes the initial challenge and fear upon encountering overwhelming code."
+0.85,0.85,high,"The word 'Motivating' and the explanation convey a high positive sentiment due to the rewarding feeling and continued drive to work."
+0.40,0.40,high,"The word 'Time-consuming' and the explanation convey a neutral to slightly negative sentiment due to the mention of a significant time commitment."
+0.75,0.75,high,"The word 'Useful' and the explanation convey a moderately positive sentiment due to the acknowledgment of the usefulness and creativity required in a dynamic coding environment."
+```
+48,```csv
+Original Score,Adjusted Score,Confidence,Explanation
+0.81,0.81,High,"Comprehensive" conveys a positive sentiment, emphasizing diversity and completeness in addressing topics.
+0.92,0.92,High,"Exciting" denotes significant positive engagement and enjoyment, indicating strong enthusiasm.
+0.95,0.95,High,"Fun" implies a high level of enjoyment and positive emotion, representing a very strong positive sentiment.
+0.76,0.76,High,"Straight forward" indicates ease and simplicity, which generally conveys a positive sentiment but not as strong as the other words.
+0.84,0.84,High,"Unconventional" suggests a novel and unique experience, which is interpreted positively in this context.
+```
+49,```csv
+Original Score,Adjusted Score,Confidence,Explanation
+0.80,0.75,high,"The text reflects a generally positive sentiment, highlighting challenges that were overcome and features such as examples and code that helped make it accessible."
+0.85,0.85,high,"The language emphasizes consistent performance and clear guidelines, reflecting satisfaction with the reliability of the system."
+0.88,0.88,high,"Positive sentiment is evident in appreciating the freedom and effort allowed in customization, with no additional explanation altering this perception."
+0.90,0.90,high,"Describing the task as stimulating portrays a very positive experience, indicating high engagement and intellectual challenge."
+0.70,0.70,high,"While describing the process as eventually straightforward, the mention of initial difficulty affects the sentiment slightly, but no adjustments are needed without additional explanation."
+```
+50,```csv
+original score, adjusted score, confidence, explanation
+0.85, 0.85, high, The words used such as "Comprehensive," "Connected", "Fun," "Motivating," and "Stimulating" all demonstrate a very positive sentiment indicating engagement and encouragement from the system described.
+```

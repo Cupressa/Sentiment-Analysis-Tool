@@ -1,0 +1,1580 @@
+﻿
+1
+1. **Accessible**
+   - **Sentiment Score:** 0.80
+   - **Adjusted Score:** 0.80
+   - **Confidence:** High
+   - **Explanation:** The word "accessible" generally carries a positive connotation as it implies ease of entry or understanding, making things more approachable and user-friendly.
+
+2. **Fun**
+   - **Sentiment Score:** 0.90
+   - **Adjusted Score:** 0.90
+   - **Confidence:** High
+   - **Explanation:** "Fun" is typically associated with enjoyment and positive experiences, leading to a high sentiment score. It usually evokes feelings of pleasure and entertainment.
+
+3. **Stimulating**
+   - **Sentiment Score:** 0.85
+   - **Adjusted Score:** 0.85
+   - **Confidence:** High
+   - **Explanation:** "Stimulating" has a positive connotation as it refers to something that provokes interest, excitement, or enthusiasm, often engaging both the mind and senses.
+
+4. **Straight forward**
+   - **Sentiment Score:** 0.75
+   - **Adjusted Score:** 0.75
+   - **Confidence:** High
+   - **Explanation:** "Straight forward" is viewed positively as it suggests clarity and simplicity, making tasks or information easier to understand and execute without complications.
+
+5. **Time-consuming**
+   - **Sentiment Score:** 0.30
+   - **Adjusted Score:** 0.30
+   - **Confidence:** High
+   - **Explanation:** "Time-consuming" generally carries a negative sentiment since it implies that something takes a significant amount of time, potentially leading to inefficiency or frustration.
+2
+1. **Accessible**
+   - **Initial Sentiment Score:** 0.70
+   - **Adjusted Sentiment Score:** 0.75
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "accessible" generally suggests that something is easy to approach or use, which is a positive attribute. The explanation reinforces this sentiment by describing how the game environment helped contextualize complex thinking in a familiar way for most students, slightly increasing the positivity.
+
+2. **Appealing**
+   - **Initial Sentiment Score:** 0.75
+   - **Adjusted Sentiment Score:** 0.80
+   - **Confidence:** Medium
+   - **Contextual Explanation:** "Appealing" suggests attractiveness or desirability, which is positive. The explanation strengthens this sentiment by highlighting that it was an enjoyable and unconventional change from regular lessons, making the score a bit more positive.
+
+3. **Fun**
+   - **Initial Sentiment Score:** 0.85
+   - **Adjusted Sentiment Score:** 0.90
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "fun" is strongly positive, indicating enjoyment and pleasure. The explanation further emphasizes enjoyable aspects of autonomy and competition, increasing the sentiment score slightly.
+
+4. **Inviting**
+   - **Initial Sentiment Score:** 0.80
+   - **Adjusted Sentiment Score:** 0.85
+   - **Confidence:** High
+   - **Contextual Explanation:** "Inviting" conveys a warm and welcoming feeling, which is positive. The explanation adds depth by describing the competitive desire and increased engagement, thus slightly enhancing the sentiment.
+
+5. **Stimulating**
+   - **Initial Sentiment Score:** 0.75
+   - **Adjusted Sentiment Score:** 0.85
+   - **Confidence:** Medium-High
+   - **Contextual Explanation:** "Stimulating" suggests that something is interesting and exciting to the mind. The explanation underlines a genuine interest and engagement, making the project more meaningful compared to routine work, thus justifying a higher sentiment score.
+
+3
+1. **Customizable**  
+   - **Sentiment Score:** 0.85  
+     **Explanation:** The term "customizable" has positive connotations, suggesting flexibility, control, and the ability to personalize an experience or product. This is generally viewed favorably, especially in a context that values innovation and creativity.
+   - **Adjusted Score:** 0.88  
+     **Confidence:** High  
+     **Contextual Explanation:** The explanation amplifies the positive sentiment further by emphasizing how being able to create and customize spaceships is among the most exciting and creative tasks in the department. The language used—words like "envisioning," "theoretical goal," and "amorphous endgame"—underscores the creativity and open-ended nature of the task, which is seen as a challenge to bring out the best in students.
+
+2. **Personal**  
+   - **Sentiment Score:** 0.75  
+     **Explanation:** The term "personal" usually carries a positive sentiment, indicating a sense of individual involvement, engagement, and relevance.
+   - **Adjusted Score:** 0.80  
+     **Confidence:** Medium  
+     **Contextual Explanation:** The explanation slightly increases the positive sentiment by indicating the engaging and comparative nature of the assignment. It highlights how students are encouraged to think critically about strategies and learn from their peers, which adds value and competitiveness to the task without fostering undue criticism.
+
+3. **Stimulating**  
+   - **Sentiment Score:** 0.90  
+     **Explanation:** "Stimulating" conveys a highly positive sentiment, indicating that the task is engaging, thought-provoking, and intellectually challenging.
+   - **Adjusted Score:** 0.92  
+     **Confidence:** High  
+     **Contextual Explanation:** The explanation reaffirms the term's high positive sentiment by emphasizing the requirement for "outside-the-box thinking" and pushing students to find their own limits and expectations. This kind of intellectual challenge is portrayed as highly valuable and rewarding.
+
+4. **Unconventional**  
+   - **Sentiment Score:** 0.70  
+     **Explanation:** "Unconventional" generally has a positive sentiment in academic and creative contexts, indicating something unique, innovative, or unexpected.
+   - **Adjusted Score:** 0.75  
+     **Confidence:** High  
+     **Contextual Explanation:** The explanation strengthens the positive sentiment by highlighting how this assignment diverges from the norm and injects an element of fun into the coursework. It elevates the task as a refreshing and enjoyable break from standard academic exercises, which adds to its appeal.
+
+5. **Unpredictable**  
+   - **Sentiment Score:** 0.50  
+     **Explanation:** "Unpredictable" is neutral in sentiment, as it can be seen both positively and negatively depending on context—something unpredictable can be exciting and adventurous or daunting and uncertain.
+   - **Adjusted Score:** 0.45  
+     **Confidence:** Medium  
+     **Contextual Explanation:** The explanation slightly lowers the sentiment score because it introduces the potential downsides: reliance on student participation and the risk that some students may not fully engage. This unpredictability in student response introduces an element of uncertainty that can be perceived negatively.
+4
+1. **Word: "Accessible"**
+
+   - **Sentiment Score:** 0.76
+   - **Adjusted Score:** 0.70
+   - **Confidence:** High
+   
+   **Contextual Explanation:**
+   The word "accessible" generally carries a positive sentiment, indicating that something is easy to understand or reach. However, the explanation mentions that the project was "much bigger" and required "quite a bit of reading and digesting," which slightly tempers the positivity because it implies some challenge and effort. Thus, while the organization makes it feasible for someone at the CSIT 330 level, it is not entirely effortless.
+
+2. **Word: "Comprehensive"**
+
+   - **Sentiment Score:** 0.80
+   - **Adjusted Score:** 0.75
+   - **Confidence:** High
+   
+   **Contextual Explanation:**
+   "Comprehensive" suggests thoroughness and completeness, which is inherently positive, especially in a learning context. The explanation points to the large and complex nature of the project, which demands a "thorough understanding" of acquired skills, making the task more demanding. This slightly diminishes the positivity since it implies a significant amount of work and understanding required.
+
+3. **Word: "Fun"**
+
+   - **Sentiment Score:** 0.92
+   - **Adjusted Score:** 0.95
+   - **Confidence:** High
+   
+   **Contextual Explanation:**
+   "Fun" carries a very high positive sentiment, generally indicating enjoyment. The explanation enhances this positivity by stating that working on the project was "very enjoyable" and that it ties for the favorite project completed during studies. This reinforces and slightly increases the original sentiment score.
+
+4. **Word: "Useful"**
+
+   - **Sentiment Score:** 0.84
+   - **Adjusted Score:** 0.87
+   - **Confidence:** High
+   
+   **Contextual Explanation:**
+   The term "useful" conveys a positive sentiment as it implies practical benefit and relevance. The explanation that it helped "solidify understanding" of software development techniques boosts the value of the word, demonstrating that the project had a meaningful impact on the learning process.
+
+5. **Word: "Valuable"**
+
+   - **Sentiment Score:** 0.90
+   - **Adjusted Score:** 0.88
+   - **Confidence:** Medium
+   
+   **Contextual Explanation:**
+   "Valuable" carries a slightly higher positive sentiment than "useful," indicating something of great worth. However, the final sentiment is contextually linked to "useful." Given that "useful" had an adjusted score of 0.87, "valuable" should be slightly adjusted down from its initial score to reflect its explanation-dependent nature. The confidence is medium here due to reliance on external reference.
+5
+1. **"Appealing"**
+   - **Sentiment Analysis Score:** 0.85
+   - **Adjusted Score:** 0.85
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "appealing" has a positive connotation, suggesting attractiveness and desirability. This could be in reference to a product, idea, or concept that has broad or significant appeal.
+
+2. **"Customizable"**
+   - **Sentiment Analysis Score:** 0.75
+   - **Adjusted Score:** 0.75
+   - **Confidence:** High
+   - **Contextual Explanation:** "Customizable" implies flexibility and the ability to tailor something to individual preferences, which is generally viewed positively. It suggests user empowerment and personalization, appealing traits in many contexts.
+
+3. **"Fun"**
+   - **Sentiment Analysis Score:** 0.90
+   - **Adjusted Score:** 0.90
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "fun" is strongly positive, evoking concepts of enjoyment, happiness, and pleasure. It suggests a lighthearted and enjoyable experience, which is almost universally desirable.
+
+4. **"Simplistic"**
+   - **Sentiment Analysis Score:** 0.45
+   - **Adjusted Score:** 0.45
+   - **Confidence:** Medium
+   - **Contextual Explanation:** "Simplistic" can have a somewhat mixed sentiment. While it might suggest simplicity and ease of use, it could also imply a lack of complexity or sophistication. Without additional context, it leans slightly towards positive but is not overwhelmingly so.
+
+5. **"Unpredictable"**
+   - **Sentiment Analysis Score:** 0.30
+   - **Adjusted Score:** 0.30
+   - **Confidence:** Medium
+   - **Contextual Explanation:** "Unpredictable" often carries a negative sentiment because it implies a lack of reliability and unforeseen outcomes, which can be unsettling or problematic. However, in certain contexts, unpredictability may be seen positively—for instance, in adventures or creative endeavors—but these are exceptions.
+6
+1. "Complex," 
+   - Sentiment Analysis Score: 0.40
+   - Adjusted Score: 0.35
+   - Confidence: High
+   - Contextual Explanation: The word "Complex" acknowledges the intricacy and multifaceted nature of the task, which can be neutral or slightly negative depending on the context. The explanation highlights the difficult learning curve associated with the assignment, including using an Integrated Development Environment (IDE) such as Eclipse. This makes the term lean towards a more negative sentiment due to the added burden of mastering multiple components.
+
+2. "Frustrating," 
+   - Sentiment Analysis Score: 0.20
+   - Adjusted Score: 0.15
+   - Confidence: High
+   - Contextual Explanation: The word "Frustrating" is associated with negative emotions and difficulty stemming from a lack of clarity or support. Given that the provided code lacked comments, the sentiment becomes more negative, as this absence of comments would significantly hinder understanding and development.
+
+3. "Hard to use,"
+   - Sentiment Analysis Score: 0.30
+   - Adjusted Score: 0.20
+   - Confidence: High
+   - Contextual Explanation: The phrase "Hard to use" indicates difficulty and possible incompatibility. The explanation that follows specifies issues like the absence of comments and problems with using Eclipse on the user's computer, reinforcing and deepening the negative sentiment. This combination portrays significant obstacles in usability.
+
+4. "Stressful,"
+   - Sentiment Analysis Score: 0.25
+   - Adjusted Score: 0.18
+   - Confidence: High
+   - Contextual Explanation: The term "Stressful" directly implies high levels of mental or emotional strain. The additional reasons given, such as the incomprehensiveness and the optional decision-making issues, exacerbate this stress, amplifying the negative sentiment associated with the term.
+
+5. "Time-consuming,"
+   - Sentiment Analysis Score: 0.40
+   - Adjusted Score: 0.35
+   - Confidence: High
+   - Contextual Explanation: "Time-consuming" refers to the resource of time being heavily taxed, which can be neutral but generally leans negative, especially in contexts requiring efficiency. The reference to previous negative factors heightens the negative sentiment toward the term, as these problems contribute to the feeling of wasted or extended time consumption.
+
+Overall Analysis: The words and their accompanying explanations convey a consistent experience marked by significant challenges and negative feelings related to completing the assignment.
+7
+1. **"Fun"**
+   - **Sentiment Score**: 0.85
+   - **Adjusted Score**: 0.90
+   - **Confidence**: High
+   - **Contextual Explanation**: The word "fun" typically evokes positive feelings and enjoyment, which is reflected in the sentiment score. The explanation, "I had a good time completing the project. The competitiveness was motivating," further emphasizes the enjoyable experience and adds a motivational aspect to it, slightly increasing the overall sentiment.
+
+2. **"Relevant"**
+   - **Sentiment Score**: 0.75
+   - **Adjusted Score**: 0.80
+   - **Confidence**: Medium
+   - **Contextual Explanation**: "Relevant" connotes something being applicable and significant. The added context, "The project applied knowledge from the course itself," indicates the project was directly connected to the course material, making it more significant and meaningful. The adjustment reflects this realization of its importance.
+
+3. **"Stimulating"**
+   - **Sentiment Score**: 0.80
+   - **Adjusted Score**: 0.85
+   - **Confidence**: High
+   - **Contextual Explanation**: "Stimulating" refers to something that arouses interest or excitement. The explanation adds to this by stating, "Having your own ideas and implementing them was stimulating," suggesting that the project was intellectually engaging and enjoyable, thus slightly increasing the sentiment score.
+
+4. **"Useful"**
+   - **Sentiment Score**: 0.70
+   - **Adjusted Score**: 0.75
+   - **Confidence**: Medium
+   - **Contextual Explanation**: The term "useful" indicates practicality and benefit. The statement, "I felt that I had learned a great amount during the period of the project," underscores the practical knowledge gained, enhancing the sentiment due to the personal growth experienced.
+
+5. **"Valuable"**
+   - **Sentiment Score**: 0.90
+   - **Adjusted Score**: 0.95
+   - **Confidence**: High
+   - **Contextual Explanation**: "Valuable" suggests something of great importance or worth. The explanation, "I feel that the knowledge gained from the project will can also be used down the road in different courses as well as in future employment," highlights long-term benefits and applicability, which further enhances the positive sentiment attached to the word.
+8
+**1. Comprehensive**
+- Sentiment Analysis Score: 0.70
+- Adjusted Score with Explanation: 0.75
+- Confidence: High
+- Explanation: The word "comprehensive" generally has a positive sentiment because it indicates thoroughness and completeness. The explanation affirms this by mentioning that many different elements were included in the program, enhancing the notion of thoroughness. Hence, the adjusted score is slightly higher than the initial analysis.
+
+**2. Customizable**
+- Sentiment Analysis Score: 0.80
+- Adjusted Score with Explanation: 0.85
+- Confidence: High
+- Explanation: "Customizable" typically carries a positive sentiment because it suggests flexibility and personalization, which are desirable characteristics. The explanation supports this positive sentiment by highlighting the user’s ability to choose specific features, thereby slightly increasing the adjusted score.
+
+**3. Exciting**
+- Sentiment Analysis Score: 0.90
+- Adjusted Score with Explanation: 0.92
+- Confidence: High
+- Explanation: "Exciting" is a highly positive term that conveys strong enthusiasm and interest. The explanation confirms that watching the ships battle was indeed thrilling, which justifies a slight increase in the adjusted score for a more nuanced positive response.
+
+**4. Fun**
+- Sentiment Analysis Score: 0.85
+- Adjusted Score with Explanation: 0.87
+- Confidence: High
+- Explanation: "Fun" also conveys a very positive sentiment, suggesting enjoyment and amusement. The context provided aligns with the word's meaning, affirming that watching the ships battle was entertaining, thus warranting a minor increase in the adjusted score.
+
+**5. Valuable**
+- Sentiment Analysis Score: 0.90
+- Adjusted Score with Explanation: 0.95
+- Confidence: High
+- Explanation: "Valuable" is a particularly strong positive word, indicating the perceived worth or benefit. The explanation significantly supports this, asserting that the experience was highly beneficial for the speaker’s computer science education. Therefore, the adjusted score is increased to reflect this deeper sense of value.
+9
+1. "Complex"
+   - Sentiment Analysis Score: 0.40
+   - Adjusted Score: 0.45
+   - Confidence: High
+   - **Contextual Explanation**: The word "complex" typically carries a neutral to slightly negative sentiment because it implies difficulty and intricacy. However, the explanation indicates the challenge was due to a significant increase in the number of classes, which makes it slightly more negative.
+
+2. "Comprehensive"
+   - Sentiment Analysis Score: 0.80
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - **Contextual Explanation**: "Comprehensive" is a word with a predominantly positive sentiment because it suggests thoroughness and completeness. The explanation reinforces this by stating that most of the semester's learnings were incorporated, which indicates a positive and successful outcome.
+
+3. "Confusing"
+   - Sentiment Analysis Score: 0.30
+   - Adjusted Score: 0.25
+   - Confidence: High
+   - **Contextual Explanation**: The term "confusing" generally indicates a negative sentiment because it suggests lack of clarity and difficulty in understanding. The explanation "Same complex" aligns with this negative connotation, as it reiterates the challenging nature of the subject matter.
+
+4. "Fun"
+   - Sentiment Analysis Score: 0.90
+   - Adjusted Score: 0.75
+   - Confidence: Medium
+   - **Contextual Explanation**: "Fun" carries a very positive sentiment since it denotes enjoyment and pleasure. However, the explanation notes that the enjoyment came after initially overcoming some challenges, slightly reducing the overall positivity.
+
+5. "Time-consuming"
+   - Sentiment Analysis Score: 0.20
+   - Adjusted Score: 0.15
+   - Confidence: High
+   - **Contextual Explanation**: "Time-consuming" has a negative sentiment as it implies a task that demands a significant amount of time, often more than desired. The explanation provided highlights the additional difficulty and frustration due to inadequate preparation, reinforcing the negative sentiment.
+10
+1. **Collaborative**
+   - **Initial Sentiment Score**: 0.80
+     - **Contextual Explanation**: The word "collaborative" conveys a positive interaction where students work together to solve problems and innovate.
+   - **Adjusted Score with Explanation**: 0.85
+     - **Confidence**: High
+     - **Adjusted Explanation**: The explanation suggests that collaboration is frequent and beneficial, adding a stronger positive sentiment due to its constructive impact.
+
+2. **Complex**
+   - **Initial Sentiment Score**: 0.40
+     - **Contextual Explanation**: The word "complex" suggests difficulty and intricacy, which often carries a neutral to slightly negative connotation, depending on the ability to manage such complexity.
+   - **Adjusted Score with Explanation**: 0.35
+     - **Confidence**: Medium
+     - **Adjusted Explanation**: The explanation confirms the challenging nature and further underscores the complications involved, thus slightly reducing the sentiment score.
+
+3. **Intimidating**
+   - **Initial Sentiment Score**: 0.20
+     - **Contextual Explanation**: The word "intimidating" has a clear negative connotation, suggesting fear or anxiety.
+   - **Adjusted Score with Explanation**: 0.25
+     - **Confidence**: High
+     - **Adjusted Explanation**: Though the explanation indicates the existence of supportive materials (e.g., a basics guide), it still emphasizes the initial daunting nature, resulting in a minor positive adjustment.
+
+4. **Relevant**
+   - **Initial Sentiment Score**: 0.75
+     - **Contextual Explanation**: The word "relevant" suggests suitability and significance, often presented in a positive light.
+   - **Adjusted Score with Explanation**: 0.80
+     - **Confidence**: High
+     - **Adjusted Explanation**: The explanation emphasizes student interest and the refreshing approach, thereby reinforcing the positive relevance and adding a slightly higher score.
+
+5. **Stimulating**
+   - **Initial Sentiment Score**: 0.90
+     - **Contextual Explanation**: The word "stimulating" conveys strong positive energy and engagement.
+   - **Adjusted Score with Explanation**: 0.88
+     - **Confidence**: High
+     - **Adjusted Explanation**: While the project requires significant mental engagement beyond normal procedures (which some may find demanding), the overall connotation remains highly positive but slightly tempered by the possible stress implied.
+11
+1. **Customizable**
+   - Sentiment Score: 0.90
+   - Adjusted Score: 0.90
+   - Confidence: High
+   - **Contextual Explanation**: The word "customizable" has a positive sentiment as it implies flexibility and personalization. In the context of the explanation, the sentiment is that the user feels satisfied and pleased with the ability to modify the controller to meet their needs, enhancing their overall experience.
+
+2. **Empowering**
+   - Sentiment Score: 0.95
+   - Adjusted Score: 0.95
+   - Confidence: High
+   - **Contextual Explanation**: "Empowering" carries a very positive connotation, typically associated with providing confidence and strength. Here, the explanation supports this by indicating personal growth and successful outcomes, leading to a very high sentiment score.
+
+3. **Overwhelming**
+   - Sentiment Score: 0.20
+   - Adjusted Score: 0.30
+   - Confidence: Medium
+   - **Contextual Explanation**: "Overwhelming" generally has a negative connotation, suggesting a situation that is too difficult to manage. However, the explanation shows that despite the initial confusion, the individual was able to manage and succeed, slightly mitigating the initial negative sentiment.
+
+4. **Stimulating**
+   - Sentiment Score: 0.85
+   - Adjusted Score: 0.88
+   - Confidence: High
+   - **Contextual Explanation**: "Stimulating" is a positive term that means encouraging interest or enthusiasm. The explanation reinforces this positive sentiment by describing the intellectual engagement and the challenging yet rewarding nature of the project.
+
+5. **Valuable**
+   - Sentiment Score: 0.92
+   - Adjusted Score: 0.92
+   - Confidence: High
+   - **Contextual Explanation**: The word "valuable" indicates a high level of worth or usefulness, leading to a positive sentiment. The explanation supports this by citing specific learning outcomes and the enhancement of knowledge, thus maintaining a high sentiment score.
+12
+1. "Appealing"
+   - Sentiment Score: 0.75
+   - Adjusted Score: 0.75 
+   - Confidence: High
+   - Contextual Explanation: The term "Appealing" suggests something attractive or pleasing, which generally evokes a positive reaction.
+
+2. "Desirable"
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - Contextual Explanation: "Desirable" indicates that something is wanted or wished for, reflecting a strong positive sentiment similar to "Appealing" but with a slightly stronger positive connotation.
+
+3. "Exciting"
+   - Sentiment Score: 0.85
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - Contextual Explanation: "Exciting" conveys a sense of enthusiasm and thrill, which is an intensely positive emotion. This term implies high energy and anticipation.
+
+4. "Fun"
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - Contextual Explanation: "Fun" signifies enjoyment and amusement. While positive, it has a more casual and light-hearted tone compared to "Exciting."
+
+5. "Valuable"
+   - Sentiment Score: 0.90
+   - Adjusted Score: 0.90
+   - Confidence: High
+   - Contextual Explanation: "Valuable" indicates high worth or usefulness, implying significant positive importance. This sentiment is particularly strong as it combines both positive emotional and practical considerations.
+13
+1. **Collaborative**
+
+   - **Initial Sentiment Score**: 0.85
+   - **Adjusted Sentiment Score**: 0.85, Confidence: High
+   
+   **Contextual Explanation**: The word "collaborative" carries a strongly positive connotation, suggesting teamwork, cooperation, and mutual effort, which are generally viewed quite positively in most contexts.
+
+2. **Comprehensive**
+
+   - **Initial Sentiment Score**: 0.75
+   - **Adjusted Sentiment Score**: 0.75, Confidence: High
+   
+   **Contextual Explanation**: "Comprehensive" indicates thoroughness and completeness, which are positive attributes. It suggests that something is all-encompassing and leaves no gaps, adding value through its depth and breadth.
+
+3. **Fun**
+
+   - **Initial Sentiment Score**: 0.90
+   - **Adjusted Sentiment Score**: 0.90, Confidence: High
+   
+   **Contextual Explanation**: The word "fun" is highly positive, as it evokes enjoyment, pleasure, and excitement. This positive affective response is nearly universal, making the word very positively charged.
+
+4. **Relevant**
+
+   - **Initial Sentiment Score**: 0.70
+   - **Adjusted Sentiment Score**: 0.70, Confidence: High
+   
+   **Contextual Explanation**: "Relevant" conveys that something is pertinent and applicable to the matter at hand, which is generally perceived favorably. It signifies importance and usefulness, adding value through its applicability.
+
+5. **Stimulating**
+
+   - **Initial Sentiment Score**: 0.80
+   - **Adjusted Sentiment Score**: 0.80, Confidence: High
+   
+   **Contextual Explanation**: The word "stimulating" suggests that something is exciting, engaging, and intellectually energizing. It has strong positive connotations as it implies that the subject matter is capable of provoking interest and thought.
+14
+1. "Customizable"  
+   - Sentiment Score: 0.75  
+   - Adjusted Score: 0.70  
+   - Confidence: High  
+   - Contextual Explanation: The word "customizable" evokes positive feelings related to flexibility and personalization, indicating that the system or product can be tailored to meet specific needs. However, the explanation that mentions a restriction to "follow the rules of the engine" slightly reduces the sentiment because it introduces a limitation to the customization.
+
+2. "Fresh"  
+   - Sentiment Score: 0.85  
+   - Adjusted Score: 0.90  
+   - Confidence: High  
+   - Contextual Explanation: "Fresh" has a very positive connotation, implying something new, invigorating, and original. The provided context enhances this sentiment by indicating that the project was exciting and unique, which amplifies the positive impact of the word.
+
+3. "Fun"  
+   - Sentiment Score: 0.80  
+   - Adjusted Score: 0.85  
+   - Confidence: High  
+   - Contextual Explanation: "Fun" generally conveys a strong positive sentiment associated with enjoyment and pleasure. The context mentioning a "great way to have friendly competition" further enhances this sentiment by adding a social and engaging element to the experience.
+
+4. "Motivating"  
+   - Sentiment Score: 0.90  
+   - Adjusted Score: 0.95  
+   - Confidence: High  
+   - Contextual Explanation: "Motivating" is a positive term that implies encouragement and inspiration to take action or improve. The context emphasizing a "class competition" that gives "a lot of motivation for the students to do their best" amplifies this sentiment, highlighting its effectiveness in inspiring effort and ambition.
+
+5. "Stimulating"  
+   - Sentiment Score: 0.85  
+   - Adjusted Score: 0.90  
+   - Confidence: High  
+   - Contextual Explanation: "Stimulating" is a positive word that suggests something that provokes thought or activity. The context showing that it required students to "really think about not only their code but what everyone else's code might be like" and to create "unique project solutions" enhances the sentiment by highlighting the intellectual engagement and creativity involved.
+15
+1. **Word: "Connected"**
+   - Sentiment Analysis Score: 0.70
+   - Adjusted Score: 0.70
+   - Confidence: High
+
+   **Contextual Explanation**: The term "connected" generally conveys a positive sense of belonging, networking, or being in tune with others or a system. This word implies positive interpersonal or systemic connections, which contribute to enhanced cohesion or functionality. As there is no additional context provided that would alter this basic interpretation, the score remains consistent.
+
+2. **Word: "Customizable"**
+   - Sentiment Analysis Score: 0.65
+   - Adjusted Score: 0.65
+   - Confidence: High
+
+   **Contextual Explanation**: "Customizable" suggests flexibility and the ability to tailor products, services, or experiences to individual preferences. This is typically viewed positively because it offers empowerment and personalization to the user. This customization aligns well with positive user experiences, leading to a favorable sentiment.
+
+3. **Word: "Overwhelming"**
+   - Sentiment Analysis Score: 0.30
+   - Adjusted Score: 0.30
+   - Confidence: High
+
+   **Contextual Explanation**: The word "overwhelming" often carries a negative connotation, suggesting an excessive burden or an unmanageable situation. This can invoke feelings of stress or anxiety, thus contributing to the lower sentiment score. Without additional context to suggest otherwise, this interpretation stands firm.
+
+4. **Word: "Unpredictable"**
+   - Sentiment Analysis Score: 0.40
+   - Adjusted Score: 0.40
+   - Confidence: Medium
+
+   **Contextual Explanation**: "Unpredictable" can be interpreted in various ways, often with negative notions of instability and lack of foresight. However, there can be a neutral or even positive spin if unpredictability leads to excitement or unexpected opportunities. The score leans slightly more negative but with a medium confidence as context can significantly alter its perception.
+
+5. **Word: "Valuable"**
+   - Sentiment Analysis Score: 0.85
+   - Adjusted Score: 0.85
+   - Confidence: High
+
+   **Contextual Explanation**: "Valuable" is a highly positive word indicating worth, usefulness, or importance. This term generally suggests that something is held in high regard and contributes positively to whatever context it is applied, such as assets, advice, or experiences. The high sentiment score reflects its broad positive usage.
+16
+1. "Complex":
+   - Sentiment Analysis Score: 0.50
+   - Adjusted Score: 0.50
+   - Confidence: High
+   - Contextual Explanation: The word "complex" can be interpreted as neutral since it denotes something that has many interconnected parts or aspects. While it does not inherently carry a positive or negative connotation, its impact may fluctuate depending on the context, such as excitement in challenging scenarios or frustration in difficult situations. In isolation, it is scored neutrally.
+
+2. "Fun":
+   - Sentiment Analysis Score: 0.90
+   - Adjusted Score: 0.90
+   - Confidence: High
+   - Contextual Explanation: The word "fun" indicates an enjoyable and pleasant experience, usually associated with positive emotions such as joy and excitement. This high sentiment score reflects its strong positive connotation when used to describe activities, events, or experiences.
+
+3. "Motivating":
+   - Sentiment Analysis Score: 0.85
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - Contextual Explanation: "Motivating" carries a positive sentiment as it signifies something that encourages or inspires a person to take action or continue striving toward a goal. The sense of encouragement and support associated with the word contributes to its high positive score.
+
+4. "Relevant":
+   - Sentiment Analysis Score: 0.70
+   - Adjusted Score: 0.70
+   - Confidence: Medium
+   - Contextual Explanation: The term "relevant" points to the significance and pertinence of something in relation to the subject at hand. While it implies usefulness and applicability, which are positive aspects, it does not evoke a strong emotional response. Thus, it is scored moderately positive.
+
+5. "Stimulating":
+   - Sentiment Analysis Score: 0.80
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - Contextual Explanation: The word "stimulating" suggests an experience or activity that energizes and engages the mind or senses, typically in a positive manner. It implies a sense of excitement and intellectual or emotional stimulation, resulting in a high positive sentiment score.
+17
+### "Accessible"
+**Sentiment Analysis Score**: 0.70
+**Adjusted Score**: 0.75 (medium)
+**Explanation**: The word "accessible" typically connotes positivity, implying ease of understanding and approachability. In the given context, it means the project was approachable and easy for beginners, which is an added positive element that raises its adjusted score slightly.
+
+### "Fun"
+**Sentiment Analysis Score**: 0.80
+**Adjusted Score**: 0.85 (high)
+**Explanation**: "Fun" has a strong positive sentiment, suggesting enjoyment and amusement. The context, where making the ship do something unique and interesting, stresses these attributes and amplifies the positive sentiment, hence a slight increase in sentiment score.
+
+### "Relevant"
+**Sentiment Analysis Score**: 0.65
+**Adjusted Score**: 0.70 (high)
+**Explanation**: "Relevant" implies importance and applicability, contributing positively in a practical sense. The explanation connects this word to the structure of more complex projects, making its importance clearer and enhancing its perceived value, hence a moderate increase in score.
+
+### "Stimulating"
+**Sentiment Analysis Score**: 0.75
+**Adjusted Score**: 0.80 (medium)
+**Explanation**: "Stimulating" suggests excitement and engagement, which is positively connoted. When tied to the challenge of creating something from an assignment, the context makes the effort appear more gratifying, slightly increasing its sentiment score.
+
+### "Valuable"
+**Sentiment Analysis Score**: 0.85
+**Adjusted Score**: 0.90 (high)
+**Explanation**: "Valuable" is a highly positive term implying worth and benefit. The context of it being a worthy final project for the class emphasizes its significance, justifying a higher adjusted sentiment score to reflect its substantial positive impact.
+18
+1. **"Complex"**
+    - Sentiment Analysis Score: 0.60
+    - Adjusted Score: 0.65, Confidence: Medium
+    - Explanation: The word "complex" usually carries a neutral to slightly positive connotation, suggesting something intricate and challenging yet rewarding. The provided context indicates a sense of opportunity and potential achievement contingent on having sufficient time, thus slightly boosting the positivity.
+
+2. **"Connected"**
+    - Sentiment Analysis Score: 0.70
+    - Adjusted Score: 0.80, Confidence: High
+    - Explanation: "Connected" suggests positive engagement and integration within a system. The explanation reinforces this by emphasizing ease of integration, increasing the positivity of the sentiment as it implies seamless interaction.
+
+3. **"Exciting"**
+    - Sentiment Analysis Score: 0.85
+    - Adjusted Score: 0.85, Confidence: High
+    - Explanation: "Exciting" inherently carries a strong positive connotation, suggesting high levels of enthusiasm and interest. The context supports this sentiment by highlighting the thrill of adding a personal creation to an existing system, hence no adjustment was required.
+
+4. **"Usable"**
+    - Sentiment Analysis Score: 0.65
+    - Adjusted Score: 0.70, Confidence: Medium
+    - Explanation: "Usable" implies functionality and practicality, which are positive but not strongly emotive. The context improves this sentiment by mentioning the ease of use once the game is understood, thereby slightly increasing the positive sentiment.
+
+5. **"Valuable"**
+    - Sentiment Analysis Score: 0.80
+    - Adjusted Score: 0.85, Confidence: High
+    - Explanation: "Valuable" conveys worth and significance, suggesting a strong positive sentiment. The context adds to this by equating the experience to real-world professional relevance, thereby making the sentiment more pertinent and slightly increasing its positivity.
+19
+1. "Appealing"
+   - Original Sentiment Score: 0.80
+   - Explanation Adjusted Score: 0.90
+   - Confidence: High
+   - Contextual Explanation: The word "appealing" in this context is used to describe the task as something attractive or interesting. The detailed explanation that follows compares the coding project to an enjoyable activity, like playing a video game, which significantly increases the positive sentiment.
+
+2. "Customizable"
+   - Original Sentiment Score: 0.75
+   - Explanation Adjusted Score: 0.85
+   - Confidence: High
+   - Contextual Explanation: The term "customizable" inherently has a positive connotation as it implies flexibility and personalization. The explanation emphasizes that students could adapt their strategies uniquely, enhancing the positive sentiment by highlighting creativity and individuality in the learning process.
+
+3. "Fun"
+   - Original Sentiment Score: 0.90
+   - Explanation Adjusted Score: 0.95
+   - Confidence: High
+   - Contextual Explanation: "Fun" is a strongly positive word. The given explanation confirms that the activity was enjoyable and did not feel like a chore, reinforcing and even slightly increasing the positive sentiment due to the enjoyable nature of the learning experience.
+
+4. "Motivating"
+   - Original Sentiment Score: 0.85
+   - Explanation Adjusted Score: 0.90
+   - Confidence: High
+   - Contextual Explanation: The word "motivating" is generally positive, suggesting that something encourages or inspires action. The detailed explanation about the thrill of competition boosts the sentiment as it shows a clear drive and ambition, further affirming the positive nature of motivation.
+
+5. "Stimulating"
+   - Original Sentiment Score: 0.85
+   - Explanation Adjusted Score: 0.90
+   - Confidence: High
+   - Contextual Explanation: "Stimulating" implies that something is exciting and mentally engaging. The explanation mentions that the project required deep engagement and learning, which enhances the context and suggests a very positive, intellectually enriching experience.
+20
+1. "Comprehensive"
+
+   Initial Sentiment Score: 0.75
+   Adjusted Score: 0.85 (high confidence)
+   
+   Contextual Explanation: The word "comprehensive" generally denotes thoroughness and a broad scope, indicating that the project required a wide range of knowledge and skills. The explanation provided ("I had to use a lot of information from previous classes as well as this one to complete the project.") reinforces this positive sentiment by highlighting the extensive application of learned material, suggesting a rich learning experience.
+
+2. "Intimidating"
+
+   Initial Sentiment Score: 0.40
+   Adjusted Score: 0.25 (high confidence)
+   
+   Contextual Explanation: The term "intimidating" usually carries a negative connotation, suggesting that something is daunting or overwhelming. The explanation ("The project seemed like a lot to do at first, so it was hard to know where to start.") emphasizes this feeling, reflecting a sense of initial overwhelm and uncertainty which lowers the sentiment score further.
+
+3. "Stimulating"
+
+   Initial Sentiment Score: 0.85
+   Adjusted Score: 0.95 (high confidence)
+   
+   Contextual Explanation: "Stimulating" has a strongly positive connotation, indicating that the project was exciting and intellectually engaging. The explanation ("The project allowed me to learn new skills and see what goes into a game like this.") supports this view by illustrating the new skills learned and the insights gained, thereby boosting the sentiment score even higher.
+
+4. "Stressful"
+
+   Initial Sentiment Score: 0.30
+   Adjusted Score: 0.35 (medium confidence)
+   
+   Contextual Explanation: "Stressful" has a negative sentiment, suggesting that the project induced stress. The explanation ("There were times where I could figure out certain problems, but most of them were resolved after a while.") moderates this by indicating that although there were moments of stress, these were eventually manageable and resolved, slightly raising the sentiment score but maintaining an overall negative tone.
+
+5. "Unpredictable"
+
+   Initial Sentiment Score: 0.50
+   Adjusted Score: 0.45 (medium confidence)
+   
+   Contextual Explanation: "Unpredictable" is a neutral term that can have both positive and negative connotations depending on context. The explanation ("Sometimes the ship in the project would not work how you wanted it to and you wouldn't know why.") nudges the sentiment towards the negative side, indicating unpredictability causing issues and frustration, thus slightly lowering the sentiment score.
+21
+Here are the sentiment analysis scores and adjusted scores for the words, along with a confidence level and contextual explanations:
+
+1. **Comprehensive**
+   - **Sentiment Score:** 0.90 
+   - **Explanation/Adjusted Score:** 0.90 
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "comprehensive" generally conveys a positive sentiment because it suggests thoroughness and completeness. There is no additional context given that would change this perception. Its positive sentiment makes it suitable for describing something that is well-rounded and covers all necessary aspects.
+
+2. **Connected**
+   - **Sentiment Score:** 0.85 
+   - **Explanation/Adjusted Score:** 0.85 
+   - **Confidence:** High
+   - **Contextual Explanation:** "Connected" also has a positive connotation, as it implies unity, networking, and inclusion. The absence of additional context does not alter its positive sentiment. It is typically used to describe strong relationships or efficient systems.
+
+3. **Customizable**
+   - **Sentiment Score:** 0.80 
+   - **Explanation/Adjusted Score:** 0.80 
+   - **Confidence:** High
+   - **Contextual Explanation:** "Customizable" implies flexibility and user-friendliness, which are positive attributes. The word itself suggests that something can be tailored to individual needs, enhancing user satisfaction. The lack of additional comments retains this positive sentiment.
+
+4. **Fresh**
+   - **Sentiment Score:** 0.75 
+   - **Explanation/Adjusted Score:** 0.75 
+   - **Confidence:** Medium
+   - **Contextual Explanation:** "Fresh" has a generally positive nuance, indicating something new, innovative, or invigorating. However, it can sometimes be less impactful without additional context to clarify whether it's about new ideas, food quality, or appearance. Thus, the sentiment score is high but with medium confidence due to potential ambiguity.
+
+5. **Usable**
+   - **Sentiment Score:** 0.70 
+   - **Explanation/Adjusted Score:** 0.70 
+   - **Confidence:** High
+   - **Contextual Explanation:** "Usable" suggests functionality and practical application, which is positive, although less overwhelmingly so compared to highly enthusiastic terms. It indicates that something is sufficiently functional and serves its purpose well. The lack of further context keeps its moderate to high positive sentiment intact.
+
+Overall, these sentiments provide a broad understanding of positive attributes and how they apply contextually.
+22
+1. **Complex**
+   - **Initial Sentiment Score:** 0.50 - The term "complex" generally implies difficulty but does not inherently carry a purely negative or positive connotation.
+   - **Adjusted Sentiment Score:** 0.45 - Given the context of struggling to understand someone else's code, the sentiment slightly leans negative.
+   - **Confidence:** High
+   - **Contextual Explanation:** The term "complex" reflects the challenging nature of the task described. The user found the process of analyzing existing code difficult, indicating a mildly negative sentiment as it implies a notable cognitive load.
+
+2. **Exciting**
+   - **Initial Sentiment Score:** 0.80 - The term "exciting" generally implies a strong positive feeling.
+   - **Adjusted Sentiment Score:** 0.85 - The explanation provided reinforces the initial enjoyment and visible outcome of coding, slightly increasing the positive sentiment.
+   - **Confidence:** High
+   - **Contextual Explanation:** "Exciting" captures the enthusiasm and positive experience of seeing one's code in action. The user's excitement clearly indicates a strong positive sentiment.
+
+3. **Fun**
+   - **Initial Sentiment Score:** 0.75 - The word "fun" conveys a positive experience but perhaps not as strongly as "exciting."
+   - **Adjusted Sentiment Score:** 0.80 - The additional context of enjoyment and competition with classmates increases the positive sentiment slightly.
+   - **Confidence:** High
+   - **Contextual Explanation:** "Fun" reflects a positive and enjoyable experience, further supported by the context of enjoying the concept and friendly competition, indicating a notably positive sentiment.
+
+4. **Overwhelming**
+   - **Initial Sentiment Score:** 0.20 - The word "overwhelming" generally carries a negative connotation, indicating feelings of stress or difficulty.
+   - **Adjusted Sentiment Score:** 0.15 - The detailed explanation highlights significant challenges and a desire for more instructional support, which lowers the sentiment score further.
+   - **Confidence:** High
+   - **Contextual Explanation:** The term "overwhelming," together with the explanation about needing more resources and struggling with the pre-existing code, underscores a strongly negative sentiment related to the experience.
+
+5. **Useful**
+   - **Initial Sentiment Score:** 0.70 - The word "useful" generally has a positive connotation, indicating practicality and benefit.
+   - **Adjusted Sentiment Score:** 0.75 - The explanation underscores the fundamental importance of the skills learned, slightly boosting the positive sentiment.
+   - **Confidence:** High
+   - **Contextual Explanation:** "Useful" conveys a positive sentiment, particularly in the context of learning fundamental programming skills. The user recognizes the value and importance of the project, which contributes to a favorable perception.
+23
+1. "Collaborative"
+   - Sentiment Analysis Score: 0.75
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - Contextual Explanation: The word "collaborative" is generally positive as it suggests teamwork and cooperation. The explanation provided emphasizes the beneficial aspect of working together, which slightly increases its positivity.
+
+2. "Complex"
+   - Sentiment Analysis Score: 0.40
+   - Adjusted Score: 0.45
+   - Confidence: Medium
+   - Contextual Explanation: The word "complex" can be perceived as slightly negative because it implies difficulty or challenge. The explanation does not add a significant positive or negative connotation beyond acknowledging the larger scope of the task, marginally raising the score due to the implication of a more advanced project.
+
+3. "Exciting"
+   - Sentiment Analysis Score: 0.85
+   - Adjusted Score: 0.90
+   - Confidence: High
+   - Contextual Explanation: The word "exciting" is strongly positive, conveying enthusiasm and engagement. The explanation reinforces this by describing enjoyable activities and strategy development, which enhances the positive sentiment.
+
+4. "Frustrating"
+   - Sentiment Analysis Score: 0.30
+   - Adjusted Score: 0.40
+   - Confidence: Medium
+   - Contextual Explanation: "Frustrating" is a negative word as it denotes difficulty and emotional strain. However, the explanation adds a nuanced perspective by indicating that the frustration led to a more engaging experience, slightly increasing the score.
+
+5. "Valuable"
+   - Sentiment Analysis Score: 0.70
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - Contextual Explanation: The word "valuable" is quite positive as it suggests worth and benefit. The explanation amplifies this positivity by highlighting the real-world applicability and greater reward of the project compared to smaller tasks, thus raising the score.
+24
+1. **"Appealing"**
+   - Sentiment Score: 0.70
+   - Adjusted Score: 0.70
+   - Confidence: High
+   - Explanation: The word "appealing" generally conveys a positive sentiment, suggesting something that is interesting or likable. It reflects a favorable impression or attraction, therefore maintaining a moderately high sentiment score.
+
+2. **"Attractive"**
+   - Sentiment Score: 0.75
+   - Adjusted Score: 0.75
+   - Confidence: High
+   - Explanation: "Attractive" carries a positive connotation, signifying beauty or appeal that draws attention. This word suggests a higher degree of appeal than "appealing," hence a slightly higher sentiment score.
+
+3. **"Collaborative"**
+   - Sentiment Score: 0.65
+   - Adjusted Score: 0.65
+   - Confidence: Medium
+   - Explanation: "Collaborative" suggests a positive working together or teamwork. While this is generally favorable, as it indicates cooperation and mutual effort, the sentiment is not as strong or emotionally charged as terms like "exciting."
+
+4. **"Exciting"**
+   - Sentiment Score: 0.85
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - Explanation: "Exciting" denotes a high level of positive emotional engagement, indicating enthusiasm or stimulation. It carries a vibrant and energetic sentiment, reflecting a stronger positive emotion compared to words like "appealing."
+
+5. **"Stimulating"**
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - Explanation: "Stimulating" suggests something that excites or gets the mind or senses active. It has a positive connotation similar to "exciting," but with an added nuance of intellectual or sensory engagement, which gives it a high sentiment score.
+25
+1. **Complex**
+   - Sentiment Score: 0.50
+   - Adjusted Score: 0.50
+   - Confidence: High
+   - Contextual Explanation: "Complex" is a neutral term that suggests something intricate or complicated, which doesn't necessarily carry a strong positive or negative connotation. Its sentiment largely depends on the context in which it is used, but here it remains neutral without additional context.
+
+2. **Confusing**
+   - Sentiment Score: 0.30
+   - Adjusted Score: 0.30
+   - Confidence: High
+   - Contextual Explanation: "Confusing" generally carries a negative connotation as it implies a lack of clarity or understanding, leading to frustration or difficulty in comprehension.
+
+3. **Consistent**
+   - Sentiment Score: 0.70
+   - Adjusted Score: 0.70
+   - Confidence: High
+   - Contextual Explanation: "Consistent" typically has a positive connotation, suggesting reliability, dependability, and stability. It conveys a sense of regularity and trustworthiness.
+
+4. **Overwhelming**
+   - Sentiment Score: 0.20
+   - Adjusted Score: 0.20
+   - Confidence: High
+   - Contextual Explanation: "Overwhelming" often carries a negative connotation as it suggests a situation that is too much to handle or cope with, leading to stress or feeling overloaded.
+
+5. **Useful**
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - Contextual Explanation: "Useful" has a positive connotation as it implies that something has practical value and adds benefit or utility, making it desirable and helpful.
+26
+1. **Accessible**
+   - **Sentiment Score:** 0.75
+   - **Adjusted Score:** 0.85 (High confidence)
+   - **Contextual Explanation:** The term "accessible" typically carries a positive sentiment, meaning that something is easy to reach, understand, or use. The explanation further enhances this sentiment by showing inclusivity—"Everyone in class was able to complete a ship controller," suggesting universal accessibility and thus boosting its positive connotation.
+
+2. **Appealing**
+   - **Sentiment Score:** 0.80
+   - **Adjusted Score:** 0.90 (High confidence)
+   - **Contextual Explanation:** "Appealing" inherently conveys attractiveness or interest, which is positive. The explanation—"Gamification of lesson plan made it fun"—underscores the enjoyment and engagement aspects, amplifying the positivity of the term.
+
+3. **Collaborative**
+   - **Sentiment Score:** 0.70
+   - **Adjusted Score:** 0.80 (High confidence)
+   - **Contextual Explanation:** "Collaborative" suggests working together, which is positive as it indicates cooperation and teamwork. The explanation—"Worked together with classmates"—explicitly states the context of joint effort and support, enhancing the positive sentiment.
+
+4. **Desirable**
+   - **Sentiment Score:** 0.85
+   - **Adjusted Score:** 0.90 (High confidence)
+   - **Contextual Explanation:** "Desirable" generally has a strong positive sentiment as it indicates something worth wanting. The mention of a "Fun competitive nature of project" adds an element of enjoyment and excitement, reinforcing the attractiveness and positive nature of the term.
+
+5. **Stimulating**
+   - **Sentiment Score:** 0.80
+   - **Adjusted Score:** 0.85 (Medium confidence)
+   - **Contextual Explanation:** "Stimulating" implies something thought-provoking or exciting, which is favorable. The explanation—"Creativity was needed to differentiate"—adds depth by emphasizing the engagement and intellectual challenge involved, thus slightly enhancing the positive sentiment. The medium confidence is due to the nuanced interpretation possible for "stimulating," which could vary based on context.
+27
+1. **Collaborative**
+   - **Sentiment Analysis Score:** 0.85
+   - **Adjusted Score:** 0.85
+   - **Confidence:** High
+
+   **Contextual Explanation:**
+   "Collaborative" generally conveys a positive sentiment because it implies cooperation, teamwork, and mutual support. It suggests an environment where individuals work together towards common goals, which is typically viewed favorably. The word lacks any negative connotation, leading to high confidence in the sentiment assessment.
+
+2. **Connected**
+   - **Sentiment Analysis Score:** 0.80
+   - **Adjusted Score:** 0.80
+   - **Confidence:** High
+
+   **Contextual Explanation:**
+   "Connected" carries a positive sentiment as it suggests a sense of belonging and integration, which are generally positive feelings. It indicates that individuals or things are not isolated but rather part of a network or community. Hence, the score reflects the positive association with the term, and confidence is high due to the straightforward positive implications of the word.
+
+3. **Motivating**
+   - **Sentiment Analysis Score:** 0.90
+   - **Adjusted Score:** 0.90
+   - **Confidence:** High
+
+   **Contextual Explanation:**
+   "Motivating" is a strongly positive word because it indicates that something inspires action, enthusiasm, and progress. Motivation plays a crucial role in personal and professional development, often leading to improved performance and well-being. The lack of any outlined negative connotation in the word increases confidence in the sentiment analysis.
+
+4. **Organized**
+   - **Sentiment Analysis Score:** 0.75
+   - **Adjusted Score:** 0.75
+   - **Confidence:** High
+
+   **Contextual Explanation:**
+   "Organized" often implies efficiency, clarity, and structure, which are positive traits. Being organized is associated with productivity and order, which generally lead to positive outcomes. The word does not suggest any negative context, thus the score is reflective of its positive nature, with high confidence.
+
+5. **Relevant**
+   - **Sentiment Analysis Score:** 0.70
+   - **Adjusted Score:** 0.70
+   - **Confidence:** High
+
+   **Contextual Explanation:**
+   "Relevant" signifies importance and applicability, which are positive attributes. When something is relevant, it is seen as useful and pertinent to the situation, increasing its value. The term carries a positive connotation implying significance and utility, leading to a moderately high sentiment score with high confidence.
+28
+1. **"Appealing"**
+   - **Sentiment Analysis Score**: 0.80
+   - **Adjusted Score**: 0.85
+   - **Confidence**: High
+   - **Explanation**: The term "appealing" suggests something that is attractive or interesting, which generally evokes positive emotions. The context emphasizes the intrigue and enjoyment in planning a strategy for a goal, enhancing the positive perception.
+
+2. **"Motivating"**
+   - **Sentiment Analysis Score**: 0.75
+   - **Adjusted Score**: 0.80
+   - **Confidence**: High
+   - **Explanation**: "Motivating" indicates a drive or inspiration to achieve something. The explanation further underscores the dedication and effort put into surpassing the basic requirements, reinforcing a highly positive and motivational sentiment.
+
+3. **"Relevant"**
+   - **Sentiment Analysis Score**: 0.70
+   - **Adjusted Score**: 0.75
+   - **Confidence**: High
+   - **Explanation**: "Relevant" signifies importance and applicability. The provided context about the correlation between academic projects and real-world developer jobs strengthens the positive sentiment, showing its practical significance.
+
+4. **"Time-consuming"**
+   - **Sentiment Analysis Score**: 0.30
+   - **Adjusted Score**: 0.40
+   - **Confidence**: Medium
+   - **Explanation**: "Time-consuming" usually has a mildly negative connotation due to the implication of taking a substantial amount of time. However, the explanation softens this negativity by highlighting the personal investment and benefits gained, thus slightly improving the score.
+
+5. **"Useful"**
+   - **Sentiment Analysis Score**: 0.85
+   - **Adjusted Score**: 0.88
+   - **Confidence**: High
+   - **Explanation**: "Useful" implies strong positivity due to its indication of practicality and benefit. The context further explains how adapting to an existing project structure is valuable in real-world settings, enhancing the sentiment score even more.
+29
+1. **Word: "Customizable"**
+   - **Sentiment Analysis Score: 0.70**
+     - **Explanation: The word "customizable" generally carries a positive connotation since it implies flexibility and adaptability, which are desirable attributes.**
+   - **Adjusted Score: 0.70**
+     - **Confidence: High**
+     - **Contextual Explanation: In the context of a product or system, being customizable is typically seen as a big advantage because it means users can tailor it to their specific needs, which creates a more user-friendly and personalized experience.**
+
+2. **Word: "Fun"**
+   - **Sentiment Analysis Score: 0.85**
+     - **Explanation: "Fun" is a highly positive word that captures enjoyment and pleasure, making it appealing in most contexts.**
+   - **Adjusted Score: 0.85**
+     - **Confidence: High**
+     - **Contextual Explanation: Describing something as "fun" suggests that it is engaging and enjoyable, which can be particularly appealing when referring to activities, games, or interactive learning environments.**
+
+3. **Word: "Motivating"**
+   - **Sentiment Analysis Score: 0.82**
+     - **Explanation: "Motivating" is a positive term that suggests something inspires action, enthusiasm, or determination.**
+   - **Adjusted Score: 0.82**
+     - **Confidence: High**
+     - **Contextual Explanation: When something is described as motivating, it implies that it has the power to encourage and drive people toward their goals, which is a desirable attribute in contexts like education, work environments, and personal development.**
+
+4. **Word: "Stimulating"**
+   - **Sentiment Analysis Score: 0.78**
+     - **Explanation: "Stimulating" is positive and suggests intellectual or emotional engagement, making it a desirable quality.**
+   - **Adjusted Score: 0.78**
+     - **Confidence: High**
+     - **Contextual Explanation: Something stimulating usually provokes interest or excitement, activating mental or physical activity, which is beneficial in contexts that reward engagement, like learning environments or creative pursuits.**
+
+5. **Word: "Valuable"**
+   - **Sentiment Analysis Score: 0.90**
+     - **Explanation: "Valuable" implies worth and benefit, strongly positive attributes in nearly any context.**
+   - **Adjusted Score: 0.90**
+     - **Confidence: High**
+     - **Contextual Explanation: Describing something as valuable indicates that it holds significant worth or utility, which is highly favorable in contexts like education, work, or personal life, as it suggests a high level of importance and benefit.**
+30
+1. **"Intimidating"**
+   - **Sentiment Analysis Score:** 0.20
+   - **Adjusted Score:** 0.20
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "intimidating" generally carries a negative connotation, suggesting something that causes fear or apprehension. This is reflected in the lower sentiment score, as it implies a sense of unease or anxiety in a given context.
+
+2. **"Motivating"**
+   - **Sentiment Analysis Score: 0.80**
+   - **Adjusted Score:** 0.80
+   - **Confidence:** High
+   - **Contextual Explanation:** "Motivating" has a positive connotation, implying something that inspires or encourages action. The relatively high sentiment score reflects the uplifting and positive impact this word generally conveys.
+
+3. **"Overwhelming"**
+   - **Sentiment Analysis Score:** 0.30
+   - **Adjusted Score:** 0.30
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "overwhelming" is often associated with being excessively burdened or flooded with feelings, which can be negative. Therefore, it is assigned a lower sentiment score. The sense of being overpowered often relates to stress or difficulty in managing situations.
+
+4. **"Stimulating"**
+   - **Sentiment Analysis Score:** 0.75
+   - **Adjusted Score:** 0.75
+   - **Confidence:** High
+   - **Contextual Explanation:** "Stimulating" typically carries a positive connotation, suggesting something that excites, energizes, or provokes thought. This is reflected in the higher sentiment score, indicating that it generally evokes an enthusiastic or invigorating response.
+
+5. **"Usable"**
+   - **Sentiment Analysis Score:** 0.70
+   - **Adjusted Score:** 0.70
+   - **Confidence:** Medium
+   - **Contextual Explanation:** The term "usable" is generally positive, as it implies practicality and functionality. However, it is not as emotionally charged as some of the other words analyzed here. Its moderately high sentiment score reflects its practicality and positive connotation without suggesting strong emotional impact.
+31
+1. **"Collaborative", ""**
+   - **Sentiment Analysis Score:** 0.75 
+     - **Adjusted Score:** 0.75
+     - **Confidence:** High
+     - **Explanation:** "Collaborative" carries a generally positive sentiment as it implies working together harmoniously with others towards a common goal. It is often associated with teamwork and productivity, which are typically viewed favorably.
+
+2. **"Frustrating", ""**
+   - **Sentiment Analysis Score:** 0.20
+     - **Adjusted Score:** 0.20
+     - **Confidence:** High
+     - **Explanation:** "Frustrating" has a strongly negative sentiment as it indicates a presence of annoyance or dissatisfaction. The term typically suggests that a situation is difficult or irritating, leading to exasperation and stress.
+
+3. **"Fun", ""**
+   - **Sentiment Analysis Score:** 0.90
+     - **Adjusted Score:** 0.90
+     - **Confidence:** High
+     - **Explanation:** "Fun" has a very positive sentiment as it is associated with enjoyment, pleasure, and amusement. It evokes feelings of happiness and positivity, suggesting that an activity or situation is enjoyable and engaging.
+
+4. **"Time-consuming", ""**
+   - **Sentiment Analysis Score:** 0.40
+     - **Adjusted Score:** 0.40
+     - **Confidence:** High
+     - **Explanation:** "Time-consuming" has a slightly negative sentiment because it implies that an activity takes a lot of time, which may be viewed as inefficient or burdensome. It doesn't carry an extremely negative connotation, but it does suggest a certain level of inconvenience.
+
+5. **"Unpredictable", ""**
+   - **Sentiment Analysis Score:** 0.50
+     - **Adjusted Score:** 0.50
+     - **Confidence:** Medium
+     - **Explanation:** "Unpredictable" is neutral to slightly negative as it can imply both potential excitement as well as instability or risk. The sentiment may vary depending on context—while unpredictability can be thrilling and lead to positive surprises, it can also lead to uncertainty and lack of reliability, which are often considered negative.
+32
+1. **Complex**
+   - Sentiment Analysis Score: 0.50 
+   - Adjusted Score: 0.55 
+   - Confidence: Medium
+   - Contextual Explanation: The word "complex" suggests a neutral sentiment, as it indicates multiple elements or intricacies without a clear positive or negative connotation. The explanation "Quite a bit going on" mildly tilts it positively by implying a rich or detailed nature, although it could also hint at a potential challenge.
+
+2. **Comprehensive**
+   - Sentiment Analysis Score: 0.70
+   - Adjusted Score: 0.75
+   - Confidence: High
+   - Contextual Explanation: "Comprehensive" typically carries a positive connotation, signifying thoroughness and inclusiveness. The explanation enhances this perception by emphasizing the wide scope and numerous concepts covered, suggesting depth and quality in the work being described.
+
+3. **Organized**
+   - Sentiment Analysis Score: 0.65
+   - Adjusted Score: 0.60
+   - Confidence: Medium
+   - Contextual Explanation: "Organized" indicates a positive sentiment related to structure and order. However, needing "enough search time" to find components lessens the strength of the positive connotation, suggesting that while everything is in place, it might not be easily accessible or user-friendly.
+
+4. **Overwhelming**
+   - Sentiment Analysis Score: 0.20
+   - Adjusted Score: 0.15
+   - Confidence: High
+   - Contextual Explanation: The word "overwhelming" generally has a negative sentiment, denoting stress or difficulty in managing the workload. The explanation reinforces this by describing significant challenges and a heavy workload towards the end of the class, affirming the negative sentiment.
+
+5. **Usable**
+   - Sentiment Analysis Score: 0.50
+   - Adjusted Score: 0.45
+   - Confidence: Medium 
+   - Contextual Explanation: "Usable" conveys a neutral sentiment, indicating functionality but not necessarily ease or enjoyment. The explanation clarifies that while the project was functional and well-prepared ("well commented and partitioned"), it was difficult to navigate, slightly reducing the overall positive sentiment.
+33
+1. **Attractive:**
+    - **Sentiment Score:** 0.75
+    - **Adjusted Score:** 0.85
+    - **Confidence:** High
+    - **Contextual Explanation:** 
+      The word "attractive" generally exudes a positive sentiment, suggesting something appealing or pleasing. In the context of working with classmates, it indicates a pleasant and enjoyable experience which further enhances the positivity, resulting in a slightly higher adjusted score.
+
+2. **Exciting:**
+    - **Sentiment Score:** 0.85
+    - **Adjusted Score:** 0.90
+    - **Confidence:** High
+    - **Contextual Explanation:** 
+      The word "exciting" strongly conveys a sense of enthusiasm and anticipation. Mentioning a "ship competition" suggests a stimulating and engaging experience, reinforcing the positive sentiment and justifying a high adjusted score.
+
+3. **Motivating:**
+    - **Sentiment Score:** 0.80
+    - **Adjusted Score:** 0.90
+    - **Confidence:** High
+    - **Contextual Explanation:** 
+      The term "motivating" connotes inspiration and encouragement. In the context of striving to have the best ship, it suggests an uplifting and driven atmosphere, thus boosting the sentiment value.
+
+4. **Useful:**
+    - **Sentiment Score:** 0.70
+    - **Adjusted Score:** 0.75
+    - **Confidence:** Medium
+    - **Contextual Explanation:** 
+      The word "useful" denotes practicality and benefit, which is generally positive but more neutral compared to the previous terms. The context of understanding a "big project" adds some value, but the overall adjustment remains modest.
+
+5. **Valuable:**
+    - **Sentiment Score:** 0.80
+    - **Adjusted Score:** 0.85
+    - **Confidence:** High
+    - **Contextual Explanation:** 
+      The term "valuable" signifies worth and importance. The context of contributing to a "big project" adds additional relevance and significance, hence the high sentiment score and a slight positive adjustment.
+34
+1. **"Customizable"**
+   - **Sentiment score:** 0.75 
+     - The term "customizable" conveys a positive sentiment indicating flexibility and user control.
+   - **Adjusted score:** 0.85 (High)
+     - The explanation highlights the ability to "make your ship do whatever you wanted," enhancing the sense of empowerment and personal expression.
+   - **Contextual explanation:** The word "customizable" evokes a strong positive feeling toward the flexibility and personal control offered by the feature. With the explanation, this sentiment gets even stronger as it emphasizes the freedom and possibilities available to the user.
+
+2. **"Exciting"**
+   - **Sentiment score:** 0.85 
+     - "Exciting" is inherently a positive term, suggesting thrill and engagement.
+   - **Adjusted score:** 0.90 (High)
+     - The explanation connects the excitement to witnessing the outcomes of one's programming efforts, further enhancing the positive emotional appeal.
+   - **Contextual explanation:** "Exciting" brings forth a highly positive emotional response related to engagement and anticipation. The context of seeing one's programming work in action heightens this sense of enthusiasm and positive energy.
+
+3. **"Frustrating"**
+   - **Sentiment score:** 0.30 
+     - "Frustrating" carries a negative sentiment, indicating annoyance and difficulty.
+   - **Adjusted score:** 0.40 (Medium)
+     - Although "frustrating" remains somewhat negative, the explanation frames it as a challenge that ultimately promotes deeper thinking and understanding, slightly mitigating its negativity.
+   - **Contextual explanation:** The term "frustrating" typically evokes negative feelings of difficulty and annoyance. However, in the given context, it contributes to personal growth and intellectual engagement, which lessens the overall negativity.
+
+4. **"High quality"**
+   - **Sentiment score:** 0.85 
+     - "High quality" is a positive term indicating excellence and superior standards.
+   - **Adjusted score:** 0.88 (High)
+     - The additional context that the game was well put together and user-friendly slightly enhances the perception of excellence and reliability.
+   - **Contextual explanation:** "High quality" evokes a sense of excellence and reliability, strongly positive in nature. When qualified by specifics such as ease of implementation and good construction, the sentiment is slightly enriched, further solidifying a high positive regard.
+
+5. **"Stimulating"**
+   - **Sentiment score:** 0.80 
+     - "Stimulating" conveys a positive sentiment related to intellectual engagement and interest.
+   - **Adjusted score:** 0.90 (High)
+     - The explanation that the experience was novel, thought-provoking, and educational enhances the positive sentiment, reflecting deep engagement and satisfaction.
+   - **Contextual explanation:** "Stimulating" evokes a robust positive feeling of intellectual challenge and engagement. With the added context of novelty and understanding, this sentiment is deepened, highlighting a rewarding and thought-provoking experience.
+35
+1. "Gets in the way," 
+   - Sentiment Score: 0.35 
+   - Adjusted Score: 0.20 (low confidence)
+   - Contextual Explanation: The phrase "gets in the way" generally has a slightly negative connotation, implying obstruction. The explanation emphasizes severe negative impact on mental health and stress, further reducing the sentiment score.
+
+2. "Intimidating,"
+   - Sentiment Score: 0.25 
+   - Adjusted Score: 0.10 (medium confidence)
+   - Contextual Explanation: The term "intimidating" already carries a strong negative connotation, indicating fear or discouragement. The explanation underscores a complete lack of motivation and perceived value, thus intensifying the negative sentiment.
+
+3. "Not valuable,"
+   - Sentiment Score: 0.20 
+   - Adjusted Score: 0.15 (medium confidence)
+   - Contextual Explanation: "Not valuable" is clearly negative on its own. The explanation contextualizes it with professional irrelevance and lack of interest, validating the negative sentiment further.
+
+4. "Overwhelming,"
+   - Sentiment Score: 0.15 
+   - Adjusted Score: 0.05 (high confidence)
+   - Contextual Explanation: "Overwhelming" denotes a high degree of negative affect. The detailed explanation about struggling with code and preferring hands-on learning underlines intense feelings of frustration and helplessness, leading to a very negative sentiment score.
+
+5. "Stressful,"
+   - Sentiment Score: 0.10 
+   - Adjusted Score: 0.05 (high confidence)
+   - Contextual Explanation: "Stressful" is a strongly negative term. The explanation conveys a severe emotional toll, including tears and fear of failure, which corroborates and amplifies the intensely negative sentiment.
+36
+1. "Accessible"
+   - Sentiment Score: 0.70
+   - Adjusted Score: 0.75
+   - Confidence: High
+   - Contextual Explanation: The word "accessible" typically conveys a positive sentiment because it means something is easy to approach or understand. In the context of the explanation, the task being described as "small" and "accessible" further enhances the positive sentiment by implying that it was manageable and within reach amidst a complex project.
+
+2. "Fresh"
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.85
+   - Confidence: Medium
+   - Contextual Explanation: "Fresh" has a positive connotation, suggesting that something is new, invigorating, or different in a pleasing way. The additional context about enjoying the challenge of a competitive programming assignment enhances the sentiment, highlighting that the change from routine assignments was not just novel but also enjoyable.
+
+3. "Fun"
+   - Sentiment Score: 0.90
+   - Adjusted Score: 0.88
+   - Confidence: High
+   - Contextual Explanation: "Fun" is a highly positive term, indicating enjoyment and pleasure. The added context regarding engagement in the strategic and competitive nature of the assignment reaffirms that the task was enjoyable, but the slight adjustment accounts for the potential subjective variance in what one considers "fun."
+
+4. "Stimulating"
+   - Sentiment Score: 0.85
+   - Adjusted Score: 0.85
+   - Confidence: Medium
+   - Contextual Explanation: "Stimulating" is a positive word suggesting mental engagement and excitement. The explanation referencing reasons tied to "fun" underscores a positive sentiment but doesn't provide additional unique context, maintaining the sentiment at a stable level due to the redundancy.
+
+5. "Valuable"
+   - Sentiment Score: 0.88
+   - Adjusted Score: 0.80
+   - Confidence: Medium
+   - Contextual Explanation: "Valuable" conveys significant positive sentiment, signifying that something is of great worth or importance. However, the context includes a caveat about the specific learning outcomes related to data structures and algorithms, slightly diminishing the overall sentiment owing to the expressed uncertainty about direct educational gains.
+37
+1. "Appealing":
+   - **Sentiment Score**: 0.80 
+   - **Adjusted Score**: 0.85
+   - **Confidence**: High
+   - **Explanation**: The word "appealing" generally carries a positive connotation, suggesting something is attractive or inviting. The context enhances this positive sentiment as it indicates enthusiasm about an introductory opportunity to code video games, making the experience sound both exciting and beneficial.
+
+2. "Complex":
+   - **Sentiment Score**: 0.40 
+   - **Adjusted Score**: 0.50
+   - **Confidence**: Medium
+   - **Explanation**: The word "complex" can have a neutral or slightly negative connotation depending on the context, as it often implies difficulty or intricacy. The explanation here adds a slight positive angle, suggesting that while it was initially overwhelming, gaining experience with various aspects could be seen as a learning opportunity.
+
+3. "Fun":
+   - **Sentiment Score**: 0.85 
+   - **Adjusted Score**: 0.90
+   - **Confidence**: High
+   - **Explanation**: The word "fun" has a strong positive connotation, implying enjoyment and pleasure. The context provided reinforces this positive sentiment as it talks about enjoying the challenge of problem-solving and troubleshooting in coding, indicating a fulfilling and engaging experience.
+
+4. "Intimidating":
+   - **Sentiment Score**: 0.20 
+   - **Adjusted Score**: 0.30
+   - **Confidence**: High
+   - **Explanation**: "Intimidating" typically has a negative connotation, indicating something that causes fear or apprehension. However, the explanation suggests that in practice, coding was simpler than expected, slightly mitigating the initially negative impression and showing a progressive improvement in perspective.
+
+5. "Motivating":
+   - **Sentiment Score**: 0.90 
+   - **Adjusted Score**: 0.95
+   - **Confidence**: High
+   - **Explanation**: The word "motivating" carries a highly positive connotation, signifying something that inspires or encourages effort and enthusiasm. The explanation amplifies this sentiment by linking the motivation to a specific, aspirational goal (coding video games) and a sense of capability, further boosting the positive impact.
+38
+1. **Easy to use**: 
+   - Original Sentiment Score: 0.85 
+   - Adjusted Score: 0.85 
+   - Confidence: High
+   - Contextual Explanation: "Easy to use" has a positive connotation since it implies that the user experience is intuitive and straightforward, conducive to a satisfying interaction with the product or service.
+
+2. **Flexible**: 
+   - Original Sentiment Score: 0.75 
+   - Adjusted Score: 0.75 
+   - Confidence: High
+   - Contextual Explanation: "Flexible" is also positively perceived, as it indicates adaptability and the ability to suit different needs and preferences, which enhances the value and usability of the product.
+
+3. **Fun**: 
+   - Original Sentiment Score: 0.80 
+   - Adjusted Score: 0.80 
+   - Confidence: High
+   - Contextual Explanation: Describing something as "fun" suggests that it provides enjoyment and pleasure, thus creating a positive emotional response and increasing user satisfaction.
+
+4. **Simplistic**: 
+   - Original Sentiment Score: 0.60 
+   - Adjusted Score: 0.60 
+   - Confidence: Medium
+   - Contextual Explanation: "Simplistic" could be interpreted positively, implying simplicity and ease, but it can also carry a slightly negative connotation by suggesting an oversimplification that may lack depth or sophistication.
+
+5. **Usable**: 
+   - Original Sentiment Score: 0.70 
+   - Adjusted Score: 0.70 
+   - Confidence: High
+   - Contextual Explanation: "Usable" conveys that the item is practical and functional enough to meet users' needs. While it's a positive attribute, it is somewhat more neutral compared to more enthusiastic descriptors like "easy to use" or "fun."
+39
+1. "Exciting",""
+   - Sentiment Score: 0.85
+   - Adjusted Sentiment Score: 0.85
+   - Confidence: High
+   - Contextual Explanation: "Exciting" typically carries a positive connotation, suggesting that something is thrilling or highly engaging. No additional context is needed as the word inherently conveys positive emotion.
+
+2. "Fun",""
+   - Sentiment Score: 0.90
+   - Adjusted Sentiment Score: 0.90
+   - Confidence: High
+   - Contextual Explanation: "Fun" has a strongly positive sentiment, indicating enjoyment or pleasure. The lack of additional context doesn't change its inherently cheerful connotation.
+
+3. "Motivating",""
+   - Sentiment Score: 0.80
+   - Adjusted Sentiment Score: 0.80
+   - Confidence: High
+   - Contextual Explanation: "Motivating" suggests an encouraging or inspiring quality, evoking a positive emotional response. The term implies encouragement and the drive to achieve goals, both of which are positive attributes.
+
+4. "Stimulating",""
+   - Sentiment Score: 0.75
+   - Adjusted Sentiment Score: 0.75
+   - Confidence: High
+   - Contextual Explanation: "Stimulating" conveys a sense of intellectual or emotional arousal, which is generally considered positive. It suggests excitement and engagement, but not as strongly positive as "Exciting" or "Fun."
+
+5. "Valuable",""
+   - Sentiment Score: 0.70
+   - Adjusted Sentiment Score: 0.70
+   - Confidence: High
+   - Contextual Explanation: "Valuable" carries a positive sentiment as it implies worth or importance. Although it is a positive word, it is more neutral compared to emotional or entertaining words like "Fun" or "Exciting," focusing instead on utility or benefit.
+
+
+40
+1. **"Exciting","I like final game"**
+   - Sentiment Analysis Score: 0.80
+   - Adjusted Score: 0.85
+   - Confidence: High
+
+   **Contextual Explanation**: The word "Exciting" generally conveys strong positive feelings, suggesting something that generates a high level of enthusiasm and interest. Combined with the explanation "I like final game," the sentiment is reinforced, indicating a positive anticipation or enjoyment related to the final game. The sentiment score is therefore quite high, showing clear positive emotions.
+
+2. **"Fun","I don't think that I haven't studied for this semester."**
+   - Sentiment Analysis Score: 0.75
+   - Adjusted Score: 0.60
+   - Confidence: Medium
+
+   **Contextual Explanation**: "Fun" is typically a positive word, indicating enjoyment and amusement. However, the provided explanation introduces confusion with a double negative ("I don't think that I haven't studied for this semester"), which muddles the sentiment. It implies uncertainty about preparedness rather than pure enjoyment, slightly diminishing the positivity of the term "fun”.
+
+3. **"Gets in the way",""**
+   - Sentiment Analysis Score: 0.20
+   - Adjusted Score: 0.20
+   - Confidence: High
+
+   **Contextual Explanation**: The phrase "Gets in the way" has a negative connotation, implying interference or an obstacle. Without further explanation, this sentiment is straightforward. It's associated with inconvenience or hindrance, which universally lowers the sentiment.
+
+4. **"High quality",""**
+   - Sentiment Analysis Score: 0.90
+   - Adjusted Score: 0.90
+   - Confidence: High
+
+   **Contextual Explanation**: "High quality" is a strongly positive term, indicating excellence and superior standards. The implication is that something meets a high standard of performance or attributes, which is a highly positive sentiment. The confidence is high due to the clear and unambiguous positive nature of the term.
+
+5. **"Usable",""**
+   - Sentiment Analysis Score: 0.65
+   - Adjusted Score: 0.65
+   - Confidence: High
+
+   **Contextual Explanation**: "Usable" is a moderately positive term, conveying that something is functional and adequate for its purpose. It suggests utility but not exceptional quality. The sentiment is thus positive but not overwhelmingly so, and the confidence is high as the term’s meaning is clear and straightforward.
+41
+1. "Complex"
+   - Initial Sentiment: 0.40
+     - Explanation: The word "complex" often carries a slightly negative connotation as it suggests difficulty and potential frustration.  
+   - Adjusted Sentiment: 0.35
+     - Explanation Context: The provided explanation points out potential issues with using the software, further emphasizing the complexity as a drawback and reinforcing the slightly negative sentiment.
+   - Confidence: High
+
+2. "Stimulating"
+   - Initial Sentiment: 0.70
+     - Explanation: Generally a positive word as it implies engagement and interest.
+   - Adjusted Sentiment: 0.80
+     - Explanation Context: The accompanying explanation highlights "really interesting," which further underscores a strong positive perception about how everything worked together.
+   - Confidence: High
+
+3. "Straight forward"
+   - Initial Sentiment: 0.85
+     - Explanation: "Straightforward" suggests ease and clarity, typically holding a very positive connotation.
+   - Adjusted Sentiment: 0.80
+     - Explanation Context: The explanation indicates that initial complexity is overcome, suggesting that while it is positive, there’s an initial barrier that modifies the score slightly.
+   - Confidence: Medium
+
+4. "Usable"
+   - Initial Sentiment: 0.65
+     - Explanation: "Usable" is generally positive, indicating functionality and practical application.
+   - Adjusted Sentiment: 0.70
+     - Explanation Context: The further explanation emphasizes the positive nature by showcasing that it meets basic needs well, giving a slight boost in positivity.
+   - Confidence: Medium
+
+5. "Valuable"
+   - Initial Sentiment: 0.90
+     - Explanation: "Valuable" is a strong positive word, signifying worth and benefit.
+   - Adjusted Sentiment: 0.95
+     - Explanation Context: The explanation emphasizes its significance especially in a collaborative learning environment, thus reinforcing and even enhancing the positivity.
+   - Confidence: High
+42
+1. "Fun":
+   - Sentiment Score: 0.95 (Fun is generally associated with positive experiences and enjoyment.)
+   - Adjusted Score: 0.70 (The note that "usually, it is better to be interesting" introduces a slight negative undertone by implying that "fun" might not always be the best quality.)
+   - Confidence: High
+   - Contextual Explanation: The word "fun" typically conveys a strong positive sentiment as it describes activities or situations that are enjoyable and entertaining. However, the adjustment is necessary here because the explanation suggests that being interesting might be preferred over being fun, thus slightly reducing the overall positivity.
+
+2. "Hard to use":
+   - Sentiment Score: 0.20 (Describing something as hard to use generally indicates difficulty or frustration.)
+   - Adjusted Score: 0.20 (The explanation "cause unknown" does not alter the sentiment since it does not provide additional context that would change the difficulty perception.)
+   - Confidence: High
+   - Contextual Explanation: "Hard to use" conveys a negative sentiment as it often refers to something that is difficult to operate or understand, leading to user frustration. The lack of a specified cause maintains the original sentiment score.
+
+3. "Slow":
+   - Sentiment Score: 0.30 (Slowness in most contexts is seen negatively, especially regarding performance.)
+   - Adjusted Score: 0.25 (The explanation indicates confusion or a lack of understanding, which slightly increases the negative impact because it adds to the frustration of the slow performance.)
+   - Confidence: Medium
+   - Contextual Explanation: The word "slow" generally implies inefficiency or lag, which carries a negative sentiment. The additional note about not being sure why the controller is slow adds to the frustration and confusion, further intensifying the negative sentiment.
+
+4. "Uncontrollable":
+   - Sentiment Score: 0.10 (Being uncontrollable usually indicates a severe problem or difficulty in managing something, leading to strong negative emotions.)
+   - Adjusted Score: 0.10 (The "cause unknown" explanation does not provide additional context to mitigate or alter the negative impression of the term.)
+   - Confidence: High
+   - Contextual Explanation: "Uncontrollable" is strongly negative as it suggests a lack of ability to manage or direct something, which can be particularly problematic. The absence of a known cause for this state reinforces the original negative sentiment without providing any mitigating factors.
+
+5. "Unconventional":
+   - Sentiment Score: 0.60 (Unconventional can be seen positively as innovative and different, or negatively as non-standard and potentially confusing. Generally, it tends towards the positive side for its novelty.)
+   - Adjusted Score: 0.60 (Without further context provided by "cause unknown," the sentiment remains largely the same since the ambiguity does not decisively lean positive or negative.)
+   - Confidence: Medium
+   - Contextual Explanation: "Unconventional" denotes something that deviates from the standard, which can be perceived positively as innovative or negatively as impractical. The sentiment leans slightly positive, valuing novelty and creativity, and the unknown cause does not substantially alter this perception.
+43
+1. **"Comprehensive"**
+   - Sentiment Score: 0.85
+   - Adjusted Score: 0.90
+   - Confidence: High
+     - **Contextual Explanation:** "Comprehensive" inherently conveys completeness and thoroughness, which are positive attributes, especially in educational or informational contexts. The explanation further accentuates the value by highlighting the diverse methods of approaching tasks, enhancing the positive sentiment slightly.
+
+2. **"Easy to use"**
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.85 
+   - Confidence: High
+     - **Contextual Explanation:** "Easy to use" suggests simplicity and user-friendliness, both positive characteristics. The explanation supports this sentiment by indicating that pre-existing structures facilitate ease of programming, thereby solidifying the positive perception.
+
+3. **"Stimulating"**
+   - Sentiment Score: 0.75
+   - Adjusted Score: 0.80
+   - Confidence: High
+     - **Contextual Explanation:** "Stimulating" implies engagement and mental challenge, which are generally positive, especially in contexts requiring cognitive effort. The accompanying explanation underscores the intellectual engagement and problem-solving aspects, slightly increasing the positive sentiment.
+
+4. **"Straightforward"**
+   - Sentiment Score: 0.70
+   - Adjusted Score: 0.75
+   - Confidence: Medium
+     - **Contextual Explanation:** "Straightforward" suggests clarity and simplicity, usually positive traits. The additional 'No nonsense and straight to the point' reinforces the directness and efficiency, enhancing the sentiment slightly but not as strongly as more complex descriptors might.
+
+5. **"Time-consuming"**
+   - Sentiment Score: 0.40
+   - Adjusted Score: 0.55
+   - Confidence: Medium
+     - **Contextual Explanation:** "Time-consuming" typically has a negative sentiment due to the implication of inefficiency or difficulty. However, the explanation "(not in a bad way)" mitigates this negativity, suggesting a neutral to slightly positive view by implying the time required leads to thoroughness or learning, somewhat elevating the score.
+44
+1. "Customizable"
+   Sentiment Score: 0.86
+   Adjusted Score: 0.87
+   Confidence: High
+   Contextual Explanation: The word "customizable" generally has a positive connotation, indicating flexibility and personalization. The explanation further supports this by implying variety and control, thus enhancing the positive sentiment slightly.
+
+2. "Fresh"
+   Sentiment Score: 0.79
+   Adjusted Score: 0.81
+   Confidence: Medium
+   Contextual Explanation: "Fresh" is typically a positive term, suggesting newness and originality. The explanation underlines an element of novelty and excitement, which boosts the score.
+
+3. "Fun"
+   Sentiment Score: 0.92
+   Adjusted Score: 0.93
+   Confidence: High
+   Contextual Explanation: The word "fun" is highly positive, indicating enjoyment and pleasure. The explanation confirms an enjoyable experience, further solidifying the high sentiment score.
+
+4. "Stimulating"
+   Sentiment Score: 0.85
+   Adjusted Score: 0.86
+   Confidence: High
+   Contextual Explanation: "Stimulating" generally conveys an engaging, mentally invigorating experience. The explanation reinforces that the project was thought-provoking, which slightly increases the positive sentiment.
+
+5. "Time-consuming"
+   Sentiment Score: 0.28
+   Adjusted Score: 0.35
+   Confidence: Medium
+   Contextual Explanation: "Time-consuming" often carries a negative sentiment due to the implication of significant time investment. However, the explanation mentions having fun, which somewhat mitigates the negativity, raising the score.
+45
+1. **"Easy to use"**
+   - **Sentiment Analysis Score: 0.80**
+     - **Contextual Explanation**: "Easy to use" conveys a positive experience, suggesting simplicity and user-friendliness of the system.
+   - **Adjusted Score: 0.85**
+     - **Confidence: High**
+     - **Contextual Explanation**: The explanation further highlights how well the system's nomenclature and organization contribute to ease of use, thus slightly boosting the sentiment score.
+
+2. **"Fun"**
+   - **Sentiment Analysis Score: 0.90**
+     - **Contextual Explanation**: "Fun" implies a highly positive emotional response, suggesting enjoyment and engagement.
+   - **Adjusted Score: 0.95**
+     - **Confidence: High**
+     - **Contextual Explanation**: The elaboration underscores the enjoyment derived from the assignment, particularly emphasizing the excitement of competition among classmates, which enhances the initial sentiment.
+
+3. **"Inviting"**
+   - **Sentiment Analysis Score: 0.85**
+     - **Contextual Explanation**: "Inviting" implies a positive environment that is welcoming and approachable, particularly for students who may otherwise feel uncomfortable.
+   - **Adjusted Score: 0.90**
+     - **Confidence: High**
+     - **Contextual Explanation**: The explanation details how the system's accessibility and the readiness of example materials contribute to creating an inclusive and encouraging learning environment, enhancing the welcoming nature.
+
+4. **"Organized"**
+   - **Sentiment Analysis Score: 0.75**
+     - **Contextual Explanation**: "Organized" indicates a positive attribute related to the structure and ease of navigation through the code, but it does not evoke strong emotions.
+   - **Adjusted Score: 0.85**
+     - **Confidence: High**
+     - **Contextual Explanation**: The explanation emphasizes the clarity and ease of finding related functions within the code, adding to the perceived value of the organization and increasing the sentiment slightly.
+
+5. **"Unconventional"**
+   - **Sentiment Analysis Score: 0.60**
+     - **Contextual Explanation**: "Unconventional" has a neutral to slightly positive sentiment, suggesting something that is non-traditional and potentially interesting but not inherently positive.
+   - **Adjusted Score: 0.70**
+     - **Confidence: Medium**
+     - **Contextual Explanation**: The explanation notes that despite its non-traditional nature, the approach led to increased student effort and learning, thus adding a positive spin to the unconventional methodology and improving the sentiment score.
+46
+1. "Exciting"
+   - Sentiment score: 0.85
+   - Adjusted score: 0.88
+   - Confidence: High
+   - Contextual explanation: The word "exciting" inherently carries a high sentiment score as it conveys a sense of enthusiasm and anticipation. The explanation enhances this sentiment as the author discusses their love for learning new things and having fun, which boosts the positive connotation slightly.
+
+2. "High quality"
+   - Sentiment score: 0.78
+   - Adjusted score: 0.75
+   - Confidence: Medium
+   - Contextual explanation: "High quality" has a positive but moderate sentiment score, as it implies good standards. However, mentioning that the assignments are the same every period introduces a repetitive and potentially less exciting element, slightly reducing the positive sentiment.
+
+3. "Intimidating"
+   - Sentiment score: 0.20
+   - Adjusted score: 0.15
+   - Confidence: High
+   - Contextual explanation: The word "intimidating" has a low sentiment score because it suggests fear or anxiety. The explanation further emphasizes this negative sentiment by discussing feelings of being overwhelmed and the difficulty in tracking classes, which decreases the score even more.
+
+4. "Straight forward"
+   - Sentiment score: 0.60
+   - Adjusted score: 0.50
+   - Confidence: Medium
+   - Contextual explanation: "Straight forward" typically has a moderate positive connotation, indicating simplicity and ease. However, the context of wanting to see new applications instead of using an older one (Eclipse being described as "old") suggests a desire for improvement, slightly reducing the overall positive sentiment.
+
+5. "Useful"
+   - Sentiment score: 0.80
+   - Adjusted score: 0.82
+   - Confidence: High
+   - Contextual explanation: "Useful" carries a high sentiment score as it implies practicality and benefit. The explanation adds value to this positive sentiment by discussing the continuous practice and relevance to past coursework, marginally increasing the positive connotation.
+47
+1. **Word Choice: "Exciting"**
+   - **Sentiment Score: 0.85**
+     - **Explanation: "When I would successfully implement a feature, it would really boost my morale seeing myself make noticeable progress"**
+     - **Adjusted Sentiment Score: 0.90**
+     - **Confidence: High**
+     - **Contextual Explanation:**
+       - The word "Exciting" naturally carries a high positive sentiment, which is reflected in the score. The explanation provided further enhances this sentiment as it expresses feelings of accomplishment and personal growth. Successfully implementing a feature and seeing tangible progress translates into increased morale, which makes the experience even more "exciting". Thus, the score is adjusted slightly upwards.
+
+2. **Word Choice: "Intimidating"**
+   - **Sentiment Score: 0.20**
+     - **Explanation: "When I first downloaded eclipse and Im ported the code, I was really intimidated By all the lines of code. I wasnt sure where to start."**
+     - **Adjusted Sentiment Score: 0.10**
+     - **Confidence: High**
+     - **Contextual Explanation:**
+       - The word "Intimidating" carries a low sentiment score since it implies fear or uncertainty. The explanation reveals feelings of being overwhelmed and unsure about how to proceed, which deepens the negative sentiment. This justification supports a lower adjusted score, as the situation described adds to the sense of anxiousness and difficulty.
+
+3. **Word Choice: "Motivating"**
+   - **Sentiment Score: 0.80**
+     - **Explanation: "Learning how to navigate the environment and implement an algorithm for the controller feels rewarding and motivating to keep working."**
+     - **Adjusted Sentiment Score: 0.85**
+     - **Confidence: High**
+     - **Contextual Explanation:**
+       - "Motivating" has a naturally positive sentiment, suggesting encouragement and drive. The provided explanation mentions the rewarding aspect of learning and achieving tasks, which elevates the sentiment even further. The sense of ongoing motivation and the rewarding feeling justify an increase in the sentiment score.
+
+4. **Word Choice: "Time-consuming"**
+   - **Sentiment Score: 0.40**
+     - **Explanation: "Trying to successfully implement features required lots of trial and error and adjusting the code just right. Its a time commitment to build the controller into the game environment."**
+     - **Adjusted Sentiment Score: 0.35**
+     - **Confidence: Medium**
+     - **Contextual Explanation:**
+       - "Time-consuming" indicates a somewhat negative sentiment as it implies that a lot of time and effort is needed, which can be burdensome. The description highlights the extensive trial and error and the significant time commitment required, which nudges the sentiment further downward. Thus, the adjusted score is slightly lower, making the sentiment more negative to reflect the challenges and effort involved.
+
+5. **Word Choice: "Useful"**
+   - **Sentiment Score: 0.75**
+     - **Explanation: "Implementing the controller in such a dynamic environment is useful because its unique. It requires creative thinking. The code library at any business is also going to be unique and have its own nuances and solutions. So, developing in a dynamic environment is useful to prepare for code we might encounter in a professional setting."**
+     - **Adjusted Sentiment Score: 0.80**
+     - **Confidence: High**
+     - **Contextual Explanation:**
+       - "Useful" carries a positive sentiment as it denotes practicality and value. The explanation underscores the uniqueness and the creative challenge involved in implementing a controller, which adds additional positivity. Moreover, linking this utility to future professional preparation increases the word's relevance and positive connotations, justifying a slightly higher adjusted score.
+48
+1. "Comprehensive"
+   - Sentiment Score: 0.70
+   - Adjusted Score: 0.75
+   - Confidence: High
+   - Contextual Explanation: "Comprehensive" indicates thoroughness and inclusivity, which generally carries a positive connotation, especially in the context of covering a wide range of topics. The explanation provided gives it a slight boost, as it emphasizes the opportunity and scope the word implies.
+
+2. "Exciting"
+   - Sentiment Score: 0.85
+   - Adjusted Score: 0.90
+   - Confidence: High
+   - Contextual Explanation: "Exciting" is inherently a positive word, associated with strong feelings of enthusiasm and engagement. The explanation about the project drawing the person in and making them willing to spend more time than required increases its positivity, reflecting high satisfaction and engagement.
+
+3. "Fun"
+   - Sentiment Score: 0.90
+   - Adjusted Score: 0.95
+   - Confidence: High
+   - Contextual Explanation: "Fun" is a highly positive word that implies enjoyment and pleasure. The explanation reinforces its positivity by suggesting it was exceptionally enjoyable, possibly the most fun the individual has had on a similar task, further boosting its sentiment score.
+
+4. "Straight forward"
+   - Sentiment Score: 0.60
+   - Adjusted Score: 0.65
+   - Confidence: Medium
+   - Contextual Explanation: "Straight forward" typically implies simplicity and ease, which can be positive but is more neutral compared to words that convey excitement or enjoyment. The explanation adds a bit more positivity by highlighting the project's simplicity while also allowing for complexity, thus slightly increasing the sentiment.
+
+5. "Unconventional"
+   - Sentiment Score: 0.70
+   - Adjusted Score: 0.75
+   - Confidence: Medium
+   - Contextual Explanation: "Unconventional" conveys a sense of novelty and uniqueness, which can be positively interpreted as refreshing and interesting. The explanation reinforces this by noting the project's departure from typical assignments and suggesting a memorable, unique experience, thus enhancing its positive sentiment.
+49
+1. **Accessible**
+   - **Sentiment Analysis Score**: 0.75
+   - **Adjusted Score**: 0.70
+   - **Confidence**: High
+   - **Contextual Explanation**: The term “Accessible” generally has a positive sentiment as it implies something is easy to approach or use. However, the explanation mentions an initial difficulty in understanding, which slightly lowers the sentiment score. The accessibility is acknowledged as being high due to the availability of examples that help users figure things out, leading to a generally positive, though moderately adjusted, sentiment score.
+
+2. **Consistent**
+   - **Sentiment Analysis Score**: 0.85
+   - **Adjusted Score**: 0.85
+   - **Confidence**: High
+   - **Contextual Explanation**: The term “Consistent” is positive, suggesting reliability and predictability. The explanation underscores that each ship and object performed as expected, following guidelines, which supports the high positive sentiment. The consistency in behavior of the ships and objects is seen as very reassuring and desirable in the context of the assignment.
+
+3. **Customizable**
+   - **Sentiment Analysis Score**: 0.90
+   - **Adjusted Score**: 0.87
+   - **Confidence**: High
+   - **Contextual Explanation**: "Customizable" is very positive because it implies flexibility and adaptability. The explanation highlights the freedom given to create any type of controller as long as there is a clear strategy and effort, which is highly favorable. However, the task requires effort and explanation, slightly lowering the score but still maintaining a high positive sentiment.
+
+4. **Stimulating**
+   - **Sentiment Analysis Score**: 0.88
+   - **Adjusted Score**: 0.88
+   - **Confidence**: High
+   - **Contextual Explanation**: The word “Stimulating” is highly positive since it suggests that the task is engaging and thought-provoking. The explanation emphasizes the intellectual challenge and the need to think deeply about the workings of the system and the best strategies. This reinforcement of the positive stimulation of critical thinking and problem-solving maintains the high sentiment score.
+
+5. **Straightforward**
+   - **Sentiment Analysis Score**: 0.80
+   - **Adjusted Score**: 0.85
+   - **Confidence**: High
+   - **Contextual Explanation**: “Straightforward” is generally a positive term indicating simplicity and clarity. The explanation backs up this sentiment by stating that once familiar with the system, the task becomes easier to handle, and the assignment itself is seen as fairly straightforward. Thus, the sentiment is slightly adjusted upwards due to the overall ease once the user overcomes the initial learning curve.
+50
+1. "Comprehensive"
+   - Sentiment Score: 0.75
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - Explanation: The word "comprehensive" has a positive connotation, suggesting thoroughness and inclusivity, which can be seen as beneficial, particularly in an educational context. The explanation adds slightly to the sentiment by emphasizing it covers all the material learned during the semester, making it more valuable and reinforcing the positivity.
+
+2. "Connected"
+   - Sentiment Score: 0.70
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - Explanation: "Connected" has a positive sentiment, implying a sense of engagement and involvement, which are typically good aspects. The explanation strengthens this positivity by adding that it kept the speaker "connected and engaged" with the system, which suggests a higher satisfaction level.
+
+3. "Fun"
+   - Sentiment Score: 0.85
+   - Adjusted Score: 0.90
+   - Confidence: High
+   - Explanation: "Fun" is a highly positive word indicating enjoyment and pleasure. The explanation that it was enjoyable to play with after finishing increases the positivity, as it implies a sense of accomplishment and continued engagement.
+
+4. "Motivating"
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - Explanation: "Motivating" has a strong positive sentiment, suggesting it encourages improvement and effort. The explanation adds to this by clarifying it motivated the person to achieve a better ranking, which implies a beneficial drive and ambition instilled by the system.
+
+5. "Stimulating"
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - Explanation: "Stimulating" indicates something that excites or provokes interest and enthusiasm, which are positive aspects. The explanation that it stimulates the speaker to create a better controller adds to the positive sentiment by highlighting an inducement to improve and innovate.

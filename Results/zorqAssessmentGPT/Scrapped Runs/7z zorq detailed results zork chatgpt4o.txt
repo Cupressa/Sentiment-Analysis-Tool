@@ -1,0 +1,344 @@
+1| Although it was a much bigger project than others I'd worked on prior and thus required quite a bit of reading and digesting, I felt it was organized in such a way that someone whose abilities are at the CSIT 330 level should be able to complete it.| 0.75| High| This comment is mostly positive, acknowledging the complexity but also appreciating the organization and attainability.
+
+2| Everyone in class was able to complete a ship controller.| 0.85| High| This is a very positive comment because it indicates that everyone succeeded in completing the task.
+
+3| It was cool to be able to dive into such a complex project and be given a small, accessible task- a controller.| 0.80| High| This is a positive comment because it expresses enthusiasm about the project and the task provided.
+
+4| The use of a game environment contextualized thinking with algorithms in a way that most students were familiar with.| 0.85| High| This is a very positive comment because it appreciates the familiar and contextualized approach to teaching algorithms.
+
+5| This project was an accessible introduction to bigger software projects.| 0.80| High| This is a positive comment because it praises the project as an accessible introduction to larger projects.
+
+6| While it was a little difficult at the start to find the way everything works, there were plenty of example controllers and code to look through allowing you to figure stuff out.| 0.70| High| This is a mostly positive comment because it acknowledges initial difficulty but appreciates the available resources for learning.
+
+7| Gamification of lesson plan made it fun.| 0.85| High| This is a very positive comment because it highlights the enjoyment derived from the gamified lesson plan.
+
+8| I'm hoping to be able to code video games, so this is a great introduction to that.| 0.80| High| This is a positive comment because it aligns the project with the user's aspirations and views it as a great introduction.
+
+9| It was like playing a video game but rather than using a controller you developed code and implemented a strategy using the algorithms and data structures we had been learning about all semester.| 0.85| High| This is a very positive comment because it compares the project to playing a game and appreciates the educational value.
+
+10| It was unconventional and an enjoyable change from regular lesson structure.| 0.80| High| This is a positive comment because it appreciates the unconventional and enjoyable change from the usual lessons.
+
+11| Planning a strategy to achieve a goal in a game environment was very interesting to me.| 0.85| High| This is a very positive comment because it finds the strategic planning in a game environment very interesting.
+
+12| It is nice to work with all my classmates.| 0.80| High| This is a positive comment because it appreciates the collaborative aspect of the project.
+
+13| I worked with other students while we all figured out how this system worked, and applied it to our individual ships.| 0.80| High| This is a positive comment because it highlights the collaborative learning experience.
+
+14| Students, including myself, would collaborate with others when problems occurred, or to share ideas on how to better optimize certain procedures.| 0.80| High| This is a positive comment because it appreciates the collaborative problem-solving and idea-sharing.
+
+15| Worked together with classmates.| 0.80| High| This is a positive comment because it highlights the teamwork involved in the project.
+
+16| I felt like I could do a lot of complex things with the ship if I had the time to implement these things.| 0.70| High| This is a mostly positive comment because it acknowledges the potential for complexity despite time constraints.
+
+17| I think that was the first time I had to analyze and use someone else's code, which was a lot to wrap my head around.| 0.60| High| This is a mixed comment because it acknowledges the challenge of using someone else's code but also recognizes it as a learning experience.
+
+18| Its one of the larger pieces of software I have worked with. Better presentation of what methods we could call could reduce this.| 0.50| High| This is a mixed comment because it acknowledges the large scope of the software but suggests improvements for better presentation.
+
+19| Many parts, using eclipse made it worse - had to learn all aspects of assignment including IDE.| 0.40| High| This is a negative comment because it criticizes the use of Eclipse and the added complexity of learning the IDE.
+
+20| Quite a bit going on.| 0.50| Medium| This is a neutral comment because it simply states that there is a lot happening without clear positive or negative sentiment.
+
+21| The code base we were using was a lot larger than other programs we've used before.| 0.50| High| This is a neutral comment because it simply states a fact about the size of the code base.
+
+22| The system certainly had a lot of variables and possible approaches to creating a ship. Keeping them all in check was a complicated balancing act.| 0.60| High| This is a mixed comment because it acknowledges the complexity and the challenge of managing variables and approaches.
+
+23| We went from editing programs with minimal classes to trying to understand one with 30+| 0.50| High| This is a neutral comment because it describes the transition from simpler programs to a more complex one without clear positive or negative sentiment.
+
+24| When I first looked at the code for the overall game, it was a lot. There are a lot of aspects that I haven't had much experience with.| 0.50| High| This is a neutral comment because it acknowledges the overwhelming nature of the code without clear positive or negative sentiment.
+
+25| Because it included things that we learned during the semester.| 0.75| High| This is a positive comment because it appreciates that the project included relevant learning from the semester.
+
+26| Being larger and more complex than other projects I had worked on, it required a fairly thorough understanding of all the skills a student should have acquired up to that point.| 0.70| High| This is a mostly positive comment because it acknowledges the requirement for a thorough understanding of skills.
+
+27| I chose comprehensive because it gave the opportunity to use a wide array of different topics to complete the task.| 0.75| High| This is a positive comment because it appreciates the comprehensive nature of the project.
+
+28| I had to use a lot of information from previous classes as well as this one to complete the project.| 0.70| High| This is a mostly positive comment because it acknowledges the need to integrate information from various classes.
+
+29| Somewhat tying into the reason given for organized, and the project encompassed a large number of different concepts to look at.| 0.70| High| This is a mostly positive comment because it appreciates the variety of concepts encompassed by the project.
+
+30| Tried to incorporate most of what we learned throughout the semester.| 0.75| High| This is a positive comment because it appreciates the effort to incorporate semester-long learning.
+
+31| We used lots of different elements in the program.| 0.70| High| This is a mostly positive comment because it acknowledges the use of various elements.
+
+32| You learn multiple different ways to go about things.| 0.75| High| This is a positive comment because it appreciates the variety of approaches learned.
+
+33| Same complex.| 0.50| Low| This is a neutral comment because it is too vague to determine a clear sentiment.
+
+34| Because it kept me connected and engaged to the system.| 0.75| High| This is a positive comment because it appreciates the engagement with the system.
+
+35| I felt like it was easy to connect my ship to the game world.| 0.80| High| This is a positive comment because it highlights the ease of integrating the ship into the game world.
+
+36| Each ship and object worked in their intended ways every time. They had guidelines that they followed only spawning and moving in certain ways.| 0.75| High| This is a positive comment because it appreciates the consistent and predictable behavior of ships and objects.
+
+37| Each student was able to customize the ship's instructions their own way making each strategy something different.| 0.80| High| This is a positive comment because it appreciates the customization and unique strategies.
+
+38| I chose customizable because I was able to customize the controller to do what I wanted it to do. I was able to choose the best strategy for my controller so I could get the most points.| 0.80| High| This is a positive comment because it highlights the customization and strategic flexibility.
+
+39| Lots of different ways to make the ship.| 0.75| High| This is a positive comment because it appreciates the variety of ways to create the ship.
+
+40| The task of creating your own spaceship to navigate and combat others seems to be one of the most customizable assignments we experience in the department. Many tasks involve writing code to meet specifications. Here, we have the requirement of envisioning a theoretical goal to achieve an amorphous endgame. It challenges us to find the best of what we can do and envision.| 0.80| High| This is a positive comment because it appreciates the high level of customization and the challenge of envisioning goals.
+
+41| We were given the task of creating our own controller no matter what it did. As long as you could explain its strategy and there was effort behind it you could do whatever.| 0.80| High| This is a positive comment because it appreciates the freedom and flexibility in creating the controller.
+
+42| You could make your ship do whatever you wanted to do.| 0.80| High| This is a positive comment because it highlights the flexibility in designing the ship.
+
+43| You got to choose what feature to add to your ship.| 0.80| High| This is a positive comment because it appreciates the ability to choose features for the ship.
+
+44| You had full control of the ship's controls. You just had to follow the rules of the engine.| 0.80| High| This is a positive comment because it highlights the full control given to users within the engine's rules.
+
+45| Uncompetitive nature of the project.| 0.40| High| This is a slightly negative comment because it criticizes the project as uncompetitive.
+
+46| Because the mainframe of the game was already set up, it made it a lot easier to program.| 0.75| High| This is a positive comment because it appreciates the ease of programming due to the pre-existing mainframe.
+
+47| The system's nomenclature effectively described its functions. The code was organized well, which allowed the user to easily find related functions. Dr. Hastings showed us a simplistic, example ship controller which allowed us to model a more advanced ship controller after it.| 0.80| High| This is a positive comment because it appreciates the clear nomenclature, organization, and helpful examples.
+
+48| I chose empowering because by working on this project I gained confidence in myself as a programmer. I was able to see my problem-solving skills and hard work pay off when we battled in class.| 0.85| High| This is a very positive comment because it highlights the empowering experience and confidence gained.
+
+49| Because I love to learn new things and this is one of the projects challenges but also have fun at same time.| 0.80| High| This is a positive comment because it appreciates the challenging and fun aspects of the project.
+
+50| I chose exciting because it was a project that drew me in, and I spent time on it because I wanted to, not because I had to.| 0.85| High| This is a very positive comment because it highlights the excitement and voluntary engagement with the project.
+
+51| I like the final game.| 0.80| High| This is a positive comment because it expresses liking for the final game.
+
+52| It is exciting to have a ship competition.| 0.85| High| This is a very positive comment because it finds the ship competition exciting.
+
+53| It was exciting to add something I created to a pre-existing system.| 0.85| High| This is a very positive comment because it appreciates the excitement of contributing to a pre-existing system.
+
+54| It was exciting to see how your programming would work against others.| 0.85| High| This is a very positive comment because it finds it exciting to see programming results in competition with others.
+
+55| It was exciting to watch the ships battle!| 0.85| High| This is a very positive comment because it finds the ship battles exciting.
+
+56| It was fun to see a visible manifestation of my code's behavior for the first time.| 0.85| High| This is a very positive comment because it appreciates the fun of seeing code behavior visually.
+
+57| It was fun to watch the ships go head to head, and try to come up with strategies to make them perform better.| 0.85| High| This is a very positive comment because it finds watching ship battles and strategizing fun.
+
+58| When I would successfully implement a feature, it would really boost my morale seeing myself make noticeable progress.| 0.85| High| This is a very positive comment because it highlights the morale boost and satisfaction from making progress.
+
+59| I don't think we have done any other programming assignments that were so directly competitive, and I enjoyed that challenge!| 0.85| High| This is a very positive comment because it appreciates the direct competition and challenge.
+
+60| I've never done something like this before.| 0.75| High| This is a positive comment because it finds the project unique and new.
+
+61| It was one of the most exciting and unique projects I did in undergraduate.| 0.85| High| This is a very positive comment because it highlights the excitement and uniqueness of the project.
+
+62| It was difficult and frustrating at times but it got you to think about what was going on.| 0.60| High| This is a mixed comment because it acknowledges difficulty and frustration but also recognizes the cognitive engagement.
+
+63| Since the code base we started with was bigger than we were used to, it was sometimes frustrating to figure out what to do or where to look - but that frustration also made it more engaging.| 0.60| High| This is a mixed comment because it acknowledges frustration but also appreciates the engagement it brought.
+
+64| There were no comments on the provided code.| 0.30| High| This is a negative comment because it criticizes the lack of comments in the code.
+
+65| I chose fun because I had a lot of fun completing the project. It was perhaps the most fun that I have ever had on a school project.| 0.85| High| This is a very positive comment because it highlights the enjoyment and fun experienced.
+
+66| I don't think that I haven't studied for this semester.| 0.40| Low| This is a slightly negative comment because it suggests a lack of studying.
+
+67| I enjoyed the concept and competing with my classmates.| 0.80| High| This is a positive comment because it appreciates the concept and competition.
+
+68| I had a good time completing the project. The competitiveness was motivating.| 0.85| High| This is a very positive comment because it highlights the enjoyable and motivating aspects of the project.
+
+69| I had a lot of fun doing the project.| 0.85| High| This is a very positive comment because it emphasizes the fun experienced.
+
+70| I like competitive games, and this was a great way to have friendly competition within the class.| 0.85| High| This is a very positive comment because it appreciates the friendly competition.
+
+71| It was fun to play with it after finishing.| 0.85| High| This is a very positive comment because it highlights the fun of interacting with the project after completion.
+
+72| It was fun to problem solve and find why my ship was not doing what it was supposed to.| 0.85| High| This is a very positive comment because it appreciates the fun in problem-solving.
+
+73| It was fun to watch the ships battle!| 0.85| High| This is a very positive comment because it finds the ship battles fun to watch.
+
+74| It was very enjoyable to work on. In fact, I would say it probably ties for my favorite project that I completed throughout my studies.| 0.85| High| This is a very positive comment because it emphasizes the enjoyment and high regard for the project.
+
+75| It's fun to make your ship do something unique and interesting.| 0.85| High| This is a very positive comment because it appreciates the fun in creating something unique and interesting.
+
+76| The autonomy offered by the project and the uncertainty of how your ship would stack up against your classmates' were two aspects that were very enjoyable.| 0.80| High| This is a positive comment because it appreciates the autonomy and enjoyable uncertainty.
+
+77| The idea of a computer game is a more enjoyable assignment for most people than I assume other data structure/algorithm assignments would be. Additionally, it is fun to watch your ship controller compete against the ship controllers of your classmates.| 0.85| High| This is a very positive comment because it highlights the enjoyment of the game-based assignment and competition.
+
+78| This ties into my other answer, but I was very engaged in this assignment because it was strategic and competitive.| 0.80| High| This is a positive comment because it emphasizes the engagement brought by the strategic and competitive nature.
+
+79| Though a challenge at first to understand what was going on in the program and how to maneuver the controller it became a challenge to overcome certain challenging obstacles in the code.| 0.70| High| This is a mostly positive comment because it acknowledges initial challenges but appreciates the satisfaction of overcoming them.
+
+80| Usually, it's better to be interesting.| 0.60| Medium| This is a mixed comment because it suggests a preference for interesting projects without strong positive or negative sentiment.
+
+81| While I was learning more about coding by learning the system and coding my algorithm, it didn't seem like coding as I was enjoying the time I spent working on the project.| 0.80| High| This is a positive comment because it appreciates the enjoyable learning experience.
+
+82| It was getting in the way of my mental health with my other finals and me stressing.| 0.20| High| This is a very negative comment because it describes the project as detrimental to mental health and stressful.
+
+83| Cause unknown.| 0.50| Low| This is a neutral comment because it does not provide enough context for a clear sentiment.
+
+84| No comments, had to use eclipse which didn't work well on my computer.| 0.30| High| This is a negative comment because it criticizes the lack of comments and issues with Eclipse.
+
+85| It's very sophisticated because Dr. Hastings is keeping updating and changes eventually even though he gives same assignments every period.| 0.70| High| This is a mostly positive comment because it acknowledges the sophistication and ongoing updates.
+
+86| The game was well put together and easily allowed anyone to implement a controller.| 0.80| High| This is a positive comment because it appreciates the well-structured game and ease of implementing a controller.
+
+87| I had zero motivation to do this project nor did I view it valuable for computer programming.| 0.20| High| This is a very negative comment because it expresses a lack of motivation and perceived value.
+
+88| Like I said with complex, it was a lot. On the outside looking in, coding a ship that is able to act correctly for every single instance seems intimidating. In practice it is much simpler than I thought it was going to be.| 0.60| High| This is a mixed comment because it acknowledges initial intimidation but also recognizes the simplicity in practice.
+
+89| Sometimes I felt overwhelmed due to the fact, that is hard to track the classes because it's so much to learn. I think that should exist a guideline to keep in track everything.| 0.40| High| This is a slightly negative comment because it describes feeling overwhelmed and suggests the need for guidelines.
+
+90| The initial scale of possible things to do is a bit menacing. A basics guide (written or video) would help ease into the project better.| 0.45| High| This is a slightly negative comment because it acknowledges the intimidating scale and suggests the need for a guide.
+
+91| The project seemed like a lot to do at first, so it was hard to know where to start.| 0.40| High| This is a slightly negative comment because it describes initial difficulty in knowing where to start.
+
+92| When I first downloaded eclipse and imported the code, I was really intimidated by all the lines of code. I wasn't sure where to start.| 0.40| High| This is a slightly negative comment because it describes initial intimidation by the code.
+
+93| The project elicited the same emotions from me that a game would such as a competitive desire to win by further understanding the mechanics. This led to a deeper evaluation of the game rules and what algorithms I could use.| 0.75| High| This is a positive comment because it appreciates the competitive and evaluative aspects of the project.
+
+94| The system allowed students who may feel uncomfortable with traditional upper-level assignments to learn the same concepts in a welcoming environment. Since the game had already been developed, students could run the application at any time, rather than needing to wait until the code had been written and the bugs had been resolved. Students could also reference example material in order to ideate how to design their controller.| 0.80| High| This is a positive comment because it appreciates the welcoming learning environment and the availability of resources.
+
+95| I had a hard goal of making the best performing ship in the class. I put likely well over the amount of time into the project than was strictly required in order to achieve that goal.| 0.75| High| This is a positive comment because it highlights the dedication and goal-oriented effort.
+
+96| I want to code video games, and knowing that this is at least an introduction to that was a huge motivator. It also showcased that I do have the ability to work with things like this.| 0.80| High| This is a positive comment because it appreciates the motivation and validation provided by the project.
+
+97| I was motivated by the thrill of competition. I wanted to do well and try and have the best ship of the top ships in the class.| 0.80| High| This is a positive comment because it highlights the motivating thrill of competition.
+
+98| It motivated me to get better ranking.| 0.75| High| This is a positive comment because it acknowledges the motivation to improve ranking.
+
+99| Learning how to navigate the environment and implement an algorithm for the controller feels rewarding and motivating to keep working.| 0.80| High| This is a positive comment because it appreciates the rewarding and motivating experience of learning and implementation.
+
+100| Since it's a class competition, it gives a lot of motivation for the students to do their best since everyone wants to win.| 0.80| High| This is a positive comment because it acknowledges the motivation provided by the class competition.
+
+101| We all want our ship to be the best one.| 0.75| High| This is a positive comment because it highlights the collective motivation to have the best ship.
+
+102| I have a couple of years of computer programming experience in a work environment and it is nothing like the game. And I will never want to be a game programmer so it didn't interest me.| 0.35| High| This is a negative comment because it expresses disinterest and a preference against game programming.
+
+103| Every component was visible and able to be found, given enough search time.| 0.65| High| This is a mostly positive comment because it appreciates the visibility and findability of components despite the search time.
+
+104| The code was organized by classes in a very understandable fashion. After a short amount of time familiarizing oneself with the code, it was easy to find any related functions one may need in order to develop their controller.| 0.80| High| This is a positive comment because it appreciates the understandable organization and ease of finding related functions.
+
+105| All of the code is there. If I wanted to learn about making ship controllers, I would've rather built the program up myself as trying to figure it out was too much for me. I would be all for it in a job sense because I'm getting paid but in college I want to learn how to do something not guess and try to make something off of what someone else made as it's harder for me to really learn and know a project without being there for every aspect.| 0.40| High| This is a slightly negative comment because it expresses a preference for building from scratch and criticizes the difficulty of learning without full involvement.
+
+106| I chose overwhelming because at first I was lost in the complexity of the problem. There were many different parts to the program and it took me a while to understand what was important/needed to complete my ship controller.| 0.45| High| This is a slightly negative comment because it describes the initial overwhelming complexity and the time taken to understand.
+
+107| It was a lot to wrap my head around. I wish there had been a little more demonstration on how to approach that project. Maybe a short video online I could have revisited to see someone else using the code. The most difficult part of the project was just wrapping my head around how to use the pre-existing code.| 0.45| High| This is a slightly negative comment because it describes the overwhelming nature and suggests the need for more demonstrations.
+
+108| It was quite a bit to be thrown into in the last 3 weeks to a month of class, figuring out where all to go was a solid portion of working in it.| 0.40| High| This is a slightly negative comment because it describes the overwhelming nature and the significant time spent figuring things out.
+
+109| Given enough competition, pitting spaceships against other students' is an engaging way to focus on dissimilar strategies, thinking critically about how to address the other person's algorithm. In a similar vein, this assignment is one of few where students are openly (and not altogether critically) invited to compare and contrast with other students to try and get an edge.| 0.75| High| This is a positive comment because it appreciates the engaging and critical thinking aspects of the competition.
+
+110| A lot of students I've encountered are interested in game design. Doing a coding project based around something besides data manipulation or mathematics is refreshing.| 0.75| High| This is a positive comment because it appreciates the refreshing change to game design from usual coding projects.
+
+111| At a point in the Cyber Systems education where nearly if not all projects/assignments were built from the ground up by students, this was a project requiring you to familiarize yourself with a sizable existing project structure and add to it which to me is extremely relevant to a developer job.| 0.75| High| This is a positive comment because it appreciates the relevance to real-world developer jobs.
+
+112| The project applied knowledge from the course itself.| 0.75| High| This is a positive comment because it acknowledges the practical application of course knowledge.
+
+113| This was relevant because it has a similar structure to more complex software projects.| 0.75| High| This is a positive comment because it appreciates the relevance to more complex software projects.
+
+114| I don't make sure why did my controller is slow.| 0.40| High| This is a slightly negative comment because it expresses confusion about the performance of the controller.
+
+115| Creativity was needed to differentiate.| 0.75| High| This is a positive comment because it appreciates the need for creativity.
+
+116| Having your own ideas and implementing them was stimulating.| 0.75| High| This is a positive comment because it highlights the stimulating experience of implementing one's own ideas.
+
+117| I chose stimulating because this project made me think. I had to dissect the program to understand what parts I needed to use, and I had to conceive and implement a strategy for my controller based on what I had available.| 0.75| High| This is a positive comment because it appreciates the stimulating and thoughtful nature of the project.
+
+118| I had a genuine interest in the project which made participating in it more engaging than other projects which felt more like work.| 0.80| High| This is a positive comment because it highlights the engaging and genuine interest in the project.
+
+119| I had to really think and the project stimulated the mind.| 0.75| High| This is a positive comment because it appreciates the mental stimulation provided by the project.
+
+120| It required everyone to really think about not only their code but what everyone else's code might be like. It also forces students to make unique project solutions since the problem is unique to the class.| 0.75| High| This is a positive comment because it appreciates the mental engagement and uniqueness of solutions.
+
+121| It stimulates me to make a better controller.| 0.75| High| This is a positive comment because it acknowledges the stimulating effect of improving the controller.
+
+122| It was different than anything I've ever done before and interesting. It really made me think and understand what the code meant.| 0.75| High| This is a positive comment because it appreciates the unique and thought-provoking nature of the project.
+
+123| It was really interesting to see how everything worked together.| 0.75| High| This is a positive comment because it highlights the interest in understanding the integration of components.
+
+124| It was stimulating to put together the pieces from the assignment and create them into your own work.| 0.75| High| This is a positive comment because it appreciates the stimulating and creative process.
+
+125| Makes you think about how to go about certain actions.| 0.75| High| This is a positive comment because it acknowledges the thought-provoking nature of the project.
+
+126| Same reasons I chose fun, it was not hard to sink time into because it felt more like a hobby.| 0.80| High| This is a positive comment because it appreciates the enjoyable and hobby-like nature of the project.
+
+127| The project allowed me to learn new skills and see what goes into a game like this.| 0.75| High| This is a positive comment because it appreciates the opportunity to learn new skills.
+
+128| The project itself required a lot of thinking beyond normal procedure. Order of operations, hierarchy of decisions, and so on.| 0.75| High| This is a positive comment because it acknowledges the complex and thoughtful nature of the project.
+
+129| The project really required me to want to dig in and learn about how everything in the system worked to try and create the best ship that I could. This made it very engaging for me.| 0.80| High| This is a positive comment because it highlights the engaging and deep learning experience.
+
+130| The task is stimulating in that it demands outside-the-box thinking. Instead of merely achieving expected results for an algorithm, this engages the student to find their own limit and expectation.| 0.75| High| This is a positive comment because it appreciates the stimulating and creative thinking required.
+
+131| This assignment really got me to think as to how everything works in the given system. What best ship would do well in that environment and how to implement it.| 0.75| High| This is a positive comment because it acknowledges the deep thinking and understanding required.
+
+132| I chose straightforward because it was very easy to pick up. What we had to do was simple, but there was the option to make it as complex as we like.| 0.75| High| This is a positive comment because it appreciates the straightforward nature and the flexibility in complexity.
+
+133| I would like to see run this big project running with different new applications because eclipse is old.| 0.60| High| This is a mixed comment because it acknowledges the value of the project but criticizes the use of Eclipse.
+
+134| No nonsense and straight to the point.| 0.75| High| This is a positive comment because it appreciates the straightforward and no-nonsense approach.
+
+135| Once you find all the methods and how to call them the implementation seems to be fairly straightforward.| 0.70| High| This is a mostly positive comment because it acknowledges the straightforward nature of the implementation once familiarized.
+
+136| Once you got the hang of things and how they work, it became easier to work and shape the ship. The assignment in itself was fairly straightforward as well. Make a ship controller.| 0.75| High| This is a positive comment because it appreciates the ease and straightforward nature of the assignment once understood.
+
+137| Above reasons, along with unclear minimum decision making needed.| 0.40| High| This is a slightly negative comment because it acknowledges previous positive points but criticizes the unclear decision-making requirements.
+
+138| Because I couldn't find motivation for it, I did not see any value in it, and it was intimidating, it had me stressing over even doing the project to the point where I was in tears a couple of times. The fear of having to retake the class as well as the fact that I couldn't bring myself to work on the project most of the time.| 0.20| High| This is a very negative comment because it describes a lack of motivation, perceived value, and significant stress.
+
+139| There were times where I could figure out certain problems, but most of them were resolved after a while.| 0.60| High| This is a mixed comment because it acknowledges some initial difficulty but eventual resolution of problems.
+
+140| (not in a bad way) Just can take a lot of time if you aren't sure how to go about things.| 0.55| High| This is a mixed comment because it acknowledges the time-consuming nature without strong negative sentiment.
+
+141| Above reasons.| 0.50| Low| This is a neutral comment because it refers to previous reasons without adding new information.
+
+142| It was a big project to take on... it could've saved us time if there was an introduction to the project earlier in the semester for us to become acclimated with the entire program and what functions were available so that we might've had more time to develop our controllers instead of trying to figure out how to do basic maneuvers.| 0.45| High| This is a slightly negative comment because it acknowledges the value of the project but criticizes the timing and initial introduction.
+
+143| The project took a lot of time even though I had fun with it.| 0.65| High| This is a mostly positive comment because it acknowledges the fun despite the time-consuming nature.
+
+144| Time-consuming goes along with the motivating part as well. I wouldn't call it overly time-consuming. A student could produce a functional ship with 1-2 weeks of mildly focused work. But because I wanted my ship to be the best, I sunk a considerable amount of time into it. Which I believe was beneficial.| 0.75| High| This is a positive comment because it appreciates the beneficial and motivating aspects despite the time commitment.
+
+145| Trying to successfully implement features required lots of trial and error and adjusting the code just right. It's a time commitment to build the controller into the game environment.| 0.65| High| This is a mostly positive comment because it acknowledges the trial and error process and the time commitment.
+
+146| Cause unknown.| 0.50| Low| This is a neutral comment because it does not provide enough context for a clear sentiment.
+
+147| Cause unknown.| 0.50| Low| This is a neutral comment because it does not provide enough context for a clear sentiment.
+
+148| I chose unconventional because it is not the typical type of project that is given. I have never done anything else quite like this for a school-related project.| 0.75| High| This is a positive comment because it appreciates the unconventional and unique nature of the project.
+
+149| The assignment itself seemed unconventional for a project in this course. Nevertheless, I think important concepts can be learned from the unconventional approach. By assigning a final project that was very enjoyable to students, I think many people put more effort into, and learned more from, the assignment than they would have otherwise.| 0.80| High| This is a positive comment because it appreciates the unconventional approach and the increased effort and learning it inspired.
+
+150| This assignment is unlike many of the other tasks we see in the undergraduate curriculum. It almost endeavors to inject fun into the classroom in an unexpected way.| 0.80| High| This is a positive comment because it appreciates the fun and unexpected nature of the assignment.
+
+151| Originally I intended to describe how one cannot predict how their spaceship will compare to others' when fighting. However, I might also point out that the exercise as a whole may be unpredictable as it relies on the participation and interest of the students. They may choose not to be challenged, instead opting to create very simple spaceships.| 0.60| High| This is a mixed comment because it acknowledges the unpredictability and variability in student participation and interest.
+
+152| Sometimes the ship in the project would not work how you wanted it to and you wouldn't know why.| 0.40| High| This is a slightly negative comment because it describes frustration with the ship not working as expected.
+
+153| It was, without a doubt, able to be used. I wouldn't say it was an incredibly enjoyable experience trying to dig through and find what to tweak all the time, but the code was well commented and partitioned well, so this was likely just an issue of interacting with a large project.| 0.60| High| This is a mixed comment because it acknowledges the usability and well-commented code but criticizes the enjoyment of finding tweaks in a large project.
+
+154| Once I understood how the game worked, it was easy to use and implement my ship.| 0.75| High| This is a positive comment because it appreciates the ease of use and implementation once understood.
+
+155| The examples that were provided were very usable, in the sense that it showed how to implement some of the basic needs of the ship controller.| 0.75| High| This is a positive comment because it appreciates the usability of provided examples.
+
+156| Because you constantly practice with code and keeps you remembering things from the past class of my major.| 0.75| High| This is a positive comment because it appreciates the continuous practice and reinforcement of past learning.
+
+157| I felt that I had learned a great amount during the period of the project.| 0.80| High| This is a positive comment because it highlights the significant learning experience.
+
+158| Implementing the controller in such a dynamic environment is useful because it's unique. It requires creative thinking. The code library at any business is also going to be unique and have its own nuances and solutions. So, developing in a dynamic environment is useful to prepare for code we might encounter in a professional setting.| 0.80| High| This is a positive comment because it appreciates the unique and useful experience for professional preparation.
+
+159| It helped to solidify my understanding of the techniques used in software development.| 0.80| High| This is a positive comment because it acknowledges the solidification of software development techniques.
+
+160| It is a good chance to know a big project.| 0.75| High| This is a positive comment because it appreciates the opportunity to work on a large project.
+
+161| Same as relevant. It allowed a programming environment that already existed that we had to adapt to, and add to. I don't know how many projects in entry-level programming jobs have a programmer building things from scratch versus adding to existing projects but I would guess it's not many. It's very useful to be able to understand someone else's code and add to it when required.| 0.75| High| This is a positive comment because it appreciates the practical and useful experience of adapting and adding to existing projects.
+
+162| The skills developed in that project are fundamental to programming in general. They're important to learn.| 0.80| High| This is a positive comment because it highlights the fundamental and important skills learned.
+
+163| I chose 'valuable' because this project helped me learn more about data structures and how to best use them to give a desired outcome.| 0.80| High| This is a positive comment because it appreciates the valuable learning about data structures.
+
+164| I chose valuable because it seemed like a worthy final for this class.| 0.80| High| This is a positive comment because it acknowledges the worthiness of the project as a final assignment.
+
+165| I could do something over a big project.| 0.70| Medium| This is a mostly positive comment because it acknowledges the value of working on a big project.
+
+166| I feel that the knowledge gained from the project can also be used down the road in different courses as well as in future employment.| 0.80| High| This is a positive comment because it appreciates the long-term value of the knowledge gained.
+
+167| I think seeing a full system/game like this is extremely valuable, especially learning how to work inside one with other people.| 0.85| High| This is a very positive comment because it appreciates the valuable experience of working within a full system/game with others.
+
+168| I thought the experience as a whole was very valuable to my computer science education.| 0.85| High| This is a very positive comment because it acknowledges the overall value to computer science education.
+
+169| It gave a more realistic example of something one might encounter when working for a company, a pre-existing system that they have to add things to.| 0.80| High| This is a positive comment because it appreciates the realistic experience relevant to working for a company.
+
+170| See: Useful.| 0.75| Low| This is a neutral comment because it refers to previous positive points without adding new information.
+
+171| Though I don't know that this assignment specifically 'taught' me anything about data structures and algorithms, I thought it was a very entertaining application of them. I think having the opportunity to implement and reflect on the efficiency of my algorithm was valuable.| 0.75| High| This is a positive comment because it appreciates the entertaining application and valuable reflection opportunity.
+
+172| Working with a bigger project like this was a lot more rewarding than doing lots of little projects that don't mean much to students at the end of the day. It seems like something that could actually be applied to the real world.| 0.80| High| This is a positive comment because it appreciates the rewarding and real-world applicability of the project.
+

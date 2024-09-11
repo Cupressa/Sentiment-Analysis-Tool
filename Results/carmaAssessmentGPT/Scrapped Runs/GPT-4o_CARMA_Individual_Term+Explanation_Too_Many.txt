@@ -1,0 +1,264 @@
+﻿clean,0.80,0.75,medium,The word 'clean' generally has a positive connotation but the explanation indicates a slight negative due to readability issues.
+approachable,0.85,0.80,medium,'Approachable' signifies ease of use, but the difficulty in reading the words lowers the score.
+simple,0.75,0.70,medium,'Simple' suggests ease but the difficulty in readability slightly mitigates this.
+professional,0.90,0.80,high,'Professional' is strongly positive but the readability issue slightly diminishes it.
+fast,0.85,0.80,medium,'Fast' is positive but minor readability issues slightly affect its perception.
+fast,0.85,0.90,high,'Fast' combined with ease of getting information enhances its positive sentiment.
+convenient,0.90,0.90,medium,'Convenient' in the context of quick and easy problem-solving supports a high positive sentiment.
+educational,0.80,0.85,high,'Educational' with newfound knowledge slightly enhances its positive impact.
+useful,0.90,0.92,high,'Useful' for providing solutions increases the positive sentiment slightly.
+confusing,0.30,0.50,medium,'Confusing' is negative but the clarification provided later raises it slightly.
+usable,0.70,0.72,medium,'Usable' implies functionality; given simplicity, it has a slightly improved positive sentiment.
+easy to use,0.85,0.87,high,'Easy to use' is positive and supported by the context, enhancing its sentiment.
+time-consuming,0.30,0.25,high,'Time-consuming' is negative and the recommendation to refine bolsters this sentiment.
+boring,0.20,0.20,medium,'Boring' is negative and further criticism maintains its low score.
+dull,0.25,0.20,medium,'Dull' is negative and the recommendation to improve maintains its low sentiment.
+business-like,0.75,0.80,high,'Business-like' implies professional relevance, thus slightly enhanced in a positive context.
+customizable,0.85,0.90,high,'Customizable' is positive and specifically beneficial contextually, enhancing its score.
+understandable,0.80,0.85,high,'Understandable' even with specialized content increases the positive sentiment slightly.
+organized,0.85,0.85,high,Indicates efficiency and order which are positive traits.
+straightforward,0.80,0.80,high,'Clear communication, although context reveals some uncertainty, clarity remains positive.'
+clean,0.90,0.90,high,'Indicates simplicity and ease, strongly positive.'
+incomprehensible,0.10,0.10,high,Indicates a lack of understanding which is negative.
+complex,0.25,0.25,high,Indicates difficulty which has a predominantly negative connotation here.
+too technical,0.20,0.20,high,Indicates inaccessibility due to complexity which is negative.
+business-like,0.75,0.80,high,Professionalism and ease of navigation suggest positivity.
+clean,0.90,0.90,high,'Lack of distraction is a positive trait, reinforcing clarity.'
+business-like,0.75,0.80,high,'Direct and easy-to-understand communication implies positive sentiment.'
+straightforward,0.80,0.80,high,'Direct and easy communication implies a positive sentiment.'
+organized,0.85,0.85,high,Order and ease of following contribute to a positive sentiment.
+easy to use,0.90,0.90,high,'Ease of use is a highly positive trait.'
+stimulating,0.85,0.85,high,Arouses interest which is positive.
+usable,0.85,0.85,high,Indicates that it is user-friendly which is positive.
+straightforward,0.80,0.80,high,'Clarity and directness indicate positive sentiment.'
+fun,0.95,0.95,high,High engagement and enjoyment imply strong positive sentiment.
+innovative,0.90,0.90,high,Indicates creativity and advancement which is highly positive.
+straightforward,0.80,0.80,high,Directness and clarity contribute to a positive sentiment.
+dated,0.20,0.20,high,Boring setup and poor visual experience are negative.
+boring,0.10,0.10,high,Lack of interest and engagement are negative.
+simple,0.85,0.85,high,'Ease of understanding indicates strong positive sentiment.'
+dull,0.10,0.10,high,Lack of color and interest indicate negative sentiment.
+easy to use,0.90,0.90,high,'Ease in answering and finding questions, reinforcing its usability as positive.'
+customizable,0.85,0.85,high,Flexibility and suitability for individual needs contribute to positive sentiment.
+'flexible',0.80,0.85,high,The explanation highlights the positive aspects of flexibility in navigation.
+'understandable',0.85,0.90,high,The explanation indicates clarity and straightforwardness, enhancing the positive sentiment.
+'useful',0.75,0.70,medium,While acknowledging its broader usefulness, the personal disuse slightly lowers the impact.
+'educational',0.85,0.88,high,The ease of learning makes the sentiment slightly more positive.
+'responsive',0.90,0.92,high,The quick response time boosts the positive sentiment.
+'complex',0.40,0.30,high,The multiple steps and confusion indicated reduce the sentiment score.
+'time-consuming',0.20,0.15,high,The detailed explanation shows a significant negative sentiment due to lengthy procedures.
+'awkward',0.30,0.25,high,The detailed issues with button functionality further lower the sentiment.
+'usable',0.75,0.78,high,Providing necessary information increases the positive utility aspect.
+'straightforward',0.85,0.87,high,The ease of use enhances the positive sentiment further.
+'simple',0.85,0.87,high,Like straightforward, it indicates ease, which is positive.
+'time-saving',0.85,0.88,high,The ability to quickly figure out information increases positivity.
+'cutting edge',0.90,0.92,high,The simplicity being seen as advanced enhances the positive sentiment.
+'useful',0.75,0.78,medium,The personal liking for multiple features slightly increases positivity.
+'easy to use',0.88,0.90,high,The ease of finding everything boosts the positive sentiment.
+'clear',0.88,0.90,high,Clarity in navigation is a positive attribute.
+'fun',0.82,0.85,high,The enjoyment of the setup increases positivity.
+'time-consuming',0.20,0.18,high,Examining grasshoppers taking much time reinforces the negative sentiment.
+'awkward',0.30,0.28,high,The slight confusion around menus increases negative sentiment.
+'comprehensive',0.88,0.90,high,Being thorough for addressing problems increases positivity.
+'old',0.30,0.25,high,The old-fashioned appearance lowers the sentiment due to a negative perception.
+'understandable',0.85,0.87,high,Ease of understanding questions enhances positive sentiment.
+'efficient',0.85,0.87,high,Quick transitions between questions increase the positive sentiment.
+'easy to use',0.90,0.92,high,A high sentiment score indicating something user-friendly; context supports positive sentiment with clear labeling.
+'simple',0.85,0.87,high,Positive sentiment suggesting ease of use and a well-balanced interface.
+'professional',0.80,0.82,high,Positive connotation indicating high quality; context supports by highlighting absence of ads and useless images.
+'educational',0.75,0.77,high,Helpful in learning new information; context supports the positive sentiment for gaining knowledge.
+'expected',0.50,0.45,medium,Neutral sentiment; context suggests a necessary but possibly mundane action.
+'trustworthy',0.85,0.82,high,Positive sentiment aligned with reliability; context suggests confidence in accuracy.
+'clear',0.90,0.92,high,High sentiment indicating understandability; context supports this with ease of understanding.
+'efficient',0.85,0.87,high,Positive sentiment indicating effectiveness; context supports with a good performance claim.
+'entertaining',0.70,0.68,medium,Moderately positive sentiment related to enjoyment; context ties to the relatively light-hearted subject.
+'fun',0.80,0.78,medium,Positive sentiment indicating enjoyable experience; context supports with cool pictures.
+'impressive',0.85,0.83,high,High sentiment indicating admiration; context supports with an interesting idea.
+'simplistic',0.80,0.82,high,Positive sentiment tied to ease of use; context supports user-friendliness.
+'too technical',0.40,0.35,medium,Moderately negative sentiment; context suggests requirement of prior knowledge, which may hinder usability.
+'confusing',0.30,0.28,high,Negative sentiment indicating difficulty in understanding; context reinforces this due to terminology.
+'vague',0.30,0.25,high,Negative sentiment indicating lack of clarity; context specifically mentions weather stations.
+'usable',0.88,0.90,high,Positive sentiment related to functionality; context emphasizes simplicity and understandability.
+'relevant',0.75,0.77,high,Positive sentiment indicating appropriateness; context provides a use case for farmers.
+'clean',0.88,0.90,high,Positive sentiment indicating simplicity and neatness; context supports its ease of use.
+'fast',0.85,0.87,high,Positive sentiment indicating speed; context supports it with a quick result time.
+'organized',0.85,0.87,high,Positive sentiment indicating structured process; context supports with logical flow.
+'simplistic (artwork)',0.75,0.77,high,Positive sentiment for simplicity; context supports it with clarity in buttons.
+'responsive',0.85,0.87,high,Positive sentiment indicating quick load times; context supports.
+'dull',0.20,0.18,high,Negative sentiment indicating lack of engagement; context supports with specific criticisms.
+'business-like',0.80,0.82,high,Positive sentiment indicating professionalism; context supports with professional writing.
+'system-oriented',0.75,0.72,medium,Moderate positive sentiment for systematic approach; context supports with logical order.
+'overwhelming',0.35,0.33,high,Negative sentiment indicating too much information; context supports.
+'educational (Good information)',0.75,0.77,high,Positive sentiment indicating valuable learning; context supports.
+'uncontrollable',0.30,0.28,high,Negative sentiment indicating difficulty in managing; context supports with frustration comment.
+'professional',0.80,0.85,high,'Generally positive connotation implying competence and standard.'
+'too technical',0.40,0.45,medium,'Somewhat negative due to being potentially overwhelming, but explanation provides context for improvement.'
+'unattractive',0.30,0.25,medium,'Negative connotation about aesthetic appearance.'
+'illogical',0.20,0.15,medium,'Negative connotation due to lack of understanding.'
+'poor quality',0.25,0.22,medium,'Negative connotation about readability.'
+'awkward',0.35,0.30,medium,'Negative connotation about coherence and assembly.'
+'exciting',0.90,0.92,high,'Positive connotation about a new experience.'
+'old',0.40,0.35,medium,'Somewhat negative about being outdated.'
+'meaningful',0.80,0.75,high,'Positive connotation about usefulness.'
+'fun',0.85,0.90,high,'Strong positive connotation about enjoyment.'
+'clean',0.80,0.82,high,'Positive connotation about clarity and simplicity.'
+'time-saving',0.75,0.70,medium,'Positive connotation about efficiency.'
+'usable',0.75,0.78,high,'Positive connotation about organization.'
+'effective',0.70,0.65,medium,'Positive connotation about results with slight reservation.'
+'fresh',0.80,0.85,high,'Positive connotation about novelty.'
+'useful',0.85,0.80,high,'Positive connotation about utility.'
+'educational',0.85,0.88,high,'Positive connotation about learning.'
+'efficient',0.85,0.88,high,'Positive connotation about saving time and resources.'
+'convenient',0.83,0.85,high,'Positive connotation about ease of use.'
+'understandable',0.85,0.87,high,'Positive connotation about clarity.'
+'straightforward',0.80,0.83,high,'Positive connotation about directness and clarity.'
+'educational',0.85,0.88,high,'Positive connotation about teaching value.'
+'efficient',0.85,0.88,high,'Positive connotation about performance.'
+'convenient',0.83,0.85,high,'Positive connotation about accessibility.'
+'understandable',0.85,0.87,high,'Positive connotation about simplicity.'
+'straightforward',0.80,0.83,high,'Positive connotation about being direct.'
+'boring',0.20,0.15,medium,'Negative connotation about lack of interest.'
+'unattractive',0.30,0.25,medium,'Negative connotation about visual appeal.'
+'dated',0.40,0.35,medium,'Somewhat negative about being outdated.'
+'simplistic',0.60,0.65,medium,'Neutral to somewhat positive about simplicity.'
+'old',0.40,0.35,medium,'Somewhat negative about being outdated.'
+'educational',0.85,0.88,high,'Positive connotation about learning.'
+'high quality',0.90,0.92,high,'Strong positive connotation about standard.'
+'time-consuming',0.30,0.25,medium,'Negative connotation about duration.'
+'cutting edge',0.90,0.93,high,'Very positive connotation about being innovative.'
+'professional',0.80,0.85,high,'Positive connotation about being well organized.'
+organized,0.85,0.90,high,The word 'organized' implies good structure and is reinforced positively in the explanation.
+educational,0.80,0.85,high,'Educational' has a positive connotation and is further supported by the informative results.
+clear,0.90,0.95,high,'Clear' denotes transparency, and the explanation emphasizes its clarity, enhancing its positive sentiment.
+attractive,0.75,0.80,medium,'Attractive' is generally positive, and 'cute' boosts it slightly.
+usable,0.80,0.85,high,'Usable' has a positive practical implication, supported by 'simple to follow and easy to use.'
+understandable,0.75,0.60,medium,'Understandable' is positive, but the context reveals some confusion, reducing the score.
+unattractive,0.30,0.25,high,'Unattractive' is negative, and the dissatisfaction with the font confirms the sentiment.
+simplistic,0.50,0.20,high,'Simplistic' can be neutral but is negatively emphasized by the critical comment.
+effortless,0.85,0.90,high,'Effortless' is very positive and 'very easy to use' confirms this.
+simplistic,0.50,0.70,medium,This use of 'simplistic' is mitigated positively by context, showing ease of use.
+unattractive,0.30,0.35,high,'Unattractive' is negative but the need for pizzaz suggests a minor improvement need.
+useful,0.85,0.88,high,'Useful' is positive, reinforced by the practical example provided.
+simple,0.80,0.85,high,'Simple' is positive and confirmed as easy to use in context.
+dated,0.40,0.35,medium,'Dated' has a negative connotation, confirmed by the mention of an old appearance.
+easy to use,0.90,0.92,high,'Easy to use' is very positive, and 'self explanatory' strongly supports this.
+educational,0.80,0.85,high,'Educational' is positively reinforced by its teaching potential.
+effective,0.85,0.88,high,'Effective' is a strong positive and is reinforced by successfully conveying information.
+straightforward,0.80,0.84,high,'Straightforward' is positive, bolstered by 'self explanatory.'
+organized,0.85,0.88,high,'Organized' is positive and further confirmed by ease of use.
+fast,0.80,0.83,high,'Fast' is positive, supported by quick progression.
+efficient,0.85,0.88,high,'Efficient' is positively reinforced by the lack of distractions.
+business-like,0.60,0.62,medium,'Business-like' is neutral to slightly positive, supported by formality and conciseness.
+unattractive,0.30,0.33,medium,'Unattractive' is negative, confirmed by 'old school' appearance without strong negative context.
+educational,0.80,0.85,high,'Educational' is positive, strengthened by being a good resource tool.
+useful,0.85,0.87,high,'Useful' is positively confirmed in context for its practicality.
+simple,0.80,0.85,high,'Simple' is positive and confirmed easy to use even for the non-tech-savvy.
+new,0.75,0.77,medium,'New' is positive due to being novel, but lacks strong positive reinforcement.
+cutting edge,0.90,0.88,medium,'Cutting edge' is very positive, but the context offers limited interaction.
+business-like,0.60,0.65,medium,'Business-like' is slightly positive, reinforced by the organized context.
+simple,0.70,0.80,high,'The word 'simple' generally has a positive connotation implying ease of use. In this context, it is used positively, which enhances its score.'
+easy to use,0.85,0.90,high,''Easy to use' implies straightforwardness and user-friendliness, which are highly positive in this context.'
+fast,0.75,0.85,high,''Fast results' indicates efficiency, which is a very favorable trait.'
+convenient,0.80,0.90,high,''Use whenever' highlights the flexibility and ease, making the sentiment more positive.'
+responsive,0.70,0.80,medium,''On the spot results' indicates immediate feedback, which is positive.'
+educational,0.75,0.85,high,''Got to learn more about grasshoppers' implies that it adds value through learning, making it highly positive.'
+organized,0.65,0.75,high,''Many questions and pictures' shows a well-structured system, making it more positive.'
+old,0.20,0.15,high,''Looks like it was made in the 80's' generally implies outdated, reducing its score.'
+dated,0.25,0.20,high,'Similar to 'old,' 'dated' suggests it is not modern, reducing its score.'
+clear,0.60,0.70,high,''Information was not jumbled on the page' implies clarity, which is positive.'
+simplistic,0.50,0.60,medium,''Information was not jumbled on the page' shows basic clarity, but 'simplistic' can have a negative shade, making it moderately positive.'
+unattractive,0.10,0.05,high,''Type/font was hard to read' implies poor design, which is very negative.'
+easy to use,0.85,0.90,high,''It walked you through the steps of what to do' strongly implies user-friendliness and simplicity.'
+convenient,0.80,0.90,high,''Gave diagrams on which grasshoppers to look for and how to identify them' highlights helpfulness, making it even more positive.'
+useful,0.75,0.85,high,''Provided information on outbreaks' implies practical benefit, increasing its positivity.'
+straightforward,0.70,0.80,high,''Does not ask questions that lead nowhere' emphasizes ease of understanding, making it more positive.'
+accessible,0.80,0.90,high,''Buttons are easy to find and use' strongly implies ease of access, making it very positive.'
+simplistic,0.50,0.55,medium,''Just clicking on buttons to see information' implies ease but lacks depth, making it slightly positive.'
+boring,0.10,0.05,high,''Not much to it. Pull down menus were plain' implies disinterest and lack of engagement, making it very negative.'
+confusing,0.05,0.00,high,''Could not figure out the density question' strongly implies frustration due to lack of clarity.'
+educational,0.75,0.85,high,''Contained information about infestation' implies it adds value through knowledge.'
+frustrating,0.05,0.00,high,''Could not find the information' strongly implies a negative experience.'
+easy to use,0.85,0.90,high,'Found instructions easy to follow despite no prior knowledge, indicating high user-friendliness.'
+effective,0.70,0.80,high,''Very easy way to manage infestation problems' implies success and efficiency.'
+straightforward,0.70,0.80,high,''Instructions were very clear' implies that it is easy to follow.'
+efficient,0.75,0.85,high,''Didn't take very long' implies time-effectiveness.'
+clear,0.60,0.70,high,''Language was simple and pictures were helpful' implies straightforwardness.'
+usable,0.70,0.80,high,''A very usable tool' indicates high practicality.'
+high quality,0.80,0.85,high,''Presented a good product' indicates satisfaction with the quality.'
+friendly,0.75,0.80,high,''It was easy to use' suggests user-friendliness.'
+fast,0.75,0.85,high,''Didn't take long to load' implies good performance.'
+not valuable,0.10,0.05,high,''Didn't think it added any value' strongly implies a negative experience.'
+busy,0.10,0.05,high,''Too much stuff everywhere...kind of confusing' implies clutter and confusion, making it very negative.'
+distracting,0.10,0.05,high,''Confusing because there was stuff everywhere' emphasizes distraction, making it highly negative.'
+poor quality,0.10,0.10,high,Refers to a lack of high standard in a product or service.
+annoying,0.15,0.15,high,Expresses irritation or discomfort with an experience.
+awkward,0.25,0.25,high,Describes an uncomfortably unusual experience.
+impersonal,0.25,0.25,high,Indicates a lack of personal touch, reducing emotional warmth.
+warm,0.80,0.80,high,Generally positive, suggesting comfort and friendliness.
+new,0.85,0.85,high,Usually connotates freshness or innovation.
+ordinary,0.50,0.50,high,Implies something is average or unremarkable.
+distinguish,0.85,0.85,high,Positively indicates something stands out.
+old,0.30,0.30,high,Often suggests being outdated or not current.
+effortless,0.90,0.90,high,Suggests simplicity and ease in completing a task.
+clear,0.85,0.85,high,Denotes no confusion and straightforwardness.
+simplistic,0.40,0.40,medium,Implies something is too simple, lacking depth.
+poor quality,0.10,0.10,high,Refers to a lack of high standard in a product or service.
+awkward,0.25,0.25,high,Describes an uncomfortably unusual experience.
+dated,0.35,0.35,high,Indicates that something is old or out of style.
+confusing,0.20,0.20,high,Conveys difficulty in understanding.
+dull,0.25,0.25,high,Indicates lack of excitement or interest.
+responsive,0.75,0.75,high,Positively indicates the system reacts well to input.
+fast,0.85,0.85,high,Suggests high speed and efficiency.
+usable,0.80,0.80,high,Implies that something is easy to use.
+simple,0.70,0.70,medium,Suggests ease and minimalism but might lack depth.
+professional,0.80,0.80,high,Conveys high standard and quality appearance.
+frustrating,0.20,0.20,high,Expresses irritation or discomfort with an experience.
+confusing,0.20,0.20,high,Conveys difficulty in understanding.
+business-like,0.70,0.70,high,Indicates a formal or factual demeanor.
+poor quality,0.10,0.10,high,Refers to a lack of high standard in a product or service.
+effective,0.80,0.80,high,Indicates success in achieving a goal.
+useful,0.85,0.85,high,Indicates practicality and help.
+fast,0.85,0.85,high,Suggests high speed and efficiency.
+dull,0.25,0.25,high,Indicates lack of excitement or interest.
+responsive,0.75,0.75,high,Positively indicates the system reacts well to input.
+clear,0.85,0.90,high,'Clarity is generally positive; free of distractions makes it even more beneficial.'
+clear,0.85,0.87,medium,'Clear being easy to understand slightly enhances its benefit.'
+straightforward,0.80,0.83,medium,'Being easy to understand implies clear communication, which is generally positive.'
+reliable,0.90,0.92,high,'Reliability is highly positive; helping users solve problems increases its usefulness.'
+efficient,0.85,0.87,medium,'Efficiency is positive; working well slightly enhances its effect.'
+understandable,0.85,0.88,medium,'Understandability is positive; explaining how to use it well makes it more favorable.'
+innovative,0.90,0.95,high,'Innovation is highly positive; detailed presentation to users increases its perceived value.'
+cluttered,0.20,0.15,medium,'Clutter implies negativity; crammed appearance exacerbates this sentiment.'
+straightforward,0.80,0.85,high,'Straightforward nature being simple and easy to understand enhances its positivity.'
+understandable,0.85,0.88,medium,'Easy to understand generally conveys ability to grasp easily, enhancing positivity.'
+convenient,0.80,0.83,high,'Convenience is generally positive; simplifying information access enhances value.'
+relevant,0.90,0.93,high,'Relevance is highly positive, and important resource increases its importance.'
+professional,0.85,0.88,medium,'Professionalism is positive, and expertise increases trustworthiness.'
+clear,0.85,0.88,medium,'Being easy to follow and understand makes clarity even more beneficial.'
+organized,0.87,0.90,high,'Organized well implies efficient structure, enhancing overall sentiment.'
+easy to use,0.85,0.87,high,'Ease of use is positive; concise instructions increase its favorability.'
+poor quality,0.10,0.07,high,'Poor quality is highly negative, and goofiness accentuates this sentiment.'
+creative,0.88,0.90,medium,'Creativity is positive; uniqueness slightly increases its positive impact.'
+useful,0.90,0.93,high,'Usefulness is highly positive, especially when targeted toward specific user needs.'
+straightforward,0.80,0.83,medium,'Straightforwardness implying ease of comprehension enhances its positivity.'
+simplistic,0.75,0.73,medium,'Simplistic might imply overly simple, reducing the positivity of easy comprehension.'
+awkward,0.20,0.15,medium,'Awkwardness is negative, and button issues exacerbate this sentiment.'
+useful,0.90,0.88,medium,'Usefulness is highly positive; general knowledge might slightly decrease its impact.'
+fast,0.85,0.87,high,'Speed is positive; quick, acceptable response time enhances its favorability.'
+vague,0.30,0.25,medium,'Vagueness is generally negative; limited value decreases sentiment.'
+confusing,0.20,0.18,high,'Confusion is highly negative, and lack of initial clarity exacerbates this.'
+'simplistic',0.50,0.65,high,'The explanation highlights ease of use and simplicity, which is generally positive.'
+'flexible',0.75,0.80,high,'The explanation emphasizes the ability to view multiple areas and not being restricted, indicating versatility.'
+'straightforward',0.70,0.85,high,'Clear statements and questions are generally positive for user-friendliness.'
+'unattractive',0.20,0.15,high,'The mention of a boring color scheme further diminishes the attractiveness.'
+'organized',0.80,0.85,high,'Ease of use enhances the positive perception of organization.'
+'useful',0.90,0.90,high,'Containing the correct information is inherently positive.'
+'flexible',0.75,0.85,high,'Being adaptable to user's needs adds a positive spin on flexibility.'
+'approachable',0.70,0.85,high,'Ease of use makes something highly approachable.'
+'straightforward',0.70,0.75,high,'Understandable implies clarity and ease, slightly enhancing the positive sentiment.'
+'business-like',0.60,0.65,medium,'Professionalism has neutral to slightly positive connotations.'
+'straightforward',0.70,0.80,high,'A step-by-step approach adds clarity and eases understanding.'
+'vague',0.30,0.20,high,'The need for landmarks to remedy vagueness reduces the positive sentiment.'
+'customizable',0.75,0.80,high,'Tunability to individual preferences is generally seen as a benefit.'
+'intuitive',0.85,0.90,high,'A simple control panel and a 'Help' button enhance the positive sentiment of intuitiveness.'
+'time-consuming',0.25,0.20,high,'Repetitive clicking due to high customizability lowers the positive sentiment further.'

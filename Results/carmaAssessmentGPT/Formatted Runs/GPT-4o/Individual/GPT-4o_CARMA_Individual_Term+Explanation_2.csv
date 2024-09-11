@@ -1,0 +1,261 @@
+﻿respondent,Term,Original Score,Adjusted Score,User-Based Average,Confidence,Explanation
+1,'clean',0.75,0.6,,high,'Positive word but mitigated by the criticism of readability'
+1,'approachable',0.85,0.7,,high,'Positive word but slightly undercut by the readability issue'
+1,'simple',0.8,0.65,,high,"'Conveys ease but impacted by the criticism of small, hard-to-read words'"
+1,'professional',0.9,0.75,,high,'Strongly positive but tempered slightly by the critique of readability'
+1,'fast',0.85,0.7,,high,'Positively connotative but lessened because of readability feedback'
+2,'fast',0.85,0.85,,high,'Maintains its positive context since it directly relates to quick access to information'
+2,'convenient',0.8,0.8,,high,'Remains positive given the context of providing quick solutions'
+2,'educational',0.75,0.75,,high,'Positive word as it describes the informative nature'
+2,'useful',0.9,0.9,,high,'Highly positive word directly aligned with providing practical solutions'
+2,'confusing',0.2,0.25,,high,'Negative word but offset slightly by following clarification comments'
+3,'usable',0.65,0.65,,high,'Moderately positive word indicating functional utility'
+3,'easy to use',0.85,0.85,,high,'Positive phrase affirming usability'
+3,'time-consuming',0.3,0.3,,high,'Negative word indicative of inefficiency'
+3,'boring',0.2,0.2,,high,'Clearly negative sentiment indicating tedium'
+3,'dull',0.25,0.25,,high,'Negative word suggesting lack of engagement or excitement'
+4,'business-like',0.6,0.6,,high,"'Neutral to slightly positive, indicating appropriateness and professionalism'"
+4,'customizable',0.8,0.8,,high,'Positive sentiment conveying adaptability and flexibility'
+4,'understandable',0.8,0.8,,high,'Positive word suggesting clarity and comprehensibility'
+4,organized,0.75,0.8,,high,"'Positive sentiment as it denotes orderliness and structure, adjusted up slightly due to detailed explanation supporting efficacy in reaching conclusions.'"
+4,straightforward,0.7,0.65,,medium,"'Generally positive marking clarity and directness, adjusted down slightly due to uncertainty about applicability but highlight on availability from local extension agent.'"
+5,clean,0.8,0.85,,high,"'Positive connotation of tidiness and no distraction, adjusted upwards slightly given the emphasis on clarity and direct instructions.'"
+5,incomprehensible,0.2,0.15,,high,"'Negative sentiment as it denotes confusion or complexity without understanding, adjusted downwards due to complete lack of understanding.'"
+5,complex,0.2,0.15,,high,"'Negative as it denotes difficulty in comprehension or intricacy, adjusted downwards due to admission of no understanding of the topic.'"
+5,too technical,0.3,0.25,,medium,"'Negative connotation indicating exclusivity to those knowledgeable in the field, adjusted downwards to reflect potential alienation of a broader audience.'"
+5,business-like,0.65,0.65,,high,"'Moderately positive, signifies professionalism and smooth navigation, confidence is high with no significant adjustment needed.'"
+6,clean,0.8,0.85,,high,"'Positive connotation of tidiness, adjusted upwards for clarity with minimal distractions emphasized.'"
+6,business-like,0.65,0.65,,high,"'Moderately positive, signifies professionalism and clarity, confidence is high with no significant adjustment needed.'"
+6,straightforward,0.7,0.7,,medium,"'Moderately positive indicating clarity and directness, mid-level confidence, and no adjustment as the context supports clarity.'"
+6,organized,0.75,0.8,,high,"'Positive sentiment indicating order and structure, adjusted up slightly due to ease of following the process mentioned.'"
+6,easy to use,0.8,0.8,,high,"'High positive sentiment indicating user-friendliness, high confidence due to clear and supportive context.'"
+7,stimulating,0.85,0.8,,high,"'Highly positive suggesting engaging content, slight adjustment down due to the specificity to non-typical users.'"
+7,usable,0.85,0.8,,high,"'Highly positive indicating practical usability and simplicity, slight adjustment down due to the straightforward nature.'"
+7,straightforward,0.7,0.7,,high,"'Positive sentiment indicating directness and simplicity, no adjustment needed as clarity is well-supported.'"
+7,fun,0.9,0.88,,high,"'Highly positive suggesting enjoyment and coolness, slight adjustment down recognizing that 'useful' was also emphasized.'"
+7,innovative,0.9,0.85,,medium,"'Highly positive indicating creativity and usefulness, slight adjustment down considering practical applications.'"
+8,straightforward,0.7,0.7,,high,"'Positive connotation indicating clarity of questions, high confidence, no adjustment needed.'"
+8,dated,0.25,0.2,,high,"'Negative indicating that it's considered old-fashioned, adjusted downwards as the entire visual experience was not engaging.'"
+8,boring,0.15,0.1,,high,"'Negative indicating lack of engagement or interest, adjusted downwards to reflect total disinterest.'"
+8,simple,0.75,0.8,,high,"'Generally positive indicating ease of understanding, adjusted upwards due to simplicity and clarity.'"
+8,dull,0.2,0.15,,high,"'Negative suggesting a lack of visual and conceptual interest, adjusted downwards due to high disengagement.'"
+9,easy to use,0.8,0.8,,high,"'Positive indicating user-friendly design, high confidence, no adjustment needed.'"
+10,customizable,0.85,0.9,,high,"'Highly positive indicating flexibility and adaptability for each person, adjusted upwards due to the varied choice options available."
+10,flexible,0.75,0.8,,high,"Implication that it's easy to adapt and navigate, enhancing positive perception."
+10,understandable,0.8,0.85,,high,Positive sentiment supported by explanation indicating clarity.
+10,useful,0.85,0.7,,medium,Overall positive but diminished by personal irrelevance.
+10,educational,0.85,0.85,,high,Straightforward positive sentiment about learning something useful.
+11,responsive,0.9,0.9,,high,Consistent positive sentiment regarding quickness.
+11,complex,0.4,0.3,,high,Further negative sentiment added by confusion and difficulty.
+11,time-consuming,0.3,0.2,,high,Narrative reinforces difficulty and inefficiency.
+11,awkward,0.25,0.2,,high,Reinforced negative sentiment due to confusion with buttons.
+11,usable,0.75,0.7,,medium,Positive but slightly reduced due to limited scope.
+12,straightforward,0.85,0.9,,high,Positive reinforced by ease of use.
+12,simple,0.85,0.9,,high,Positive reinforced by ease of use.
+12,time-saving,0.9,0.9,,high,Unmodified positive sentiment about efficiency.
+13,cutting edge,0.95,0.95,,high,High positive sentiment regarding modern efficiency.
+13,useful,0.85,0.85,,high,Unchanged high positive sentiment due to multiple uses.
+13,easy to use,0.9,0.9,,high,Unchanged positive sentiment about ease of navigation.
+13,clear,0.85,0.9,,high,Positive sentiment about clarity.
+13,fun,0.9,0.9,,high,Positive sentiment expressing enjoyment.
+14,time-consuming,0.3,0.2,,high,Reinforced negative sentiment about inefficiency.
+14,awkward,0.25,0.2,,high,Reinforced negative sentiment about confusing menus.
+14,comprehensive,0.8,0.85,,high,Positive sentiment about thoroughness.
+14,old,0.2,0.15,,high,Strongly negative sentiment about outdated appearance.
+15,understandable,0.8,0.85,,high,Positive sentiment about clarity.
+15,efficient,0.9,0.9,,high,Unchanged positive sentiment about speed. 
+15,'easy to use',0.9,0.9,,high,The phrase 'easy to use' conveys a strong positive sentiment indicating convenience and friendliness.
+15,'simple',0.8,0.85,,medium,"'Simple' suggests functionality without complexity, which is enhanced by the clear purposefulness and appropriate content stated."
+15,'professional',0.85,0.85,,high,The term 'professional' denotes a positive sentiment of high standards and is supported by the absence of ads.
+16,'educational',0.75,0.8,,medium,"'Educational' indicates that the content has value in terms of learning, strengthened by its applicability to grasshopper population control."
+16,'expected',0.5,0.45,,low,The term 'expected' is neutral; discussing pesticide treatment adds a slightly negative connotation due to potential concerns about chemical use.
+16,'trustworthy',0.85,0.9,,high,"'Trustworthy' is positive, suggesting reliability, and is reinforced by belief in accuracy."
+16,'clear',0.8,0.8,,high,"'Clear' is positive, indicating understandable directions, which helps in following instructions."
+16,'efficient',0.85,0.85,,high,'Efficient' shows a positive sentiment of effectiveness and is supported by doing a good job.
+17,'entertaining',0.7,0.65,,medium,"'Entertaining' is generally positive but learning about bugs might not appeal broadly, slightly lowering the score."
+17,'fun',0.75,0.7,,medium,"'Fun' indicates enjoyment, slightly moderated by the specific context of cool pictures."
+18,'impressive',0.85,0.85,,high,'Impressive' reflects a strong positive sentiment and is supported by the interesting idea.
+18,'simplistic',0.7,0.75,,high,"'Simplistic' is generally moderately positive, but here it suggests user-friendliness, adjusting the score upward."
+18,'too technical',0.4,0.35,,medium,"'Too technical' implies a negative sentiment of difficulty and requiring prior knowledge, slightly lowering the score."
+18,'confusing',0.3,0.3,,high,'Confusing' is strongly negative due to the difficult technical terminology mentioned.
+18,'vague',0.3,0.3,,high,"'Vague' is negative, indicating a lack of clarity, especially for weather stations."
+19,'usable',0.8,0.8,,high,'Usable' is positive and closely tied to user simplicity and understanding.
+19,'relevant',0.7,0.75,,medium,"'Relevant' indicates a positive sentiment of applicability, especially for helping farmers with infestations."
+19,'clean',0.8,0.8,,high,'Clean' suggests a positive sentiment of straightforwardness and ease of use.
+19,'fast',0.85,0.85,,high,"'Fast' is positive, reflecting quick results and efficiency."
+19,'organized',0.85,0.85,,high,"'Organized' is positive, indicating logical and easy-to-follow procedures."
+20,'simplistic',0.7,0.7,,high,"'Simplistic' here leans more to simplicity in interaction and design, holding a positive sentiment."
+20,'responsive',0.85,0.85,,high,"'Responsive' is positive, indicating speed and efficiency in system navigation."
+20,'dull',0.2,0.2,,high,'Dull' conveys a highly negative sentiment due to issues with readability and interaction.
+20,'business-like',0.8,0.8,,high,"'Business-like' is positive, indicating a professional tone."
+20,'system-oriented',0.7,0.75,,medium,"'System-oriented' implies structured and well-organized, with a slightly better sentiment due to the orderliness."
+21,'overwhelming',0.3,0.3,,high,'Overwhelming' is a negative term signaling too much information in a small space.
+21,'educational',0.75,0.75,,high,'Educational' is positive for its informative value.
+21,'uncontrollable',0.2,0.2,,high,"'Uncontrollable' is negative, indicating potential frustration due to inflexibility in specifying acreage."
+21,professional,0.8,0.9,,high,"'Usage asserts credibility and competence, reinforced by 'Very professional' context.'"
+21,technical,0.5,0.3,,high,''Too technical' suggests an overcomplication and potential alienation for laypersons.'
+22,unattractive,0.3,0.2,,high,'Negative sentiment intensified by suboptimal visual appeal.'
+22,illogical,0.2,0.1,,high,'Conveys confusion and lack of coherence.'
+22,poor quality,0.2,0.15,,high,'Low readability implies substandard construction.'
+22,awkward,0.3,0.25,,high,'Description implies lack of polish and coherence.'
+23,exciting,0.8,0.85,,high,'Positive emotion evoked by novelty and first-time use.'
+23,old,0.3,0.25,,high,'Aging interface lowers user satisfaction.'
+23,meaningful,0.8,0.85,,high,'Useful for teaching indicates an important positive function.'
+23,fun,0.8,0.9,,high,'Positive enjoyment from interaction.'
+23,clean,0.7,0.75,,high,'Clarity and simplicity praised.'
+24,time-saving,0.7,0.65,,high,'Workable implies moderate efficiency.'
+24,usable,0.7,0.75,,high,"'Well-organized, hence positive usability.'"
+24,effective,0.7,0.65,,medium,'Potential efficacy given certain conditions.'
+24,fresh,0.8,0.85,,high,'Novelty and uniqueness praised.'
+24,useful,0.8,0.7,,high,'Specific applicability for a target audience.'
+25,educational,0.8,0.85,,high,'Effective at imparting new knowledge.'
+25,efficient,0.75,0.8,,high,'Efficiency without waste conveys clear positive value.'
+25,convenient,0.75,0.8,,high,'Ease of use underscores positive sentiment.'
+25,understandable,0.75,0.8,,high,'Ease of comprehension praised.'
+25,straightforward,0.75,0.8,,high,'Clarity and directness enhance utility.'
+26,educational,0.8,0.85,,high,'Conveys an implicit value in gaining knowledge.'
+26,efficient,0.75,0.8,,high,"'Highlights quick, no-nonsense functionality.'"
+26,convenient,0.75,0.8,,high,'Underscores accessibility and ease.'
+26,understandable,0.75,0.8,,high,'Simplicity in comprehension emphasized.'
+26,straightforward,0.75,0.8,,high,'Directness and clarity valued.'
+27,boring,0.2,0.15,,high,'Lack of interest signifies engagement failure.'
+27,unattractive,0.3,0.2,,high,'Implied datedness emphasizes visual unappeal.'
+27,dated,0.3,0.25,,high,'Old appearance reduces perceived relevance.'
+27,simplistic,0.5,0.55,,medium,'Straightforwardness can be seen as both advantageous and oversimplified.'
+27,old,0.3,0.25,,high,'Perception of age diminishes user appreciation.'
+28,educational,0.8,0.85,,high,'Acknowledges knowledge gain as a positive attribute.'
+28,high quality,0.85,0.9,,high,'Conveys superior standard.'
+28,time-consuming,0.2,0.15,,high,'Extended duration seen negatively.'
+28,cutting edge,0.9,0.85,,high,"'Praised for modern, advanced information.'"
+28,professional,0.8,0.85,,high,'Layout reflects competence and attractiveness.'
+29,organized,0.85,0.9,,high,"'The word 'organized' indicates a well-structured setup, and the explanation emphasizes ease of use.'"
+29,educational,0.8,0.85,,high,''Educational' indicates informative content which is further supported by the explanation.'
+29,clear,0.9,0.95,,high,"'The word 'clear' typically conveys ease of understanding, reinforced by 'clearly and concisely'.'"
+29,attractive,0.75,0.8,,medium,"''Attractive' has a generally positive connotation, bolstered by 'picture is cute'.'"
+29,usable,0.82,0.87,,high,"''Usable' suggests functionality, which is validated by 'simple to follow and easy to use'.'"
+30,understandable,0.7,0.55,,medium,"''Understandable' implies comprehension, but the explanation reveals a conflict in understanding.'"
+30,unattractive,0.2,0.15,,medium,"''Unattractive' suggests a negative aesthetic response, explained by dislike of the font.'"
+30,simplistic,0.65,0.4,,medium,"''Simplistic' can be neutral to slightly positive, but here it implies lack of effort.'"
+31,effortless,0.88,0.9,,high,"''Effortless' indicates ease, similarly described in the explanation.'"
+31,simplistic,0.65,0.75,,medium,"''Simplistic' generally means overly simple, but the explanation stresses ease of use positively.'"
+31,unattractive,0.2,0.3,,medium,"''Unattractive' generally implies a lack of visual appeal, but 'needs some pizzaz' is less harsh.'"
+31,useful,0.85,0.87,,high,"''Useful' conveys utility, supported by its potential help to farmers.'"
+31,simple,0.85,0.87,,high,"''Simple' suggests ease of use, clearly supported by the explanation.'"
+32,dated,0.3,0.35,,medium,"''Dated' usually implies being out-of-date, but less negatively, focusing on plainness.'"
+32,easy to use,0.88,0.9,,high,"''Easy to use' clearly conveys usability, well supported by 'self-explanatory'.'"
+32,educational,0.8,0.82,,high,"''Educational' suggests intellectual merit, elaborated by its teaching potential.'"
+32,effective,0.9,0.92,,high,"''Effective' connotes successful functionality, validated by its informational clarity.'"
+32,straightforward,0.88,0.9,,high,"''Straightforward' implies simplicity, reinforced by 'self-explanatory'.'"
+33,organized,0.85,0.9,,high,"''Organized' indicates structured, validated by ease of use.'"
+33,fast,0.87,0.88,,high,"''Fast' suggests speed, reinforced by the explanation regarding quick transition.'"
+33,efficient,0.87,0.88,,high,"''Efficient' implies optimal performance, supported by the lack of distractions.'"
+33,business-like,0.75,0.77,,medium,"''Business-like' is generally positive or neutral, validated by formality.'"
+34,unattractive,0.2,0.25,,medium,"''Unattractive' has a negative aesthetic connotation, softened slightly by 'old school'.'"
+35,educational,0.8,0.82,,high,"''Educational' indicates informative value, reinforced as a good resource tool.'"
+35,useful,0.85,0.87,,high,"''Useful' suggests practical value, validated by its relevance to users.'"
+35,simple,0.85,0.87,,high,"''Simple' indicates ease and accessibility, supported by 'even non-savvy users'.'"
+35,new,0.8,0.82,,high,"''New' implies novelty and interest, supported by its uniqueness.'"
+35,cutting edge,0.9,0.92,,high,"''Cutting edge' suggests innovative and advanced, well supported by the newness to the community.'"
+36,business-like,0.75,0.78,,medium,"''Business-like' is typically neutral, slightly positive due to 'well organized'.'"
+36,simple,0.8,0.85,,high,Positive sentiment increased because it's associated with ease and straightforward use.
+36,fast,0.75,0.8,,high,Positive sentiment increased because it's linked to fast results.
+36,convenient,0.8,0.85,,high,Sentiment increased because it's associated with the ability to use whenever.
+36,responsive,0.7,0.75,,high,Positive sentiment elevated because of the prompt results it provides.
+37,educational,0.75,0.7,,medium,Slight sentiment decrease due to the neutral nature of learning about grasshoppers.
+37,organized,0.7,0.75,,medium,Sentiment increased because the structure aids function.
+38,old,0.25,0.2,,high,Negative sentiment slightly decreased due to outdated look.
+38,dated,0.2,0.15,,high,More negative sentiment due to clear association with being outdated.
+38,clear,0.7,0.75,,high,Positive sentiment increased due to the structured information presentation.
+38,simplistic,0.6,0.65,,medium,Sentiment slightly increased because information clarity is valued.
+38,unattractive,0.2,0.15,,high,Negative sentiment more apparent due to poor readability in appearance.
+39,easy to use,0.8,0.85,,high,Positive sentiment increased due to ease of following steps.
+39,convenient,0.8,0.85,,high,Sentiment increased as it aids in grasshopper identification.
+39,useful,0.85,0.9,,high,Sentiment increased because it effectively provides valuable infestation data.
+39,straightforward,0.8,0.85,,high,"Positive sentiment increase due to clear, direct questions."
+39,accessible,0.75,0.8,,high,Sentiment increased due to ease of navigating interface.
+40,simplistic,0.6,0.55,,medium,Slight sentiment decrease due to minimalism in actions and information.
+40,boring,0.3,0.25,,high,Decreased score due to the unengaging and plain interface described.
+40,confusing,0.2,0.15,,high,Negative sentiment more emphasized due to inability to interpret data effectively.
+40,educational,0.75,0.7,,medium,Slight sentiment decrease due to the neutral nature of provided information.
+40,frustrating,0.1,0.05,,high,Strong negative sentiment due to inability to find needed information.
+41,easy to use,0.8,0.85,,high,Positive sentiment increased due to simplicity for users unfamiliar with the subject.
+41,effective,0.85,0.9,,high,Sentiment increased due to effectiveness in problem-solving.
+41,straightforward,0.8,0.85,,high,Positive sentiment increased due to clarity and directness.
+41,efficient,0.8,0.85,,high,Sentiment increased due to time-saving nature.
+41,clear,0.75,0.8,,high,Sentiment increased due to simplicity and helpful detail in visual aids.
+42,usable,0.75,0.8,,high,Sentiment increased due to perceived utility.
+42,high quality,0.85,0.9,,high,Sentiment increased due to perceived excellence of product.
+42,friendly,0.7,0.75,,high,Positive sentiment increased due to ease of use.
+42,fast,0.75,0.8,,high,Sentiment increased due to load speed efficiency.
+42,not valuable,0.15,0.1,,high,Negative sentiment emphasized due to perceived lack of value.
+43,busy,0.3,0.25,,high,Negative sentiment increased due to overwhelming and confusing layout.
+43,distracting,0.25,0.2,,high,More negative sentiment due to confusion from clutter.
+43,poor quality,0.1,0.1,,high,The term 'poor quality' generally conveys a negative sentiment indicating dissatisfaction with the quality.
+43,annoying,0.15,0.15,,high,The word 'annoying' conveys a strong negative sentiment indicating frustration or irritation.
+43,awkward,0.2,0.2,,high,'Awkward' typically conveys a negative sentiment suggesting something is uncomfortable or not smooth.
+44,new,0.8,0.8,,high,"The word 'new' often conveys a positive sentiment, indicating something is current or improved."
+44,ordinary,0.4,0.4,,high,'Ordinary' conveys a neutral to slightly negative sentiment indicating lack of uniqueness.
+44,old,0.2,0.2,,high,"The word 'old' in context suggests being outdated, which is generally negative."
+44,effortless,0.7,0.7,,high,"'Effortless' conveys a positive sentiment, suggesting ease and smooth functioning."
+44,clear,0.7,0.7,,high,'Clear' often conveys a positive sentiment indicating easy understanding.
+45,simplistic,0.5,0.3,,high,"Simplistic doesn't often carry a wholly positive or negative sentiment, but in this context, it trends slightly negative, indicating lack of engagement."
+45,poor quality,0.1,0.1,,high,'Poor quality' remains negative since it indicates dissatisfaction with the quality.
+45,awkward,0.2,0.2,,high,'Awkward' typically carries a negative sentiment suggesting discomfort or lack of ease.
+45,dated,0.25,0.25,,high,'Dated' conveys a negative sentiment indicating being outdated.
+45,confusing,0.15,0.15,,high,"'Confusing' suggests difficulty in understanding, which is a negative sentiment."
+46,dull,0.3,0.3,,high,"'Dull' indicates lack of excitement or interest, which is typically negative."
+46,responsive,0.8,0.8,,high,'Responsive' carries a positive sentiment indicating effectiveness in responding to inputs.
+46,fast,0.85,0.85,,high,'Fast' generally conveys a highly positive sentiment indicating quick performance.
+46,usable,0.75,0.75,,high,'Usable' conveys a positive sentiment indicating ease of use.
+46,simple,0.75,0.75,,high,"'Simple' carries a positive sentiment in context, indicating lack of complexity."
+47,professional,0.7,0.7,,high,"'Professional' generally carries a positive sentiment, indicating high quality or competence."
+47,frustrating,0.15,0.15,,high,'Frustrating' conveys a strong negative sentiment indicating significant irritation.
+47,confusing,0.15,0.15,,high,"'Confusing' suggests difficulty in understanding, a negative sentiment."
+47,business-like,0.5,0.5,,high,"'Business-like' is generally neutral, reflecting focus and formality."
+47,poor quality,0.1,0.1,,high,'Poor quality' remains a negative sentiment indicating dissatisfaction.
+48,effective,0.85,0.85,,high,'Effective' conveys a strong positive sentiment indicating success in achieving a purpose.
+48,useful,0.9,0.9,,high,'Useful' typically carries a very positive sentiment indicating high value.
+48,fast,0.85,0.85,,high,"'Fast' indicates quick performance, generally a highly positive sentiment."
+48,dull,0.3,0.3,,high,"'Dull' indicates lack of excitement or interest, a negative sentiment."
+48,responsive,0.8,0.8,,high,"'Responsive' carries a positive sentiment, indicating effectiveness in responding to inputs."
+49,clear,0.85,0.88,,high,'The sentiment score for 'clear' is positive as it indicates ease of understanding and clarity. The explanation reinforces this by stating there was nothing to distract from the message.'
+49,clear,0.85,0.85,,high,'The sentiment for 'clear' remains the same as the explanation 'easy enough to understand' supports the initial positive score.'
+49,straightforward,0.8,0.8,,high,"'The word 'straightforward' conveys simplicity and ease of understanding, matching the positive sentiment of the explanation.'"
+49,reliable,0.9,0.9,,high,"''Reliable' suggests dependability and usefulness, which is consistent with the notion of helping a user find crop problems effectively.'"
+49,efficient,0.85,0.85,,high,"''Efficient' implies high performance and effectiveness, supported by 'worked well,' which confirms the positive sentiment.'"
+50,understandable,0.8,0.82,,high,"''Understandable' conveys clarity and simplicity, further affirmed by the explanation of how to use it well.'"
+50,innovative,0.87,0.87,,high,"''Innovative' indicates creativity and newness, supported by the detailed and useful graphs and maps mentioned.'"
+50,cluttered,0.2,0.2,,high,"''Cluttered' has a negative sentiment, supported by the explanation describing paragraphs as crammed and difficult to read.'"
+50,straightforward,0.8,0.8,,high,"''Straightforward' connotes simplicity and ease, which aligns with the sentiment in the explanation of simple and easy directions.'"
+50,understandable,0.8,0.8,,high,"''Understandable' signifies clarity and ease, supported by the explanation that the process was easy to understand.'"
+51,convenient,0.85,0.85,,high,"''Convenient' implies ease and comfort in use, reinforced by the explanation of finding information simply.'"
+51,relevant,0.88,0.88,,high,"''Relevant' conveys importance and usefulness, strongly supported by being described as an important and valuable tool.'"
+51,professional,0.85,0.85,,high,"''Professional' suggests high quality and expertise, consistent with the notion of an informed author.'"
+51,clear,0.85,0.85,,high,"''Clear' indicates straightforwardness and ease, supported by not getting lost in directions and having an easy layout.'"
+51,organized,0.87,0.87,,high,"''Organized' suggests tidiness and order, which enhances the positive sentiment supported by the natural flow and structure.'"
+52,easy to use,0.85,0.85,,high,"''Easy to use' connotes simplicity and user-friendliness, supported by concise directions.'"
+52,poor quality,0.15,0.15,,high,"''Poor quality' strongly suggests a negative impression, reinforced by describing the program opening as 'goofy.''"
+52,creative,0.8,0.8,,high,"''Creative' indicates originality and innovation, supported by the comment on its uniqueness.'"
+52,useful,0.86,0.86,,high,"''Useful' connotes practical value and aid, which aligns with being useful to farmers.'"
+52,straightforward,0.8,0.8,,high,"''Straightforward' suggests ease and simplicity, supported by the explanation of easy-to-understand questions.'"
+53,simplistic,0.7,0.7,,high,"''Simplistic' indicates basic and uncomplicated, aligning with the ease of understanding and simple layout.'"
+53,awkward,0.3,0.3,,high,"''Awkward' conveys discomfort and inconvenience, supported by the impracticality of button sizes and placements mentioned.'"
+53,useful,0.86,0.86,,high,"''Useful' indicates practical value, reinforced by being a general knowledge base.'"
+53,fast,0.85,0.85,,high,"''Fast' implies speed and efficiency, supported by the quick responses within acceptable timeframes.'"
+53,vague,0.35,0.35,,high,"''Vague' suggests lack of clarity and detail, confirmed by experienced users finding it of little value despite useful pictures.'"
+54,confusing,0.25,0.25,,high,"''Confusing' connotes complexity and difficulty, supported by the explanation of taking time to understand the program.'"
+54,simplistic,0.4,0.6,,high,"''simplistic' in itself is usually seen as a negative term, suggesting overly simple, but 'easy to use. not a lot of buttons' portrays a positive aspect.'"
+54,flexible,0.8,0.9,,high,"''Flexible' is generally positive, and 'allows you to view multiple areas. not restricted to one.' supports this positive sense.'"
+54,straightforward,0.8,0.9,,high,"''Straightforward' is positive, indicating clarity, and 'Easy to understand statements and questions' strengthens this aspect.'"
+54,unattractive,0.2,0.3,,high,"''Unattractive' is negative, but 'boring color scheme' gives context, making it clear it refers to aesthetics rather than functionality.'"
+55,organized,0.8,0.9,,high,"''Organized' is positive, and 'easy to use' reinforces its beneficial trait.'"
+55,useful,0.8,0.85,,high,"''Useful' already implies a positive sentiment, and 'Contains the correct information.' confirms its utility.'"
+55,flexible,0.8,0.9,,high,"''Flexible' again indicates adaptability, with 'Adaptable to user's needs.' being a strong positive trait.'"
+55,approachable,0.8,0.9,,high,"''Approachable' is positive, and 'Easy to use.' reiterates its user-friendliness.'"
+55,straightforward,0.8,0.85,,high,"''Straightforward' remains a highly positive term, and 'Understandable' provides a supporting context of clarity.'"
+56,business-like,0.7,0.75,,medium,"''Business-like' is neutral to slightly positive, connoting professionalism, and 'Professional' confirms a positive professional demeanor.'"
+56,straightforward,0.8,0.9,,high,"''Straightforward' continues to be positive, with 'It gives you options on a step by step basis' indicating ease of use.'"
+56,vague,0.2,0.15,,high,"''Vague' is negative, and 'The maps are vague, needs landmarks' confirms its lack of clarity.'"
+56,customizable,0.8,0.85,,high,"''Customizable' is positive, suggesting personalization, and 'Can attune it to individual person' reinforces its flexibility.'"
+56,intuitive,0.8,0.8,,high,"''Intuitive' is positive and 'Simple control panel, 'Help' button' confirms its ease of understanding.'"
+,time-consuming,0.2,0.15,,high,''Time-consuming' is negative and 'Repetitive clicking from it being so customizable' suggests the feature is cumbersome and inefficient.'

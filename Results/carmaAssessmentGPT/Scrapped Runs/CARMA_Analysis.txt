@@ -1,0 +1,1014 @@
+144.216.100.17
+1. **Delighted** - 0.85
+   - The word "delighted" has a positive connotation as it indicates a high level of happiness or satisfaction.
+   - Adjusted Score: 0.90
+
+2. **Frustrated** - 0.25
+   - The word "frustrated" has a negative connotation as it indicates a feeling of dissatisfaction or annoyance.
+   - Adjusted Score: 0.20
+
+3. **Amused** - 0.75
+   - The word "amused" has a positive connotation as it indicates a sense of enjoyment or entertainment.
+   - Adjusted Score: 0.80
+
+4. **Annoyed** - 0.35
+   - The word "annoyed" has a negative connotation as it suggests a feeling of irritation or displeasure.
+   - Adjusted Score: 0.30
+
+5. **Ecstatic** - 0.95
+   - The word "ecstatic" has an extremely positive connotation, indicating a very high level of joy or excitement.
+   - Adjusted Score: 1.00
+
+144.216.100.207
+- "clear"
+    - Score: 0.90
+    - Adjusted score: 0.90
+- "dated"
+    - Score: 0.10
+    - Adjusted score: 0.20
+- "old"
+    - Score: 0.20
+    - Adjusted score: 0.20
+- "simplistic"
+    - Score: 0.40
+    - Adjusted score: 0.70
+- "unattractive"
+    - Score: 0.15
+    - Adjusted score: 0.35
+
+144.216.103.118
+1. "easy to use" 
+   - Sentiment score: 0.95
+   - Adjusted score: 0.95
+2. "efficient"
+   - Sentiment score: 0.90
+   - Adjusted score: 0.90
+3. "professional"
+   - Sentiment score: 0.85
+   - Adjusted score: 0.85
+4. "simple"
+   - Sentiment score: 0.75
+   - Adjusted score: 0.75
+5. "understandable"
+   - Sentiment score: 0.95
+   - Adjusted score: 0.95
+
+144.216.112.24
+- "fast" sentiment score: 0.70
+Based on the explanation, adjusted score: 0.85
+
+- "friendly" sentiment score: 0.80
+Based on the explanation, adjusted score: 0.80
+
+- "high quality" sentiment score: 0.90
+Based on the explanation, adjusted score: 0.90
+
+- "not valuable" sentiment score: 0.10
+Based on the explanation, adjusted score: 0.10
+
+- "usable" sentiment score: 0.75
+Based on the explanation, adjusted score: 0.75
+
+144.216.114.16
+1. "business-like" 
+- Sentiment analysis score: 0.80
+- Adjusted score: 0.80
+2. "dull"
+- Sentiment analysis score: 0.10
+- Adjusted score: 0.10
+3. "responsive"
+- Sentiment analysis score: 0.90
+- Adjusted score: 0.90
+4. "simplistic"
+- Sentiment analysis score: 0.40
+- Adjusted score: 0.40
+5. "system-oriented"
+- Sentiment analysis score: 0.70
+- Adjusted score: 0.70
+
+144.216.12.31
+1. "simplistic"
+   - Sentiment analysis score: 0.10
+   - Adjusted score: 0.10
+2. "unattractive"
+   - Sentiment analysis score: 0.20
+   - Adjusted score: 0.20
+3. "understandable"
+   - Sentiment analysis score: 0.80
+   - Adjusted score: 0.80
+
+144.216.12.38
+"cutting edge"
+- Sentiment Analysis Score: 0.85
+- Adjusted Score: 0.85
+Explanation: The phrase "cutting edge" suggests something innovative and advanced, which typically carries a positive connotation.
+
+"educational"
+- Sentiment Analysis Score: 0.90
+- Adjusted Score: 0.90
+Explanation: "Educational" implies that the information provided was informative and helped in learning something new, thus indicating a positive sentiment.
+
+"high quality"
+- Sentiment Analysis Score: 0.85
+- Adjusted Score: 0.85
+Explanation: Describing something as "high quality" generally indicates a positive sentiment towards the program.
+
+"professional"
+- Sentiment Analysis Score: 0.80
+- Adjusted Score: 0.80
+Explanation: Calling something "professional" suggests that it was well-made and organized, indicating a positive sentiment.
+
+"time-consuming"
+- Sentiment Analysis Score: 0.10
+- Adjusted Score: 0.40
+Explanation: While "time-consuming" has a negative connotation, in this context, it may not be entirely negative but more of a neutral observation that it required a significant amount of time. Adjusting the score slightly upwards due to the explanation provided.
+
+144.216.152.33
+"confusing": 0.10  
+Adjusted Score: 0.10  
+Explanation: The word "confusing" conveys a negative sentiment, as the speaker was not sure about something and needed clarification.
+
+"convenient": 0.90  
+Adjusted Score: 0.90  
+Explanation: The word "convenient" conveys a positive sentiment, as it suggests that the solution is easy and saves time for the user.
+
+"educational": 0.80  
+Adjusted Score: 0.80  
+Explanation: The word "educational" conveys a positive sentiment, as it indicates that the user learned something new.
+
+"fast": 0.75  
+Adjusted Score: 0.75  
+Explanation: The word "fast" conveys a positive sentiment, as it suggests that the process was quick and efficient.
+
+"useful": 0.95  
+Adjusted Score: 0.95  
+Explanation: The word "useful" conveys a highly positive sentiment, as it indicates that the information provided was helpful and practical.
+
+144.216.166.12
+1. "clear"
+   - Sentiment score: 0.90
+   - Adjusted score: 0.90
+2. "educational"
+   - Sentiment score: 0.70
+   - Adjusted score: 0.70
+3. "efficient"
+   - Sentiment score: 0.75
+   - Adjusted score: 0.75
+4. "expected"
+   - Sentiment score: 0.50
+   - Adjusted score: 0.50
+5. "trustworthy"
+   - Sentiment score: 0.95
+   - Adjusted score: 0.95
+
+144.216.166.4
+"clean": 
+- Explanation: The word is related to simplicity and user-friendliness.
+- Sentiment Score: 0.90
+- Adjusted Score: 0.90
+
+"fast": 
+- Explanation: Indicates surprise at the speed of something.
+- Sentiment Score: 0.80
+- Adjusted Score: 0.80
+
+"organized": 
+- Explanation: Describes an easy and logical process.
+- Sentiment Score: 0.95
+- Adjusted Score: 0.95
+
+"relevant": 
+- Explanation: Impressed by the applicability to a situation outside of personal experience.
+- Sentiment Score: 0.75
+- Adjusted Score: 0.75
+
+"usable": 
+- Explanation: Related to simplicity and ease of use.
+- Sentiment Score: 0.90
+- Adjusted Score: 0.90
+
+144.216.184.9
+"business-like" 
+- Score: 0.80
+- Adjusted Score: 0.80
+- Explanation: The use of "business-like" conveys a neutral, professional tone.
+  
+"customizable" 
+- Score: 0.90
+- Adjusted Score: 0.90
+- Explanation: The word "customizable" reflects a positive sentiment, indicating flexibility and personalization.
+
+"organized" 
+- Score: 1.00
+- Adjusted Score: 1.00
+- Explanation: "Organized" suggests a positive sentiment of structure and clear presentation.
+
+"straightforward" 
+- Score: 0.95
+- Adjusted Score: 0.95
+- Explanation: "Straightforward" implies a positive sentiment of clarity and simplicity in communication.
+
+"understandable" 
+- Score: 0.85
+- Adjusted Score: 0.85
+- Explanation: "Understandable" holds a positive sentiment, indicating clarity and accessibility of the content.144.216.206.13
+- "educational"
+Explanation: The word choice suggests a positive sentiment due to the opportunity to learn more.
+Sentiment analysis score: 0.90
+Adjusted score: 0.90
+
+- "entertaining"
+Explanation: The word choice indicates a positive sentiment as the process of learning about bugs is enjoyable.
+Sentiment analysis score: 0.80
+Adjusted score: 0.80
+
+- "fun"
+Explanation: The word choice shows a positive sentiment regarding the cool pictures present.
+Sentiment analysis score: 0.85
+Adjusted score: 0.85
+
+- "organized"
+Explanation: The word choice conveys a positive sentiment by pointing out the structured layout of the content with questions and pictures.
+Sentiment analysis score: 0.75
+Adjusted score: 0.75144.216.206.136
+"easy" - 0.90. The word "easy" typically conveys a positive sentiment, suggesting that the questions were not overly challenging or difficult.  
+Adjusted score: 0.95. The word "easy" indicates a positive sentiment, describing the questions in a favorable light.144.216.230.13
+1. "confusing"
+Sentiment analysis score: 0.30  
+Adjusted score: 0.10 (due to technical terminology)
+
+2. "impressive"
+Sentiment analysis score: 0.95  
+Adjusted score: 0.85 (interesting idea)
+
+3. "simplistic"
+Sentiment analysis score: 0.20  
+Adjusted score: 0.70 (user friendly)
+
+4. "too technical"
+Sentiment analysis score: 0.20  
+Adjusted score: 0.50 (need to perform some study and know grasshopper terms ahead of time)
+
+5. "vague"
+Sentiment analysis score: 0.10  
+Adjusted score: 0.30 (for weather stations)144.216.238.16
+- "clear"
+    - Sentiment score: 0.80
+    - Adjusted score: 0.80
+- "efficient"
+    - Sentiment score: 0.90
+    - Adjusted score: 0.90
+- "reliable"
+    - Sentiment score: 0.85
+    - Adjusted score: 0.85
+- "straightforward"
+    - Sentiment score: 0.80
+    - Adjusted score: 0.80
+- "understandable"
+    - Sentiment score: 0.75
+    - Adjusted score: 0.75144.216.238.6
+1. "accessible"
+   - Sentiment score: 0.90
+   - Adjusted score: 0.90
+2. "convenient"
+   - Sentiment score: 0.80
+   - Adjusted score: 0.80
+3. "easy to use"
+   - Sentiment score: 1.00
+   - Adjusted score: 1.00
+4. "straightforward"
+   - Sentiment score: 0.75
+   - Adjusted score: 0.75
+5. "useful"
+   - Sentiment score: 0.95
+   - Adjusted score: 0.95144.216.24.33
+For "convenient":
+- Original score: 0.90
+- Adjusted score: 0.95
+
+For "educational":
+- Original score: 0.80
+- Adjusted score: 0.80
+
+For "efficient":
+- Original score: 0.85
+- Adjusted score: 0.90
+
+For "straightforward":
+- Original score: 0.75
+- Adjusted score: 0.85
+
+For "understandable":
+- Original score: 0.85
+- Adjusted score: 0.90144.216.3.40
+"awkward" 
+Sentiment score: 0.20
+Explanation: The word "awkward" suggests a negative feeling of discomfort or unease. 
+Adjusted score: 0.20
+
+"illogical"
+Sentiment score: 0.10
+Explanation: The word "illogical" implies a lack of reason or sense.
+Adjusted score: 0.10
+
+"poor quality"
+Sentiment score: 0.15
+Explanation: The phrase "poor quality" indicates a perception of low standards or inferiority.
+Adjusted score: 0.15
+
+"unattractive"
+Sentiment score: 0.25
+Explanation: The term "unattractive" implies a negative perception of appearance or aesthetics.
+Adjusted score: 0.25144.216.32.4
+1. "awkward"
+   - Sentiment analysis score: 0.20
+   - Adjusted score: 0.20
+2. "complex"
+   - Sentiment analysis score: 0.10
+   - Adjusted score: 0.10
+3. "responsive"
+   - Sentiment analysis score: 0.90
+   - Adjusted score: 0.90
+4. "time-consuming"
+   - Sentiment analysis score: 0.15
+   - Adjusted score: 0.15
+5. "usable"
+   - Sentiment analysis score: 0.80
+   - Adjusted score: 0.80144.216.36.46
+1. "approachable"
+- Sentiment Score: 0.90
+- Adjusted Score: 0.80
+
+2. "clean"
+- Sentiment Score: 0.95
+- Adjusted Score: 0.85
+
+3. "fast"
+- Sentiment Score: 0.80
+- Adjusted Score: 0.70
+
+4. "professional"
+- Sentiment Score: 0.85
+- Adjusted Score: 0.75
+
+5. "simple"
+- Sentiment Score: 0.80
+- Adjusted Score: 0.70144.216.40.114
+"business-like"
+- Sentiment score: 0.85
+- Adjusted score: 0.90
+Explanation: The word choice "business-like" indicates a positive and efficient tone, suggesting professionalism and organization.
+
+"clean"
+- Sentiment score: 0.90
+- Adjusted score: 0.90
+Explanation: The word choice "clean" implies simplicity and clarity, making it easy to understand and follow.
+
+"complex"
+- Sentiment score: 0.10
+- Adjusted score: 0.05
+Explanation: The word choice "complex" indicates difficulty and confusion, suggesting a negative tone and lack of understanding.
+
+"incomprehensible"
+- Sentiment score: 0.00
+- Adjusted score: 0.00
+Explanation: The word choice "incomprehensible" strongly conveys a lack of understanding and confusion, leading to a very negative sentiment.
+
+"too technical"
+- Sentiment score: 0.20
+- Adjusted score: 0.10
+Explanation: The phrase "too technical" suggests a negative tone, indicating that the content may be challenging for those without specific knowledge or expertise.144.216.40.31
+- "boring": 0.10
+Adjusted score: 0.10
+- "dated": 0.05
+Adjusted score: 0.05
+- "dull": 0.20
+Adjusted score: 0.20
+- "simple": 0.70
+Adjusted score: 0.70
+- "straightforward": 0.85
+Adjusted score: 0.85144.216.42.189
+"clear": 
+- Sentiment Score: 0.80
+- Adjusted Score: 0.85 
+
+"easy to use": 
+- Sentiment Score: 0.90
+- Adjusted Score: 0.90 
+
+"effective": 
+- Sentiment Score: 0.85
+- Adjusted Score: 0.85 
+
+"efficient": 
+- Sentiment Score: 0.75
+- Adjusted Score: 0.75 
+
+"straightforward": 
+- Sentiment Score: 0.90
+- Adjusted Score: 0.90144.216.48.6
+"clean":  
+- Sentiment score: 0.80  
+- Adjusted score: 0.90 - The word "clean" is used positively to describe the organization and clarity of the software, indicating a positive sentiment.
+
+"exciting":
+- Sentiment score: 0.95  
+- Adjusted score: 1.00 - The word "exciting" conveys a high level of positivity and enthusiasm about using the software for the first time.
+
+"fun":
+- Sentiment score: 0.90  
+- Adjusted score: 0.95 - The word "fun" suggests a positive and enjoyable experience when checking bugs in the software.
+
+"meaningful":
+- Sentiment score: 0.85  
+- Adjusted score: 0.90 - The word "meaningful" indicates that the software is valuable and serves a useful purpose in teaching, reflecting a positive sentiment.
+
+"old":
+- Sentiment score: 0.10  
+- Adjusted score: 0.05 - The word "old" is used negatively to describe the outdated appearance of the menu panel, conveying a low sentiment.144.216.48.9
+"clear":
+- Sentiment score: 0.90
+- Adjusted score: 0.90
+Explanation: The word "clear" in this context indicates a positive experience with the website design, suggesting that the navigation and instructions were easy to understand.
+
+"cutting edge":
+- Sentiment score: 0.80
+- Adjusted score: 0.75
+Explanation: Although "cutting edge" is mostly positive, the explanation implies that simplicity is valued over complexity, which could slightly diminish the positive connotation.
+
+"easy to use":
+- Sentiment score: 0.95
+- Adjusted score: 0.95
+Explanation: The word "easy to use" directly conveys a positive experience of the website being user-friendly and accessible.
+
+"fun":
+- Sentiment score: 0.90
+- Adjusted score: 0.90
+Explanation: The word "fun" suggests enjoyment and a positive emotional response to the website's design and layout.
+
+"useful":
+- Sentiment score: 0.85
+- Adjusted score: 0.85
+Explanation: The word "useful" indicates that the website provided a variety of helpful resources or tools, contributing to a positive user experience.144.216.48.92
+"awkward"
+- Sentiment Score: 0.15
+- Adjusted Score: 0.10 (Negative connotation due to lack of personal warmth and invitation)
+
+"busy"
+- Sentiment Score: 0.25
+- Adjusted Score: 0.15 (Negative connotation due to being confusing)
+
+"distracting"
+- Sentiment Score: 0.10
+- Adjusted Score: 0.05 (Negative connotation due to confusion)
+
+"new"
+- Sentiment Score: 0.80
+- Adjusted Score: 0.80 (Positive connotation indicating freshness)
+
+"poor quality"
+- Sentiment Score: 0.05
+- Adjusted Score: 0.05 (Negative connotation due to frustration with functionality)144.216.6.29
+- "customizable" sentiment score: 0.80
+Explanation: The word "customizable" suggests a positive sentiment due to the idea of having many options to choose from to tailor something to individual needs.
+
+Adjusted score: 0.85
+
+- "educational" sentiment score: 0.80
+Explanation: The word "educational" implies a positive sentiment as it indicates that something is easy to learn and understand.
+
+Adjusted score: 0.80
+
+- "flexible" sentiment score: 0.85
+Explanation: The word "flexible" typically carries a positive sentiment as it suggests ease in making changes and adjustments.
+
+Adjusted score: 0.85
+
+- "understandable" sentiment score: 0.75
+Explanation: "Understandable" suggests clarity and simplicity, which usually leads to a positive sentiment.
+
+Adjusted score: 0.75
+
+- "useful" sentiment score: 0.50
+Explanation: The sentiment towards "useful" is mixed as the statement indicates a personal opinion that it wasn't useful, but acknowledges the potential usefulness on a larger scale.
+
+Adjusted score: 0.65162.127.39.102
+- "boring": 0.10  
+Adjusted score: 0.10  
+- "dull": 0.15  
+Adjusted score: 0.20  
+- "easy to use": 0.85  
+Adjusted score: 0.90  
+- "time-consuming": 0.05  
+Adjusted score: 0.10  
+- "usable": 0.80  
+Adjusted score: 0.85  174.8.118.72
+1. "fun"
+   - Sentiment score: 0.90
+   - Adjusted score: 0.90
+2. "innovative"
+   - Sentiment score: 0.85
+   - Adjusted score: 0.85
+3. "stimulating"
+   - Sentiment score: 0.75
+   - Adjusted score: 0.75
+4. "straightforward"
+   - Sentiment score: 0.80
+   - Adjusted score: 0.80
+5. "usable"
+   - Sentiment score: 0.90
+   - Adjusted score: 0.90207.68.217.37
+1. "business-like" - 
+   - Sentiment Analysis Score: 0.30
+   - Adjusted Score: 0.30
+   - Explanation: The word choice "business-like" suggests a professional and serious tone. It implies a sense of efficiency and formality, which aligns with the description of the formal and concise text in the software. 
+
+2. "efficient" - 
+   - Sentiment Analysis Score: 0.80
+   - Adjusted Score: 0.80
+   - Explanation: The word "efficient" conveys a positive sentiment, indicating that there were no distracting ads or banners in the software, enhancing the user experience.
+
+3. "fast" - 
+   - Sentiment Analysis Score: 0.90
+   - Adjusted Score: 0.90
+   - Explanation: "Fast" carries a positive sentiment, suggesting that it did not take long to proceed to the next question, which is viewed as a desirable quality in software usability.
+
+4. "organized" - 
+   - Sentiment Analysis Score: 0.70
+   - Adjusted Score: 0.70
+   - Explanation: The word "organized" generally implies a positive sentiment, indicating that the software was structured in a user-friendly manner, making it easy to navigate.24.223.106.130
+- "cutting edge"  
+Sentiment Score: 0.90  
+Explanation: The phrase "cutting edge" suggests innovation and advanced technology, which often conveys positive feelings of progress and improvement.  
+Adjusted Score: 0.95  
+
+- "educational"  
+Sentiment Score: 0.80  
+Explanation: The word "educational" implies providing knowledge and learning opportunities, which are generally seen in a positive light.  
+Adjusted Score: 0.85  
+
+- "new"  
+Sentiment Score: 0.70  
+Explanation: "new" signifies novelty and a sense of discovery, eliciting curiosity and interest.  
+Adjusted Score: 0.75  
+
+- "simple"  
+Sentiment Score: 0.60  
+Explanation: "simple" implies ease of use and accessibility, often viewed positively for its user-friendliness.  
+Adjusted Score: 0.65  
+
+- "useful"  
+Sentiment Score: 0.85  
+Explanation: "useful" indicates practicality and benefits, typically seen as positive for fulfilling needs or solving problems.  
+Adjusted Score: 0.90  64.39.250.6
+1. "awkward"
+   - Sentiment Score: 0.15
+   - Adjusted Score: 0.15
+2. "business-like"
+   - Sentiment Score: 0.70
+   - Adjusted Score: 0.85
+3. "business-like"
+   - Sentiment Score: 0.50
+   - Adjusted Score: 0.50
+4. "comprehensive"
+   - Sentiment Score: 0.85
+   - Adjusted Score: 0.70
+5. "confusing"
+   - Sentiment Score: 0.25
+   - Adjusted Score: 0.25
+6. "convenient"
+   - Sentiment Score: 0.85
+   - Adjusted Score: 0.85
+7. "effective"
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.80
+8. "fast"
+   - Sentiment Score: 0.90
+   - Adjusted Score: 0.90
+9. "frustrating"
+   - Sentiment Score: 0.15
+   - Adjusted Score: 0.15
+10. "old"
+    - Sentiment Score: 0.10
+    - Adjusted Score: 0.10
+11. "poor quality"
+    - Sentiment Score: 0.20
+    - Adjusted Score: 0.20
+12. "responsive"
+    - Sentiment Score: 0.85
+    - Adjusted Score: 0.85
+13. "simple"
+    - Sentiment Score: 0.85
+    - Adjusted Score: 0.85
+14. "time-consuming"
+    - Sentiment Score: 0.20
+    - Adjusted Score: 0.20
+15. "unattractive"
+    - Sentiment Score: 0.10
+    - Adjusted Score: 0.1065.73.34.110
+- "educational"
+- Sentiment Analysis Score: 0.80
+- Adjusted Score: 0.80
+- Explanation: The term "educational" is likely to have a positive sentiment due to its association with learning and gaining knowledge.
+
+- "overwhelming"
+- Sentiment Analysis Score: 0.20
+- Adjusted Score: 0.20
+- Explanation: The word "overwhelming" typically conveys a negative sentiment, suggesting that the amount of information presented is challenging or stressful.
+
+- "professional"
+- Sentiment Analysis Score: 0.90
+- Adjusted Score: 0.90
+- Explanation: The word "professional" usually conveys a positive sentiment, suggesting competence, expertise, and high quality.
+
+- "too technical"
+- Sentiment Analysis Score: 0.30
+- Adjusted Score: 0.30
+- Explanation: The term "too technical" tends to have a negative sentiment as it implies that the level of technical detail may be difficult for some individuals to understand.
+
+- "uncontrollable"
+- Sentiment Analysis Score: 0.10
+- Adjusted Score: 0.10
+- Explanation: The word "uncontrollable" carries a negative sentiment, suggesting a lack of control or predictability, which can be frustrating or challenging.67.203.211.248
+"clear" - 0.90
+Adjusted score: 0.90
+Explanation: The word "clear" is associated with straightforwardness and ease of understanding, suggesting a positive sentiment.
+
+"effortless" - 0.85
+Adjusted score: 0.85
+Explanation: The word "effortless" implies ease and simplicity, which generally conveys a positive sentiment.
+
+"old" - 0.20
+Adjusted score: 0.20
+Explanation: The word "old" in this context is used in a negative tone to indicate outdated or less advanced. 
+
+"ordinary" - 0.40
+Adjusted score: 0.40
+Explanation: The word "ordinary" suggests mediocrity or lack of distinction, which typically conveys a slightly negative sentiment.
+
+"simplistic" - 0.25
+Adjusted score: 0.25
+Explanation: The word "simplistic" is used here in a negative sense to convey a lack of complexity or depth, hence a lower sentiment score.70.209.19.235
+1. "effective" 
+Sentiment Analysis Score: 0.90
+Explanation: The word "effective" suggests a positive sentiment as it implies something is successful or achieves the desired results.
+
+Adjusted Score: 0.90
+
+2. "fresh"
+Sentiment Analysis Score: 0.80
+Explanation: The word "fresh" conveys a positive sentiment because it indicates something new, original, or innovative.
+
+Adjusted Score: 0.80
+
+3. "time-saving"
+Sentiment Analysis Score: 0.85
+Explanation: The phrase "time-saving" is typically viewed positively as it implies efficiency and convenience.
+
+Adjusted Score: 0.85
+
+4. "usable"
+Sentiment Analysis Score: 0.75
+Explanation: The word "usable" is neutral, suggesting something is functional or practical without strongly conveying a positive or negative sentiment.
+
+Adjusted Score: 0.60
+
+5. "useful"
+Sentiment Analysis Score: 0.70
+Explanation: The word "useful" generally denotes a positive sentiment as it indicates something has value or serves a purpose.
+
+Adjusted Score: 0.7071.8.235.8
+"approachable" - 0.90
+Explanation: The word "approachable" conveys a positive and inviting sentiment.
+Adjusted score: 0.90
+
+"business-like" - 0.40
+Explanation: The word "business-like" suggests a formal and serious tone.
+Adjusted score: 0.40
+
+"flexible" - 0.80
+Explanation: The word "flexible" implies a positive attribute of being adaptable to user's needs.
+Adjusted score: 0.80
+
+"straightforward" - 0.85
+Explanation: The word "straightforward" indicates clarity and ease of understanding.
+Adjusted score: 0.85
+
+"useful" - 0.95
+Explanation: The word "useful" suggests a high level of helpfulness and functionality.
+Adjusted score: 0.9571.82.57.110
+"simple"
+- Sentiment score: 0.85
+- Adjusted score: 0.85 (positive sentiment indicated by "easy to use")
+
+"straightforward"
+- Sentiment score: 0.90
+- Adjusted score: 0.90 (positive sentiment indicated by "easy to use")
+
+"time-saving"
+- Sentiment score: 0.75
+- Adjusted score: 0.80 (positive sentiment indicated by "for those who need to figure quickly")71.82.60.250
+- "dated" (Explanation: The graphics and setup are described as plain and reminiscent of something created 5-10 years ago.)
+Sentiment Analysis Score: 0.15
+Adjusted Score: 0.20
+
+- "easy to use" (Explanation: Described as self-explanatory.)
+Sentiment Analysis Score: 0.95
+Adjusted Score: 0.90
+
+- "educational" (Explanation: It can help teach.)
+Sentiment Analysis Score: 0.85
+Adjusted Score: 0.90
+
+- "effective" (Explanation: It gets the information across.)
+Sentiment Analysis Score: 0.90
+Adjusted Score: 0.90
+
+- "straightforward" (Explanation: Described as self-explanatory.)
+Sentiment Analysis Score: 0.95
+Adjusted Score: 0.9071.82.60.60
+1. "awkward"
+   - Sentiment Analysis Score: 0.10
+   - Adjusted Score: 0.30
+   
+2. "confusing"
+   - Sentiment Analysis Score: 0.20
+   - Adjusted Score: 0.40
+
+3. "fast"
+   - Sentiment Analysis Score: 0.90
+   - Adjusted Score: 0.90
+
+4. "useful"
+   - Sentiment Analysis Score: 0.80
+   - Adjusted Score: 0.80
+
+5. "vague"
+   - Sentiment Analysis Score: 0.15
+   - Adjusted Score: 0.3574.38.138.76
+1. "clear"
+- Sentiment score: 0.90
+- Adjusted score: 0.90
+2. "dull"
+- Sentiment score: 0.10
+- Adjusted score: 0.30
+3. "fast"
+- Sentiment score: 0.95
+- Adjusted score: 0.95
+4. "responsive"
+- Sentiment score: 0.85
+- Adjusted score: 0.85
+5. "useful"
+- Sentiment score: 0.80
+- Adjusted score: 0.8074.38.139.9
+1. "customizable"
+   - Sentiment score: 0.80
+   - Adjusted score: 0.50 (The word choice is positive, but the explanation suggests frustration with the level of customization.)
+
+2. "intuitive"
+   - Sentiment score: 0.90
+   - Adjusted score: 0.95 (The word choice is positive and aligns with the explanation.)
+
+3. "straightforward"
+   - Sentiment score: 0.85
+   - Adjusted score: 0.80 (The word choice is positive, but the explanation suggests a bit of complexity.)
+
+4. "time-consuming"
+   - Sentiment score: 0.30
+   - Adjusted score: 0.20 (The word choice is negative, and the explanation amplifies the frustration with the product.)
+
+5. "vague"
+   - Sentiment score: 0.20
+   - Adjusted score: 0.10 (The word choice is negative, and the explanation shows dissatisfaction with a specific feature.)74.38.150.161
+"awkward" - Score: 0.20
+Adjusted Score: 0.20
+Explanation: The word "awkward" typically conveys a negative sentiment. 
+
+"confusing" - Score: 0.25
+Adjusted Score: 0.25
+Explanation: The word "confusing" indicates a lack of understanding or clarity, which suggests a negative sentiment.
+
+"dated" - Score: 0.40
+Adjusted Score: 0.40
+Explanation: The word "dated" implies something is old or out of style, which often carries a negative connotation.
+
+"dull" - Score: 0.10
+Adjusted Score: 0.10
+Explanation: The word "dull" suggests boredom or lack of interest, indicating a negative sentiment.
+
+"poor quality" - Score: 0.10
+Adjusted Score: 0.10
+Explanation: The phrase "poor quality" is explicitly negative in nature, suggesting low standards or subpar performance.74.39.197.227
+1. "boring"
+   - Sentiment score: 0.20
+   - Adjusted score: 0.20
+2. "confusing"
+   - Sentiment score: 0.80
+   - Adjusted score: 0.90
+3. "educational"
+   - Sentiment score: 0.80
+   - Adjusted score: 0.80
+4. "frustrating"
+   - Sentiment score: 0.70
+   - Adjusted score: 0.70
+5. "simplistic"
+   - Sentiment score: 0.60
+   - Adjusted score: 0.4074.85.119.177
+"clear"
+- Sentiment score: 0.80
+- Adjusted sentiment score: 0.90
+Explanation: The use of "clear" indicates that the directions and layout were easy to understand, which is a positive attribute.
+
+"easy to use"
+- Sentiment score: 0.85
+- Adjusted sentiment score: 0.90
+Explanation: The phrase "easy to use" implies that the directions were straightforward and simple to follow, which generally conveys a positive sentiment.
+
+"organized"
+- Sentiment score: 0.75
+- Adjusted sentiment score: 0.85
+Explanation: The word "organized" suggests a logical flow and structure, which is typically seen as positive in this context.
+
+"professional"
+- Sentiment score: 0.90
+- Adjusted sentiment score: 0.95
+Explanation: The term "professional" conveys a sense of expertise and credibility, indicating a positive perception of the author.
+
+"relevant"
+- Sentiment score: 0.75
+- Adjusted sentiment score: 0.80
+Explanation: The word "relevant" indicates the importance and usefulness of the tool for farmers, which is generally viewed positively.75.105.38.140
+"cluttered"  
+Sentiment Analysis Score: 0.10  
+Adjusted Score: 0.10 (negative connotation of being overwhelmed with information)  
+
+"convenient"  
+Sentiment Analysis Score: 0.90  
+Adjusted Score: 0.90 (positive description of being easy to use and useful)  
+
+"innovative"  
+Sentiment Analysis Score: 0.80  
+Adjusted Score: 0.80 (positive description of offering new and detailed features)  
+
+"straightforward"  
+Sentiment Analysis Score: 0.95  
+Adjusted Score: 0.95 (positive description of being clear and uncomplicated)  
+
+"understandable"  
+Sentiment Analysis Score: 0.80  
+Adjusted Score: 0.80 (positive description of being easy to comprehend)  75.88.104.215
+- "effortless"
+  - Sentiment score: 0.95
+  - Adjusted score: 1.00 (high level of positivity in remark)
+  
+- "simple"
+  - Sentiment score: 0.95
+  - Adjusted score: 1.00 (high level of positivity in remark)
+  
+- "simplistic"
+  - Sentiment score: 0.95
+  - Adjusted score: 1.00 (high level of positivity in remark)
+  
+- "unattractive"
+  - Sentiment score: 0.25
+  - Adjusted score: 0.10 (negative opinion expressed)
+  
+- "useful"
+  - Sentiment score: 0.95
+  - Adjusted score: 1.00 (high level of positivity in remark)76.18.73.125
+- "boring":
+    - Sentiment score: 0.10
+    - Adjusted score: 0.10
+- "dated":
+    - Sentiment score: 0.20
+    - Adjusted score: 0.20
+- "old":
+    - Sentiment score: 0.30
+    - Adjusted score: 0.30
+- "simplistic":
+    - Sentiment score: 0.60
+    - Adjusted score: 0.75
+- "unattractive":
+    - Sentiment score: 0.15
+    - Adjusted score: 0.1576.180.86.6
+"attractive": 0.90
+Explanation: The word choice suggests a positive sentiment towards the picture.
+
+Adjusted score: 0.90
+
+---
+
+"clear": 0.95
+Explanation: The word choice indicates a favorable view of the directions and results being easily understood.
+
+Adjusted score: 0.95
+
+---
+
+"educational": 0.75
+Explanation: The word choice implies that the results provide valuable information.
+
+Adjusted score: 0.80
+
+---
+
+"organized": 0.90
+Explanation: The word choice suggests that the menus and layout are well-structured, aiding in ease of use.
+
+Adjusted score: 0.90
+
+---
+
+"usable": 0.85
+Explanation: The word choice implies that the product is straightforward and user-friendly.
+
+Adjusted score: 0.8597.119.35.177
+"fast" - 0.80
+Explanation: The word "fast" typically conveys a positive sentiment (though it may not be overwhelmingly positive in all contexts).
+
+Adjusted score: 0.80
+
+---
+
+"professional" - 0.90
+Explanation: The word "professional" suggests high quality and expertise, conveying a positive sentiment.
+
+Adjusted score: 0.90
+
+---
+
+"responsive" - 0.85
+Explanation: The word "responsive" typically implies efficiency and effectiveness, leading to a positive sentiment.
+
+Adjusted score: 0.85
+
+---
+
+"simple" - 0.70
+Explanation: While "simple" can be positive in some contexts, the explanation provided here suggests it as more neutral, focusing on lack of unnecessary elements rather than a strong positive attribute.
+
+Adjusted score: 0.50
+
+---
+
+"usable" - 0.95
+Explanation: "Usable" implies ease of use and user-friendliness, which are positive attributes in most contexts.
+
+Adjusted score: 0.9597.87.68.194
+"creative" 
+- Sentiment score: 0.90
+- Adjusted score: 0.90
+Explanation: The use of "creative" implies positivity and admiration for uniqueness.
+
+"poor quality" 
+- Sentiment score: 0.10
+- Adjusted score: 0.10
+Explanation: The phrase "poor quality" denotes a negative sentiment, suggested by the phrase "kind of goofy".
+
+"simplistic" 
+- Sentiment score: 0.20
+- Adjusted score: 0.20
+Explanation: While "simplistic" typically has a neutral connotation, it is likely used here to suggest a lack of depth or complexity.
+
+"straightforward" 
+- Sentiment score: 0.80
+- Adjusted score: 0.80
+Explanation: "Straightforward" suggests ease and clarity, reflecting a positive sentiment.
+
+"useful" 
+- Sentiment score: 0.90
+- Adjusted score: 0.90
+Explanation: The usage of "useful" conveys a positive sentiment due to its perceived benefit to farmers.97.87.76.80
+"business-like" - Sentiment Score: 0.50  
+Adjusted Score: 0.70 (The word is associated with professionalism and efficiency in this context.)
+
+"clean" - Sentiment Score: 0.80  
+Adjusted Score: 0.90 (The absence of excess graphics is perceived positively in this context.)
+
+"easy to use" - Sentiment Score: 0.90  
+Adjusted Score: 0.90 (The straightforward approach makes it easy to understand and follow.)
+
+"organized" - Sentiment Score: 0.70  
+Adjusted Score: 0.90 (The organization and the one question per page layout are seen as beneficial in this context.)
+
+"straightforward" - Sentiment Score: 0.90  
+Adjusted Score: 0.90 (The direct and easy-to-understand nature of the questions is valued.)97.87.76.80
+- "flexible" (0.70) 
+   - Explanation: The word "flexible" indicates a positive sentiment due to its implication of versatility and adaptability.
+   - Adjusted score: 0.80
+
+- "organized" (0.80) 
+   - Explanation: The word "organized" carries a positive sentiment, suggesting efficiency and clarity.
+   - Adjusted score: 0.85
+
+- "simplistic" (0.60) 
+   - Explanation: The word "simplistic" is neutral but leans positive, implying ease of use and straightforwardness.
+   - Adjusted score: 0.65
+
+- "straightforward" (0.85) 
+   - Explanation: The word "straightforward" conveys a positive sentiment by indicating clarity and simplicity.
+   - Adjusted score: 0.85
+
+- "unattractive" (0.20) 
+   - Explanation: The word "unattractive" denotes a negative sentiment, implying displeasure or lack of aesthetic appeal.
+   - Adjusted score: 0.15

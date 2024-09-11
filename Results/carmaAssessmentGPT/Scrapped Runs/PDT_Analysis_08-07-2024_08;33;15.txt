@@ -1,0 +1,1692 @@
+
+1
+1. **"clean"**
+   - **Sentiment Score:** 0.70
+   - **Adjusted Score:** 0.60
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "clean" generally conveys a positive sentiment, suggesting something that is well-organized and free from clutter. However, the accompanying explanation introduces a slight negative aspect by mentioning the small and hard-to-read words, adjusting the score slightly lower.
+
+2. **"approachable"**
+   - **Sentiment Score:** 0.75
+   - **Adjusted Score:** 0.65
+   - **Confidence:** Medium
+   - **Contextual Explanation:** "Approachable" implies that the design is user-friendly and accessible, which is positive. The slight negativeness from the difficult-to-read words lowers the score a bit. However, the term is less common in describing design, so confidence is adjusted to medium.
+
+3. **"simple"**
+   - **Sentiment Score:** 0.65
+   - **Adjusted Score:** 0.55
+   - **Confidence:** High
+   - **Contextual Explanation:** "Simple" communicates ease of use and lack of complexity, a generally positive sentiment, yet not overly enthusiastic. The critique about readability lowers the sentiment slightly.
+
+4. **"professional"**
+   - **Sentiment Score:** 0.80
+   - **Adjusted Score:** 0.70
+   - **Confidence:** High
+   - **Contextual Explanation:** "Professional" suggests high quality and competence, which is very positive. The issue with readability introduces a minor negative nuance but can't detract heavily from the primary positive connotation.
+
+5. **"fast"**
+   - **Sentiment Score:** 0.85
+   - **Adjusted Score:** 0.75
+   - **Confidence:** Medium
+   - **Contextual Explanation:** "Fast" generally implies efficiency and quick performance, which is strongly positive. The note about small and hard-to-read words slightly dims this positivity. However, "fast" is often associated more with speed than readability, introducing some ambiguity, thus the medium confidence.
+2
+1. "fast"
+   - Sentiment Score: 0.75
+   - Adjusted Score: 0.85 
+   - Confidence: High
+   - Explanation: The word "fast" generally conveys positive attributes, such as efficiency and speed. The explanation emphasizes the ease and quickness in obtaining useful information, which further boosts the sentiment.
+
+2. "convenient"
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - Explanation: "Convenient" suggests ease of use and helpfulness, which is positive. The explanation underscores the utility of having a fast and straightforward solution to a problem, raising the score slightly because it emphasizes practicality.
+
+3. "educational"
+   - Sentiment Score: 0.85
+   - Adjusted Score: 0.75
+   - Confidence: Medium
+   - Explanation: The word "educational" is positive, implying value through learning. However, the explanation mentions surprise and a realization of prior ignorance, slightly lowering the sentiment as it highlights a lack of prior knowledge.
+
+4. "useful"
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - Explanation: "Useful" inherently carries a positive connotation, reflecting effectiveness and practicality. The explanation describes specific guidance and problem-solving, which enhances the sentiment score.
+
+5. "confusing"
+   - Sentiment Score: 0.25
+   - Adjusted Score: 0.35
+   - Confidence: Medium
+   - Explanation: "Confusing" typically has a negative connotation. However, the explanation mentions that clarity was achieved after following instructions, moderately improving the sentiment score. The conditionals based on personal context (knowledge about farming) also introduce a potential for improvement.
+3
+1. "usable"
+   - Sentiment Analysis Score: 0.75
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - Contextual Explanation: The word "usable" generally conveys a neutral to slightly positive sentiment, indicating that the Java applet serves its basic purpose. However, when explained with "is very simple," the sentiment slightly improves, suggesting that the simplicity adds to its usability.
+
+2. "easy to use"
+   - Sentiment Analysis Score: 0.85
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - Contextual Explanation: The term "easy to use" inherently has a positive sentiment as it indicates user-friendliness and accessibility. The comment "See comment above" reinforces this positive sentiment without adding any new negative context or complications.
+
+3. "time-consuming"
+   - Sentiment Analysis Score: 0.30
+   - Adjusted Score: 0.25
+   - Confidence: Medium
+   - Contextual Explanation: "Time-consuming" has a negative sentiment because it suggests inefficiency. The accompanying explanation, "Consider refining the program-develop a more advanced and intuitive interface," emphasizes the need for improvement, slightly lowering the sentiment to reflect additional dissatisfaction.
+
+4. "boring"
+   - Sentiment Analysis Score: 0.20
+   - Adjusted Score: 0.15
+   - Confidence: High
+   - Contextual Explanation: "Boring" is strongly negative as it denotes a lack of engagement. The explanation, "Program took too long. Estimations may have to be more broad," supports this negative sentiment by indicating that the timeline and estimations contributed to the boredom, further justifying a lower score.
+
+5. "dull"
+   - Sentiment Analysis Score: 0.25
+   - Adjusted Score: 0.30
+   - Confidence: Medium
+   - Contextual Explanation: "Dull" is negative, indicating something uninteresting or uninspiring. However, the suggestion to "Consider refining the program interface to make it more user-friendly" offers a solution and shows a path to improvement, which slightly mitigates the negativity.
+4
+1. **Word: "business-like"**
+   - **Sentiment Score: 0.50**
+       - Neutral to slightly positive, given that "business-like" suggests efficiency and professionalism without strong emotional connotations.
+   - **Adjusted Score: 0.60**
+       - The explanation indicates that the language was appropriate and understandable for its context, which suggests a positive impact.
+   - **Confidence: High**
+       - The term is clear in its professional connotation, making the sentiment analysis straightforward.
+   - **Contextual Explanation:** The term "business-like" conveys a sense of professionalism and efficiency. Its use in the given sentence indicates an atmosphere of serious and structured communication, with vocabulary appropriate for the content, lending a slightly positive tone.
+
+2. **Word: "customizable"**
+   - **Sentiment Score: 0.80**
+       - Positive, as it suggests flexibility and adaptability to individual needs.
+   - **Adjusted Score: 0.85**
+       - The explanation emphasizes adaptability to unique situations, reinforcing the positive sentiment.
+   - **Confidence: High**
+       - The concept of customization is broadly positive, and the explanation further supports this.
+   - **Contextual Explanation:** The term "customizable" reflects a positive attribute of flexibility and user-centric adjustments. It suggests that the system or context can be tailored to meet individual needs, which is a valuable and attractive feature in any setting.
+
+3. **Word: "understandable"**
+   - **Sentiment Score: 0.75**
+       - Positive, as it conveys clarity and ease of comprehension.
+   - **Adjusted Score: 0.80**
+       - The explanation further asserts that even specialized language was made clear, enhancing the positive sentiment.
+   - **Confidence: High**
+       - Clarity and understanding are generally perceived as positive in user communication.
+   - **Contextual Explanation:** The term "understandable" is inherently positive, suggesting that the material is accessible to users. The sentence indicates that complex information was made clear through additional explanations, which is highly beneficial.
+
+4. **Word: "organized"**
+   - **Sentiment Score: 0.70**
+       - Positive, as it suggests order and structure.
+   - **Adjusted Score: 0.75**
+       - The explanation confirms an orderly process, enhancing the positive connotation.
+   - **Confidence: High**
+       - The term clearly denotes a sense of order which is understandingly positive.
+   - **Contextual Explanation:** The term "organized" conveys a sense of systematic order, which is beneficial in achieving clarity and efficiency. The sentence underscores the sequential and logical arrangement of information, which fosters a productive environment.
+
+5. **Word: "straightforward"**
+   - **Sentiment Score: 0.65**
+       - Positive, indicating simplicity and directness.
+   - **Adjusted Score: 0.70**
+       - Despite some uncertainty in the context, the clarity and direct instructions reinforce the positive sentiment.
+   - **Confidence: Medium**
+       - There is a slight ambiguity due to the mixed context, but the term generally holds a positive meaning.
+   - **Contextual Explanation:** The term "straightforward" suggests clear and uncomplicated communication. Although the speaker admitted some uncertainty about their own understanding, the clarity of instructions and the availability of resources underscore a positive sentiment towards the information’s accessibility.
+5
+1. "clean"
+   - Sentiment Analysis Score: 0.75
+   - Adjusted Score: 0.80 
+   - Confidence: High
+   - Explanation: The word "clean" in this context suggests that the situation or information is well-organized and easy to understand, which has a generally positive connotation. Adding "clear to know what to do" enhances the positive sentiment by highlighting ease and clarity in understanding, which makes it better than neutral.
+
+2. "incomprehensible"
+   - Sentiment Analysis Score: 0.20
+   - Adjusted Score: 0.10
+   - Confidence: High
+   - Explanation: The word "incomprehensible" has a negative sentiment because it implies that something cannot be understood. The phrase "I have no idea about grasshoppers" confirms and emphasizes the lack of understanding, thus lowering the sentiment score further towards the negative spectrum.
+
+3. "complex"
+   - Sentiment Analysis Score: 0.40
+   - Adjusted Score: 0.30
+   - Confidence: Medium
+   - Explanation: While "complex" indicates that something has many parts and is not easily understood, it doesn't necessarily carry a strong negative or positive connotation. However, the explanation "no idea about this topic" tilts it towards the negative side, as it indicates a lack of comprehension and possible frustration or confusion.
+
+4. "too technical"
+   - Sentiment Analysis Score: 0.30
+   - Adjusted Score: 0.25
+   - Confidence: Medium
+   - Explanation: The phrase "too technical" suggests that something is overly complicated for the intended audience, which is generally negative. The additional information "not for people who don't understand about grasshoppers" reinforces the idea that the material is inaccessibly difficult, which further adjusts the score downward.
+
+5. "business-like"
+   - Sentiment Analysis Score: 0.70
+   - Adjusted Score: 0.75
+   - Confidence: High
+   - Explanation: The word "business-like" conveys professionalism and efficiency, which are positive traits. The description "professional and easy to navigate" strengthens this positive sentiment by emphasizing straightforwardness and ease of use, making the sentiment more favorable.
+6
+1. "clean"
+   - Original Sentiment Score: 0.85
+   - Adjusted Sentiment Score: 0.90
+   - Confidence: High
+
+   **Explanation:** The term "clean" typically has a positive connotation, especially in the context of design. It implies an uncluttered, aesthetically pleasing appearance. The explanation further supports this positive sentiment by mentioning the lack of distracting graphics, which is generally seen as beneficial for user experience.
+
+2. "business-like"
+   - Original Sentiment Score: 0.70
+   - Adjusted Sentiment Score: 0.80
+   - Confidence: Medium
+
+   **Explanation:** "Business-like" conveys professionalism and efficiency, which are positive attributes. The explanation supports this by describing the content as direct and easy to understand. This slightly increases the sentiment value, as clarity is a crucial aspect of effective communication.
+
+3. "straightforward"
+   - Original Sentiment Score: 0.75
+   - Adjusted Sentiment Score: 0.80
+   - Confidence: High
+
+   **Explanation:** The term "straightforward" already has a positive sentiment as it suggests simplicity and ease of understanding. The explanation underscores this by highlighting the directness and clarity of the questions, which enhances the positive perception.
+
+4. "organized"
+   - Original Sentiment Score: 0.80
+   - Adjusted Sentiment Score: 0.85
+   - Confidence: High
+
+   **Explanation:** "Organized" is a positive adjective indicating good structure and order. The explanation reinforces this positive sentiment by noting that there is only one question per page, making the content easy to follow. This structured approach is typically highly valued in user interfaces.
+
+5. "easy to use"
+   - Original Sentiment Score: 0.90
+   - Adjusted Sentiment Score: 0.95
+   - Confidence: High
+
+   **Explanation:** "Easy to use" is a very positive phrase in terms of user experience, suggesting that the interface is user-friendly and accessible. The explanation strengthens this sentiment by mentioning the one-question-per-page layout, which typically enhances usability and user satisfaction.
+7
+1. **Word: "stimulating"**
+   - **Initial Sentiment Score**: 0.80
+   - **Adjusted Score**: 0.85
+   - **Confidence**: High
+   - **Contextual Explanation**: The word "stimulating" suggests a positive engagement or interest. The explanation reinforces this by praising the approach to problem evaluation as interesting, even for those outside the field, thus enhancing the positive sentiment slightly.
+
+2. **Word: "usable"**
+   - **Initial Sentiment Score**: 0.70
+   - **Adjusted Score**: 0.75
+   - **Confidence**: High
+   - **Contextual Explanation**: "Usable" conveys a positive sentiment regarding the ease of use. The explanation further stresses this by mentioning no need for special instructions, which enhances the already positive sentiment.
+
+3. **Word: "straightforward"**
+   - **Initial Sentiment Score**: 0.65
+   - **Adjusted Score**: 0.70
+   - **Confidence**: Medium
+   - **Contextual Explanation**: "Straightforward" is typically a neutral-to-positive term, implying simplicity or clarity. The explanation adds positively by emphasizing it isn't cluttered, which slightly increases the positive sentiment.
+
+4. **Word: "fun"**
+   - **Initial Sentiment Score**: 0.85
+   - **Adjusted Score**: 0.90
+   - **Confidence**: High
+   - **Contextual Explanation**: "Fun" suggests a high level of positive engagement. The explanation supports this by calling the program "cool" and "useful," which further amplifies the positive sentiment.
+
+5. **Word: "innovative"**
+   - **Initial Sentiment Score**: 0.80
+   - **Adjusted Score**: 0.85
+   - **Confidence**: Medium
+   - **Contextual Explanation**: "Innovative" carries a strong positive sentiment regarding newness and creativity. The explanation strengthens this by highlighting how it builds on expertise and provides tailored solutions, thus increasing the positive sentiment.
+8
+1. **Word:** "straightforward"  
+**Initial Sentiment Score:** 0.70  
+**Adjusted Sentiment Score:** 0.75  
+**Confidence:** High  
+**Contextual Explanation:** The term "straightforward" generally has a positive-neutral sentiment indicating clarity and simplicity. The explanation emphasizes positive aspects such as "direct" questions and good answer choices, nudging the sentiment slightly higher.
+
+2. **Word:** "dated"  
+**Initial Sentiment Score:** 0.20  
+**Adjusted Sentiment Score:** 0.10  
+**Confidence:** High  
+**Contextual Explanation:** "Dated" has a negative sentiment implying oldness or lack of relevance. The explanation intensifies this negative connotation by describing the setup as "awfully boring" and visually unappealing, thus lowering the sentiment score further.
+
+3. **Word:** "boring"  
+**Initial Sentiment Score:** 0.15  
+**Adjusted Sentiment Score:** 0.05  
+**Confidence:** High  
+**Contextual Explanation:** "Boring" naturally carries a negative sentiment denoting a lack of engagement or excitement. The explanation reinforces this by asserting that the program failed to capture interest, further reducing the score.
+
+4. **Word:** "simple"  
+**Initial Sentiment Score:** 0.60  
+**Adjusted Sentiment Score:** 0.65  
+**Confidence:** Medium  
+**Contextual Explanation:** "Simple" typically has a positive-neutral sentiment, indicating ease and understandability. The explanation confirms that the questions were clear, which is beneficial in this context, slightly raising the sentiment score.
+
+5. **Word:** "dull"  
+**Initial Sentiment Score:** 0.25  
+**Adjusted Sentiment Score:** 0.10  
+**Confidence:** High  
+**Contextual Explanation:** "Dull" has a negative sentiment, indicating a lack of vibrancy or excitement. The explanation exaggerates the negativity by comparing the experience to reading a black-and-white newspaper and highlighting the absence of color, significantly lowering the sentiment score.
+9
+**Sentiment Analysis Score and Explanation:**
+
+- **Original Word ("easy to use") Score**: 0.85
+  - **Contextual Explanation**: The phrase "easy to use" typically conveys a positive sentiment, suggesting simplicity and user-friendliness, which is viewed very favorably in most contexts.
+
+- **Adjusted Score Based on Explanation**: 0.87
+  - **Confidence**: High
+  - **Contextual Adjustment Explanation**: The explanation reinforces the positivity by providing additional details that the questions were easy to answer and find. This not only confirms ease of use but suggests an overall streamlined and user-centric design or interface, enhancing the positive sentiment.
+
+Overall, "easy to use" indicates satisfaction and lack of difficulty, which is why the sentiment score and adjustment lean toward the higher end. The context given supports and slightly elevates the sentiment due to specific and positive descriptions of user experience.
+10
+1. **customizable**
+   - Sentiment Score: 0.85
+   - Adjusted Score: 0.87
+   - Confidence: High
+   - **Contextual Explanation**: The term "customizable" carries a generally positive connotation because it suggests adaptability and personal suitability, which are typically desirable characteristics. The explanation reinforces this positive sentiment by highlighting "many options to choose from," which tends to increase the appeal of the term in most contexts.
+
+2. **flexible**
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.82
+   - Confidence: High
+   - **Contextual Explanation**: "Flexible" is often seen positively because it implies ease of adaptation and convenience. The explanation "easily changed and navigated through" enhances this positive sentiment by emphasizing user-friendliness and simplicity.
+
+3. **understandable**
+   - Sentiment Score: 0.75
+   - Adjusted Score: 0.78
+   - Confidence: High
+   - **Contextual Explanation**: "Understandable" generally conveys clarity and straightforwardness, which are positive attributes. The accompanying explanation, "It was straightforward and asked you exactly what it wanted," reinforces the positive sentiment by confirming that the information or message is easy to comprehend, making it reassuring and favorable.
+
+4. **useful**
+   - Sentiment Score: 0.70
+   - Adjusted Score: 0.65
+   - Confidence: Medium
+   - **Contextual Explanation**: "Useful" has a positive connotation because it implies that something serves a purpose. However, the explanation introduces a personal caveat, "To me personally, it wasn’t," which slightly dampens the overall sentiment. Despite this personal note, recognition of its broader utility maintains a reasonably positive score.
+
+5. **educational**
+   - Sentiment Score: 0.78
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - **Contextual Explanation**: "Educational" is a positive term as it denotes value in learning and knowledge acquisition. The explanation "Easy to learn what to do for an infestation" furthers this sentiment by underscoring the practical benefit of gaining useful, applicable knowledge, thereby increasing the positive sentiment.
+11
+1. **"responsive", "Quick response time"**
+   - **Initial Sentiment Score:** 0.90
+   - **Adjusted Score:** 0.95
+   - **Confidence:** High
+   - **Explanation:** The term "responsive" generally has a positive connotation, suggesting efficiency and attentiveness. The explanation of "Quick response time" provides additional positive context, reinforcing the term's positive sentiment as it implies swift and efficient service or functionality.
+
+2. **"complex", "There are many steps and I was unsure at times what button to click. I was unsure if the crop border and all those terms were commonplace knowledge for someone dealing with a grasshopper infestation."**
+   - **Initial Sentiment Score:** 0.20
+   - **Adjusted Score:** 0.15
+   - **Confidence:** High
+   - **Explanation:** The term "complex" generally has a mildly negative connotation, suggesting difficulty and complication. The explanation highlights confusion and uncertainty, further emphasizing the negative sentiment associated with "many steps" and lack of clarity, especially in a stressful context like dealing with an infestation.
+
+3. **"time-consuming", "There are many steps and knowledge needed beforehand in order to answer all questions. If I knew all the info needed beforehand, I would have spent much less time figuring out what was needed."**
+   - **Initial Sentiment Score:** 0.15
+   - **Adjusted Score:** 0.10
+   - **Confidence:** Medium
+   - **Explanation:** "Time-consuming" generally carries a negative sentiment, indicating that a task requires a lot of time, often unnecessarily. The explanation emphasizes the inconvenience and frustration caused by lack of prior information, thus slightly lowering the sentiment score. However, the sentiment is slightly less strong than "complex" due to the conditional statement showing there was a way to mitigate the issue.
+
+4. **"awkward", "The buttons at the bottom are a little awkward. I did not know what the 'why' button's purpose was. The Ok button kept taking me to the next page when I thought Ok meant done. There were just a lot of buttons."**
+   - **Initial Sentiment Score:** 0.25
+   - **Adjusted Score:** 0.20
+   - **Confidence:** High
+   - **Explanation:** "Awkward" often implies a lack of grace or inconvenience, leading to a predominantly negative sentiment. The detailed explanation about confusion with buttons and incorrect assumptions about their functions highlights user frustration, reinforcing this negative sentiment.
+
+5. **"usable", "The program was usable and provided information on whether or not a grasshopper infestation existed."**
+   - **Initial Sentiment Score:** 0.60
+   - **Adjusted Score:** 0.65
+   - **Confidence:** High
+   - **Explanation:** "Usable" suggests that while something can be used effectively, it doesn't necessarily stand out as excellent. The explanation clarifies that the program served its purpose, confirming its functionality. However, the term is neither highly positive nor negative, and the clarification suggests that while it was practical, it wasn't exceptionally user-friendly, thus slightly adjusting the sentiment score upwards to reflect a mildly positive outcome.
+12
+1. "straightforward"
+   - Sentiment Analysis Score: 0.75
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - Contextual Explanation: The term "straightforward" generally has a positive connotation, implying clarity and ease of understanding. The explanation "Seems easy to use" reinforces this positive sentiment, suggesting that the subject is uncomplicated and user-friendly.
+
+2. "simple"
+   - Sentiment Analysis Score: 0.70
+   - Adjusted Score: 0.75
+   - Confidence: High
+   - Contextual Explanation: "Simple" is also positive, suggesting ease and lack of complexity. The phrase "Seems easy to use" supports this interpretation, indicating that the subject is neither complicated nor cumbersome, enhancing its positive sentiment.
+
+3. "time-saving"
+   - Sentiment Analysis Score: 0.85
+   - Adjusted Score: 0.90
+   - Confidence: High
+   - Contextual Explanation: The term "time-saving" conveys a strong positive sentiment as it indicates efficiency and convenience, particularly valuable traits. The explanation "Time-saving for those who need to figure quickly" intensifies this positive impression, highlighting its practical benefits for users needing to accomplish tasks rapidly.
+13
+1. **Word:** cutting edge
+   - **Sentiment Analysis Score:** 0.86
+   - **Adjusted Score:** 0.90
+   - **Confidence:** High
+   - **Contextual Explanation:** The term "cutting edge" typically conveys a very positive sentiment as it implies innovation, modernity, and advanced capabilities. The explanation enhances this sentiment by emphasizing simplicity and efficiency, which are highly valued attributes in web design.
+
+2. **Word:** useful
+   - **Sentiment Analysis Score:** 0.80
+   - **Adjusted Score:** 0.82
+   - **Confidence:** High
+   - **Contextual Explanation:** The term "useful" suggests functionality and practicality, contributing positively to sentiment. The explanation highlights the diversity of tools and resources available, reinforcing the positive sentiment by showing these attributes are beneficial and applicable.
+
+3. **Word:** easy to use
+   - **Sentiment Analysis Score:** 0.85
+   - **Adjusted Score:** 0.88
+   - **Confidence:** High
+   - **Contextual Explanation:** "Easy to use" carries a strong positive sentiment because it suggests accessibility and user-friendliness. The explanation further confirms this positive view by stating that everything was easily found, which is an important aspect of a good user experience.
+
+4. **Word:** clear
+   - **Sentiment Analysis Score:** 0.80
+   - **Adjusted Score:** 0.83
+   - **Confidence:** Medium
+   - **Contextual Explanation:** The word "clear" denotes transparency and straightforwardness, giving it a positive connotation. The explanation equivalates clarity with ease of use, reinforcing its positive sentiment though it’s slightly less impactful than the more actionable "easy to use".
+
+5. **Word:** fun
+   - **Sentiment Analysis Score:** 0.75
+   - **Adjusted Score:** 0.78
+   - **Confidence:** Medium
+   - **Contextual Explanation:** "Fun" generally has a positive sentiment as it implies enjoyment and entertainment. The explanation about the setup of the page projecting a sense of fun further supports this positive sentiment. The lower confidence is due to the subjective nature of what different users might find "fun."
+14
+1. **Word: "time-consuming"**
+   - Sentiment Score: 0.30
+   - Adjusted Score: 0.25
+   - Confidence: Medium
+
+   **Contextual Explanation:**
+   The word "time-consuming" generally has a slightly negative connotation as it implies an investment of significant time. The explanation clarifies that looking at different grasshoppers would indeed take a while. The adjusted score is slightly lower because the explanation confirms the negative aspect without adding new positive information.
+
+2. **Word: "awkward"**
+   - Sentiment Score: 0.40
+   - Adjusted Score: 0.35
+   - Confidence: Medium
+
+   **Contextual Explanation:**
+   The word "awkward" denotes a sense of discomfort or difficulty. The explanation that the menus are "slightly confusing to use" reinforces this sentiment. The sentiment is moderately negative and the word "slightly" softens the impact, hence a slight adjustment downwards.
+
+3. **Word: "comprehensive"**
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.75
+   - Confidence: High
+
+   **Contextual Explanation:**
+   The word "comprehensive" is positive, suggesting completeness or thoroughness. The explanation "Great if you do have grasshopper problems" supports this positive sentiment by emphasizing the utility and thoroughness of the feature. The adjusted score reflects this strength.
+
+4. **Word: "old"**
+   - Sentiment Score: 0.50
+   - Adjusted Score: 0.45
+   - Confidence: Medium
+
+   **Contextual Explanation:**
+   The word "old" can be seen as neutral but often has a slightly negative connotation, especially when referring to something’s appearance. The explanation that the appearance "seems really old-fashioned" confirms a more negative perception personally. Hence, there is a slight adjustment downwards.
+15
+1. **"understandable"**
+   - **Sentiment Analysis Score:** 0.75
+   - **Adjusted Score:** 0.85
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "understandable" often carries a positive connotation as it implies clarity and ease of comprehension. The explanation reinforces this by highlighting that the questions were easy to grasp, which suggests a positive experience.
+
+2. **"efficient"**
+   - **Sentiment Analysis Score:** 0.70
+   - **Adjusted Score:** 0.80
+   - **Confidence:** Medium
+   - **Contextual Explanation:** "Efficient" generally holds a favorable sentiment, indicating that tasks are accomplished effectively and without waste. The explanation mentions the quick progression from one question to the next, boosting the positive sentiment as it implies time-saving and smooth operation.
+
+3. **"easy to use"**
+   - **Sentiment Analysis Score:** 0.80
+   - **Adjusted Score:** 0.85
+   - **Confidence:** High
+   - **Contextual Explanation:** The phrase "easy to use" is highly positive, suggesting user-friendliness and convenience. The detailed explanation that each button was well-labeled further underlines this positive sentiment as it indicates clear instructions and accessible design.
+
+4. **"simple"**
+   - **Sentiment Analysis Score:** 0.70
+   - **Adjusted Score:** 0.75
+   - **Confidence:** Medium
+   - **Contextual Explanation:** While "simple" is generally positive, it can sometimes imply a lack of features or sophistication. However, the explanation here emphasizes purposeful design, which shifts the sentiment more favorably towards clarity and efficiency without unnecessary complexity.
+
+5. **"professional"**
+   - **Sentiment Analysis Score:** 0.80
+   - **Adjusted Score:** 0.85
+   - **Confidence:** High
+   - **Contextual Explanation:** "Professional" typically denotes a high-quality, polished, and respectful appearance. The explanation that the interface was free from advertisements or useless pictures further enhances this sentiment by portraying an uncluttered, focused, and reputable environment.
+16
+1. "educational"
+   - Sentiment Score: 0.75
+   - Adjusted Score: 0.70
+   - Confidence: High
+   - Contextual Explanation: The word "educational" generally carries a positive sentiment as it implies that learning and knowledge are being imparted. The context—learning what to do about a grasshopper population—still maintains a positive outlook, although it might narrow the application to a specific problem-solving scenario, slightly reducing the positivity.
+
+2. "expected"
+   - Sentiment Score: 0.50
+   - Adjusted Score: 0.40
+   - Confidence: Medium
+   - Contextual Explanation: "Expected" is neutral but can sway negatively when attached to an obligation or undesirable action. In this context, treating a field with pesticides is an anticipated but potentially unwanted task, hence the lower adjusted score.
+
+3. "trustworthy"
+   - Sentiment Score: 0.85
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - Contextual Explanation: "Trustworthy" is highly positive because it conveys reliability and credibility. The context of believing the information is accurate supports the sentiment, although claiming belief rather than demonstrated proof slightly tempers the absolute positivity.
+
+4. "clear"
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - Contextual Explanation: "Clear" suggests simplicity and ease in understanding, generally a positive trait. The adjusted score is slightly higher because it directly pertains to how straightforward and accessible the directions are, making the context notably favorable.
+
+5. "efficient"
+   - Sentiment Score: 0.82
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - Contextual Explanation: "Efficient" indicates productivity and effectiveness, which is positively viewed. The context of doing a good job reaffirms the word’s positive connotation, though "efficiency" can sometimes be narrowly focused on performance metrics with less emotional positivity, just slightly lowering the adjusted score.
+17
+1. **Word Choice: "entertaining"**
+   - Initial Sentiment Score: 0.85
+   - Explanation: "learning about bugs"
+   - Adjusted Sentiment Score: 0.90
+   - Confidence: High
+   - Contextual Explanation: The word "entertaining" generally conveys a positive sentiment, suggesting something enjoyable or amusing. When combined with the positive experience of "learning about bugs," the sentiment is further enhanced, indicating a highly enjoyable and engaging activity.
+
+2. **Word Choice: "fun"**
+   - Initial Sentiment Score: 0.90
+   - Explanation: "pictures were cool"
+   - Adjusted Sentiment Score: 0.95
+   - Confidence: High
+   - Contextual Explanation: The word "fun" expresses a strong positive sentiment, denoting enjoyment and pleasure. The explanation "pictures were cool" reinforces this positive feeling since "cool" is another informal term for something appealing or impressive, making the overall sentiment even more positive.
+18
+1. **"impressive"**
+   - Initial Sentiment Score: 0.90
+   - Adjusted Sentiment Score: 0.85
+   - Confidence: High
+   - Contextual Explanation: The word "impressive" conveys a strong positive sentiment, as it suggests that something stands out positively. The explanation "interesting idea" slightly adjusts the positive tone to be a bit more neutral, as while it's still positive, the emphasis is weaker compared to the pure strength of "impressive."
+
+2. **"simplistic"**
+   - Initial Sentiment Score: 0.45
+   - Adjusted Sentiment Score: 0.70
+   - Confidence: Medium
+   - Contextual Explanation: The word "simplistic" can have a slightly negative connotation because it can imply that something is overly simple, lacking in complexity. However, the explanation "user friendly" shifts the context towards a positive interpretation, indicating that being simplistic is beneficial for ease of use, hence the adjusted score reflects a more positive sentiment.
+
+3. **"too technical"**
+   - Initial Sentiment Score: 0.30
+   - Adjusted Sentiment Score: 0.25
+   - Confidence: High
+   - Contextual Explanation: The expression "too technical" carries a negative sentiment as it suggests that something is excessively complex and may be difficult for a general audience to understand. The explanation "need to perform some study and know grasshopper terms ahead of time" keeps the sentiment in a similar negative territory, as it reinforces the idea that extra effort is necessary to comprehend the material.
+
+4. **"confusing"**
+   - Initial Sentiment Score: 0.20
+   - Adjusted Sentiment Score: 0.15
+   - Confidence: High
+   - Contextual Explanation: The word "confusing" clearly conveys a negative sentiment, as it indicates difficulty in understanding. The explanation "due to technical terminology" further supports the negative sentiment by specifying that the confusion is caused by specialized language, which often alienates those not familiar with the terminology.
+
+5. **"vague"**
+   - Initial Sentiment Score: 0.35
+   - Adjusted Sentiment Score: 0.30
+   - Confidence: High
+   - Contextual Explanation: The word "vague" bears a moderately negative connotation as it suggests lack of clarity and precision. The explanation "for weather stations" doesn't significantly alter this sentiment. It still implies that the information about weather stations is not clearly presented, maintaining the overall negative tone.
+19
+1. **"usable"**
+   - **Initial Sentiment Score**: 0.75
+   - **Adjusted Sentiment Score**: 0.80
+   - **Confidence**: High
+   - **Contextual Explanation**: The term "usable" generally implies that something is fit for use and serves its purpose effectively. The explanation "Much like clean. Very simple to use and understand." suggests a positive experience, enhancing the initial sentiment score.
+
+2. **"relevant"**
+   - **Initial Sentiment Score**: 0.70
+   - **Adjusted Sentiment Score**: 0.65
+   - **Confidence**: Medium
+   - **Contextual Explanation**: The word "relevant" indicates appropriateness and applicability. The detailed explanation implies that the writer is not the target audience but still sees the potential benefits for someone who is, slightly moderating the score to reflect the indirect usefulness.
+
+3. **"clean"**
+   - **Initial Sentiment Score**: 0.75
+   - **Adjusted Sentiment Score**: 0.78
+   - **Confidence**: High
+   - **Contextual Explanation**: "Clean" suggests simplicity and absence of clutter. The statement "Much like usable. Very straightforward and easy to use." underlines this positive assessment, giving it a slightly higher score for its clear endorsement of usability.
+
+4. **"fast"**
+   - **Initial Sentiment Score**: 0.80
+   - **Adjusted Sentiment Score**: 0.85
+   - **Confidence**: High
+   - **Contextual Explanation**: "Fast" connotes efficiency and speed. The user's surprise and satisfaction with the quick results ("I was not expecting to get results that quickly") intensifies the positivity, lifting the score.
+
+5. **"organized"**
+   - **Initial Sentiment Score**: 0.78
+   - **Adjusted Sentiment Score**: 0.82
+   - **Confidence**: High
+   - **Contextual Explanation**: The word "organized" conveys a sense of order and clarity. The phrase "Very easy step by step process. Had a very logical flow." reinforces this positivity, suggesting a well-structured and user-friendly experience, hence the upward adjustment in the score.
+20
+1. **Initial Sentiment Score and Adjusted Score for "simplistic"**:
+   - Sentiment Score: 0.50
+   - Adjusted Score: 0.70
+   - Confidence: High
+
+   **Contextual Explanation**: The term "simplistic" typically carries a neutral to slightly negative connotation, as it can imply overly simple. However, the explanation highlights the clarity and ease of use of the artwork and buttons, which positively adjusts the sentiment. The overall user experience seems to be enhanced by the simplicity, making it more positive.
+
+2. **Initial Sentiment Score and Adjusted Score for "responsive"**:
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.85
+   - Confidence: High
+
+   **Contextual Explanation**: "Responsive" inherently has a positive connotation, suggesting quick and efficient reactions. The explanation supports this positive view by emphasizing the quick movement from page to page, which is advantageous for user experience. Hence, the adjusted score remains high and slightly more positive.
+
+3. **Initial Sentiment Score and Adjusted Score for "dull"**:
+   - Sentiment Score: 0.20
+   - Adjusted Score: 0.10
+   - Confidence: High
+
+   **Contextual Explanation**: The term "dull" carries a negative connotation, implying a lack of interest or excitement. The detailed explanation reinforces this negative sentiment by citing specific issues such as small font size, difficulty in usability, and insufficiently labeled interactive elements. The sentiment score is, therefore, adjusted further downward.
+
+4. **Initial Sentiment Score and Adjusted Score for "business-like"**:
+   - Sentiment Score: 0.70
+   - Adjusted Score: 0.75
+   - Confidence: Medium
+
+   **Contextual Explanation**: "Business-like" suggests professionalism and efficiency, which generally has a positive connotation. The explanation indicates that the text is "very professionally written," which sustains the positive sentiment. However, since "business-like" can sometimes imply a lack of warmth or creativity, the confidence in the score remains medium.
+
+5. **Initial Sentiment Score and Adjusted Score for "system-oriented"**:
+   - Sentiment Score: 0.60
+   - Adjusted Score: 0.65
+   - Confidence: Medium
+
+   **Contextual Explanation**: "System-oriented" indicates a focus on processes and organization, usually seen as a positive trait in a structured environment. The explanation that the text "goes through all the stages in chronological order" supports this positive sentiment, making the adjusted score slightly more favorable. The term's clinical or impersonal nature slightly limits the confidence in the fully positive sentiment.
+21
+1. **Overwhelming**
+    - Sentiment: 0.30
+    - Adjusted: 0.20
+    - Confidence: High
+    - Explanation: The word "overwhelming" generally carries a negative connotation as it suggests a burden or excess that is difficult to manage. In this context, the sentiment is primarily negative due to the idea of excessive information in a small space, leading to cognitive overload, hence adjusted down.
+
+2. **Educational**
+    - Sentiment: 0.90
+    - Adjusted: 0.85
+    - Confidence: High
+    - Explanation: The word "educational" is associated with positive learning experiences and gaining valuable information. The explanation "Good information" supports and slightly boosts the high positive sentiment. The minor adjustment down might be due to the fact that "good" implies it was helpful but not necessarily outstanding.
+
+3. **Uncontrollable**
+    - Sentiment: 0.15
+    - Adjusted: 0.10
+    - Confidence: High
+    - Explanation: "Uncontrollable" implies a lack of order or predictability, which is inherently negative. The context of frustration around managing acres increases the negativity slightly because it emphasizes a potential problem faced by users, confirming and slightly lowering the sentiment.
+
+4. **Professional**
+    - Sentiment: 0.80
+    - Adjusted: 0.80
+    - Confidence: High
+    - Explanation: "Professional" is a strongly positive term, indicating a high level of skill or competence. The explanation "Very professional 'speech'" supports this sentiment as it reaffirms the positive professionalism without introducing any mitigating negative factors. 
+
+5. **Too Technical**
+    - Sentiment: 0.30
+    - Adjusted: 0.25
+    - Confidence: Medium
+    - Explanation: "Too technical" suggests that the complexity might be a barrier to understanding for a general audience, a slightly negative trait. The adjustment is marginally down due to the specific mention that terminology might be confusing to lay people and examples given, reinforcing the notion that this technicality limits accessibility. Confidence is medium due to the potential subjective nature of what is considered too technical.
+22
+1. **"unattractive"**
+   - **Sentiment Analysis Score:** 0.30
+   - **Adjusted Score:** 0.25
+   - **Confidence in Score Accuracy:** High
+   - **Contextual Explanation:** The term "unattractive" typically has a negative connotation, reflecting a lack of appeal. In the context given, referring to figures as "not very good looking" lowers its score slightly further due to the direct criticism amplified by specificity.
+
+2. **"illogical"**
+   - **Sentiment Analysis Score:** 0.40
+   - **Adjusted Score:** 0.35
+   - **Confidence in Score Accuracy:** Medium
+   - **Contextual Explanation:** "Illogical" implies confusion and a lack of coherence, which is generally unfavorable. Given the explanation "I did not understand what was to be done," it emphasizes misunderstanding and further negativity, justifying a slightly lower score.
+
+3. **"poor quality"**
+   - **Sentiment Analysis Score:** 0.20
+   - **Adjusted Score:** 0.22
+   - **Confidence in Score Accuracy:** High
+   - **Contextual Explanation:** "Poor quality" unambiguously indicates something substandard. While "the wording was tough for me to read" mitigates this criticism slightly because it suggests possible readability issues rather than outright bad quality, the negativity remains dominant.
+
+4. **"awkward"**
+   - **Sentiment Analysis Score:** 0.35
+   - **Adjusted Score:** 0.33
+   - **Confidence in Score Accuracy:** High
+   - **Contextual Explanation:** "Awkward" suggests discomfort and inefficiency. The phrase "it seemed thrown together" intensifies this impression by implying a lack of careful planning, thereby reinforcing a negative sentiment with a small adjustment down.
+
+Overall, these adjustments and explanations reflect subtle nuances in how each term's specific context shapes its perceived negativity.
+23
+1. **"exciting"**
+   - **Sentiment Analysis Score:** 0.95 
+   - **Adjusted Score:** 0.95
+   - **Confidence:** High
+
+   **Contextual Explanation:** "Exciting" typically conveys a very positive emotion, suggesting anticipation and enthusiasm. This word, especially in the context of using new software for the first time, indicates a high level of positive engagement and curiosity.
+
+2. **"old"**
+   - **Sentiment Analysis Score:** 0.20
+   - **Adjusted Score:** 0.15
+   - **Confidence:** Medium
+
+   **Contextual Explanation:** The word "old" can be neutral or negative depending on context. Here, describing the menu panel as "old" implies outdatedness and a potential lack of modern features, which is generally perceived negatively, thus a lower sentiment score.
+
+3. **"meaningful"**
+   - **Sentiment Analysis Score:** 0.80
+   - **Adjusted Score:** 0.85
+   - **Confidence:** High
+
+   **Contextual Explanation:** "Meaningful" conveys depth and significance, suggesting that the software provides value and has a positive impact, particularly useful in the context of teaching. This context increases the positivity of the sentiment score.
+
+4. **"fun"**
+   - **Sentiment Analysis Score:** 0.90
+   - **Adjusted Score:** 0.85
+   - **Confidence:** Medium
+
+   **Contextual Explanation:** "Fun" typically indicates a high level of enjoyment. However, the context ("fun to check those bugs") might be seen as slightly less positive because dealing with bugs could be tedious for some, thus slightly lowering the sentiment score.
+
+5. **"clean"**
+   - **Sentiment Analysis Score:** 0.85
+   - **Adjusted Score:** 0.90
+   - **Confidence:** High
+
+   **Contextual Explanation:** The word "clean" in this context indicates simplicity and ease of use, which are highly positive features for software. The explanation emphasizes clear and uncomplicated design, which justifies a high sentiment score.
+24
+1. **Word: "time-saving"**
+   - Sentiment Score: 0.75
+   - Explanation Adjusted Score: 0.65
+   - Confidence: Medium
+
+   **Contextual Explanation:** The term "time-saving" carries a positive connotation because it implies efficiency and convenience. However, the phrase "It is workable" slightly moderates the enthusiasm, suggesting some limitations in its practicality. This results in a moderately positive sentiment.
+
+2. **Word: "usable"**
+   - Sentiment Score: 0.70
+   - Explanation Adjusted Score: 0.80
+   - Confidence: High
+
+   **Contextual Explanation:** The word "usable" indicates functionality and utility, which is a positive attribute. The additional context, "was well organized," enhances this positivity by implying that the usability is facilitated by good organization. This makes the overall sentiment highly positive.
+
+3. **Word: "effective"**
+   - Sentiment Score: 0.85
+   - Explanation Adjusted Score: 0.55
+   - Confidence: Medium
+
+   **Contextual Explanation:** "Effective" suggests strong positive outcomes and success. However, the phrase "I think it could be given the right circumstances" introduces uncertainty and conditionality, which significantly reduce the positivity of the word. This results in a more neutral to moderately positive score.
+
+4. **Word: "fresh"**
+   - Sentiment Score: 0.80
+   - Explanation Adjusted Score: 0.90
+   - Confidence: High
+
+   **Contextual Explanation:** "Fresh" is often associated with newness and innovation, leading to a positive sentiment. The follow-up statement, "Never seen anything like it before," further intensifies this positivity by implying uniqueness and novelty, resulting in a very high sentiment score.
+
+5. **Word: "useful"**
+   - Sentiment Score: 0.75
+   - Explanation Adjusted Score: 0.70
+   - Confidence: High
+
+   **Contextual Explanation:** The word "useful" conveys a positive sentiment due to its implications of practicality and benefit. The phrase "I think so for farmers who might have this type of problem" slightly tempers this by suggesting it might not be universally useful but still retains its positive nature. Therefore, the sentiment score remains robustly positive.
+25
+1. **Word Choice: "educational"**
+   - **Sentiment Analysis Score:** 0.80
+   - **Adjusted Score:** 0.85
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "educational" inherently carries a positive sentiment, reflecting the acquisition of new knowledge. The explanation, "I learned things I never knew about grasshoppers," adds to the positivity by indicating that the educational content was engaging and informative, increasing the perceived value and benefit.
+
+2. **Word Choice: "efficient"**
+   - **Sentiment Analysis Score:** 0.75
+   - **Adjusted Score:** 0.80
+   - **Confidence:** High
+   - **Contextual Explanation:** "Efficient" is positively connoted as it implies productivity and effectiveness. The given explanation—diagnosing grasshopper infestations without wasting time—enhances this positivity by emphasizing the optimization of time and resources, which is highly valued in any practical application.
+
+3. **Word Choice: "convenient"**
+   - **Sentiment Analysis Score:** 0.70
+   - **Adjusted Score:** 0.75
+   - **Confidence:** Medium
+   - **Contextual Explanation:** "Convenient" suggests ease and accessibility, which are positive but can vary in impact based on the context. The explanation, "Doesn't require a lot of work to get the right information," strengthens this sentiment by highlighting the minimal effort needed to achieve a desired result, thus making it more favorable.
+
+4. **Word Choice: "understandable"**
+   - **Sentiment Analysis Score:** 0.65
+   - **Adjusted Score:** 0.70
+   - **Confidence:** Medium
+   - **Contextual Explanation:** The word "understandable" has a somewhat positive connotation as it implies clarity and ease of comprehension. The added context, "Easy to use, not too complex or difficult to grasp," further solidifies its positive sentiment by assuring simplicity and user-friendliness, making it more appealing, but not as strong as other positive descriptors.
+
+5. **Word Choice: "straightforward"**
+   - **Sentiment Analysis Score:** 0.60
+   - **Adjusted Score:** 0.65
+   - **Confidence:** Medium
+   - **Contextual Explanation:** "Straightforward" carries a moderate positive sentiment, suggesting directness and simplicity. The explanation, "Gets to the point in an informative manner," enhances this sentiment by indicating effectiveness and clarity, thus making the term more favorable while still maintaining a utilitarian tone.
+26
+1. **"educational"**
+   - **Initial Sentiment Score:** 0.70
+   - **Adjusted Sentiment Score:** 0.80
+   - **Confidence:** High
+   
+   **Contextual Explanation:** The word "educational" generally carries a positive sentiment as it implies value and benefit in learning. The explanation, "I learned things about grasshoppers that I never knew," reinforces this positive sentiment by specifying a personal gain in knowledge, thereby increasing the score.
+
+2. **"efficient"**
+   - **Initial Sentiment Score:** 0.75
+   - **Adjusted Sentiment Score:** 0.85
+   - **Confidence:** High
+   
+   **Contextual Explanation:** "Efficient" conveys effectiveness and productivity and generally holds a positive connotation. The explanation, "A quick and easy way to diagnose grasshopper infestations," makes it clear that the efficiency translates into significant practical benefits, justifying a higher sentiment rating.
+
+3. **"convenient"**
+   - **Initial Sentiment Score:** 0.65
+   - **Adjusted Sentiment Score:** 0.75
+   - **Confidence:** Medium
+   
+   **Contextual Explanation:** "Convenient" typically has a positive but moderate sentiment as it suggests ease of use and accessibility. The statement "Accessible and easy to use" confirms that the convenience significantly improves user experience, thus warranting an elevated score. Confidence is medium due to a potential variability in individual perceptions of convenience.
+
+4. **"understandable"**
+   - **Initial Sentiment Score:** 0.60
+   - **Adjusted Sentiment Score:** 0.70
+   - **Confidence:** Medium
+   
+   **Contextual Explanation:** The word "understandable" is positively inclined as it implies clarity and ease of comprehension. The addition of "Not too complex or technical; not difficult to grasp," accentuates its positive attributes by assuring simplicity, thereby slightly increasing the sentiment score. Confidence is medium because the sentiment might vary depending on the complexity of the subject matter.
+
+5. **"straightforward"**
+   - **Initial Sentiment Score:** 0.65
+   - **Adjusted Sentiment Score:** 0.75
+   - **Confidence:** High
+   
+   **Contextual Explanation:** "Straightforward" indicates clarity and directness, which are desirable traits in communication and information presentation, giving it a positive sentiment. The explanation, "Presents information in an understandable and effective manner," underscores these qualities and warrants a higher sentiment score due to its emphasis on effectiveness.
+27
+1. **Word: "boring"**
+   - **Sentiment Score:** 0.20
+   - **Explanation Adjusted Score:** 0.15
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "boring" generally carries a negative meaning, expressing lack of excitement or interest. Given the detailed explanation "there was not interest to me about the program/software," the sentiment is clearly negative, reinforcing that the program failed to engage the user.
+
+2. **Word: "unattractive"**
+   - **Sentiment Score:** 0.25
+   - **Explanation Adjusted Score:** 0.20
+   - **Confidence:** High
+   - **Contextual Explanation:** "Unattractive" is a negative term suggesting that the program did not appeal visually or did not capture attention. The explanation "program seemed dated" suggests that the lack of appeal is due to outdated aesthetics, confirming and slightly reinforcing the negative sentiment.
+
+3. **Word: "dated"**
+   - **Sentiment Score:** 0.30
+   - **Explanation Adjusted Score:** 0.30
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "dated" implies something is old or out of style, carrying a generally negative connotation about modernity. The explanation "looked old" directly supports this interpretation without adding additional sentiment context, keeping the sentiment score consistent.
+
+4. **Word: "simplistic"**
+   - **Sentiment Score:** 0.60
+   - **Explanation Adjusted Score:** 0.70
+   - **Confidence:** Medium
+   - **Contextual Explanation:** "Simplistic" often has a neutral to mildly positive sentiment, suggesting ease of use without unnecessary complexity. The explanation "seemed straightforward and able to gain the help and knowledge one needed" leans more positively, enhancing the sentiment due to the clarity and utility benefits described.
+
+5. **Word: "old"**
+   - **Sentiment Score:** 0.35
+   - **Explanation Adjusted Score:** 0.35
+   - **Confidence:** High
+   - **Contextual Explanation:** "Old" can be a neutral term but often carries a slightly negative sentiment in the context of software, implying it may be outdated. The explanation "appeared as aged software" affirms this interpretation, keeping the sentiment score solidly in the slightly negative range.
+28
+1. **"educational"**
+   - **Initial sentiment score:** 0.78
+   - **Adjusted score:** 0.82
+   - **Confidence:** High
+   - **Contextual explanation:** The term "educational" generally carries a positive connotation, suggesting that there is value in the information being presented. When it says "Learned something about grasshopper levels," it indicates that the educational content was effective, hence the slight increase in the sentiment score.
+
+2. **"high quality"**
+   - **Initial sentiment score:** 0.85
+   - **Adjusted score:** 0.88
+   - **Confidence:** High
+   - **Contextual explanation:** "High quality" is a strongly positive term, often associated with excellence. "Good program" specifies the effectiveness and overall positive experience with the program, validating and slightly boosting the sentiment score.
+
+3. **"time-consuming"**
+   - **Initial sentiment score:** 0.35
+   - **Adjusted score:** 0.30
+   - **Confidence:** Medium
+   - **Contextual explanation:** The term "time-consuming" typically carries a negative connotation because it implies inefficiency or a significant effort for little gain. "Took a while" reinforces the negative aspects, slightly lowering the score to reflect potential frustration or inconvenience.
+
+4. **"cutting edge"**
+   - **Initial sentiment score:** 0.89
+   - **Adjusted score:** 0.90
+   - **Confidence:** High
+   - **Contextual explanation:** "Cutting edge" is a highly positive term, indicating innovation and advanced quality. "Very good information" reinforces the positive sentiment, related to the content's relevance and excellence, slightly increasing the sentiment score.
+
+5. **"professional"**
+   - **Initial sentiment score:** 0.75
+   - **Adjusted score:** 0.80
+   - **Confidence:** Medium
+   - **Contextual explanation:** The term "professional" generally implies competence and a high standard. "Well laid out" emphasizes that the presentation or structure was exceptionally organized, enhancing the positive sentiment associated with "professional" and slightly increasing the score.
+29
+**Line 1:** 
+- **Word:** "organized"
+- **Sentiment Score:** 0.80
+- **Adjusted Sentiment Score:** 0.85
+- **Confidence:** High
+- **Contextual Explanation:** "Organized" generally denotes a positive quality, indicating that something is structured and easy to navigate. The explanation reinforces this sentiment by stating that the menus are "easy to use and helpful," which contributes to a higher adjusted score as it highlights user-friendliness and utility.
+
+**Line 2:** 
+- **Word:** "educational"
+- **Sentiment Score:** 0.70
+- **Adjusted Sentiment Score:** 0.75
+- **Confidence:** High
+- **Contextual Explanation:** "Educational" implies that something provides knowledge or learning, which is inherently positive. The explanation confirms this by mentioning that the results are "informative," enhancing the perception of the word's positivity slightly due to the explicit value of the information provided.
+
+**Line 3:** 
+- **Word:** "clear"
+- **Sentiment Score:** 0.75
+- **Adjusted Sentiment Score:** 0.80
+- **Confidence:** High
+- **Contextual Explanation:** "Clear" suggests transparency and ease of understanding, a favorable quality. The explanation that "directions and results are written clearly and concisely" supports this sentiment by emphasizing the benefit of clarity and brevity, so the adjusted score is higher to reflect this emphasis on effective communication.
+
+**Line 4:** 
+- **Word:** "attractive"
+- **Sentiment Score:** 0.60
+- **Adjusted Sentiment Score:** 0.65
+- **Confidence:** Medium
+- **Contextual Explanation:** "Attractive" usually pertains to visual appeal, which is a positive but subjective quality. The description of the picture as "cute" slightly boosts the sentiment because "cute" generally evokes a favorable reaction, but the impact is limited to visual appeal rather than broader utility or function, resulting in a moderate increase in the adjusted score.
+
+**Line 5:** 
+- **Word:** "usable"
+- **Sentiment Score:** 0.70
+- **Adjusted Sentiment Score:** 0.80
+- **Confidence:** Medium
+- **Contextual Explanation:** "Usable" means something is practical and functional, a positive trait. The explanation underscores this by stating it is "simple to follow and easy to use," which strongly supports and even enhances the sentiment. The adjusted score reflects this emphasis on practicality and ease, though the confidence is medium due to the slightly technical nature of the term compared to more universally understood positive attributes.
+30
+1. "understandable"
+    - Sentiment Score: 0.55 (Neutral to slightly positive)
+    - Adjusted Sentiment Score: 0.50 (Neutral)
+    - Confidence: High
+    - Explanation: "Understandable" typically implies a neutral to slightly positive recognition of clarity or coherence. In this context, although the person recognizes the intent, the confusion about the relevance dampens the positivity, resulting in a neutral score.
+
+2. "unattractive"
+    - Sentiment Score: 0.25 (Negative)
+    - Adjusted Sentiment Score: 0.20 (Negative)
+    - Confidence: High
+    - Explanation: "Unattractive" inherently carries a negative sentiment. The explanation reinforces this negativity without adding additional context that might mitigate the critique, thus the adjusted score remains moderately negative.
+
+3. "simplistic"
+    - Sentiment Score: 0.30 (Negative)
+    - Adjusted Sentiment Score: 0.20 (Negative)
+    - Confidence: High
+    - Explanation: "Simplistic" can sometimes be neutral, but in this context, it sounds more negative due to the added emphasis of "really, really do not like" and the impression that it was hurriedly put together. This suggests a strong negative opinion, thus lowering the adjusted score.
+31
+1. **Word Choice: "effortless"**
+   - **Sentiment Analysis Score:** 0.80
+   - **Adjusted Score:** 0.85
+   - **Confidence:** High
+   - **Explanation:** The word "effortless" naturally conveys a positive sentiment due to its implication that something poses no difficulty. The explanation, "It was very easy to use," reinforces the positive sentiment by emphasizing ease of use, hence the slight increase in the adjusted score.
+
+2. **Word Choice: "simplistic"**
+   - **Sentiment Analysis Score:** 0.60
+   - **Adjusted Score:** 0.75
+   - **Confidence:** Medium
+   - **Explanation:** While "simplistic" can have a neutral or even slightly negative connotation implying something might be overly simplistic, the explanation "Again, easy to use and I understood immediately what I needed to do," casts it in a positive light. This shifts the sentiment towards a more favorable interpretation, thus the adjusted score is higher but my confidence in this adjustment is medium due to the potential for a dual interpretation of the word.
+
+3. **Word Choice: "unattractive"**
+   - **Sentiment Analysis Score:** 0.20
+   - **Adjusted Score:** 0.30
+   - **Confidence:** High
+   - **Explanation:** "Unattractive" generally carries a negative sentiment, suggesting something is lacking in appeal. However, the explanation "It just needs some pizzaz" is somewhat constructive, indicating that improvements can be made. This slightly raises the sentiment score, as the critique is not wholly negative but hints at potential.
+
+4. **Word Choice: "useful"**
+   - **Sentiment Analysis Score:** 0.85
+   - **Adjusted Score:** 0.90
+   - **Confidence:** High
+   - **Explanation:** "Useful" conveys a strongly positive sentiment because it implies that something has practical value. The explanation, "I could see that this would be a very easy and helpful way for farmers, for example, to notify of a grasshopper infestation," further reinforces this positive view by providing a practical example of its utility.
+
+5. **Word Choice: "simple"**
+   - **Sentiment Analysis Score:** 0.75
+   - **Adjusted Score:** 0.80
+   - **Confidence:** High
+   - **Explanation:** "Simple" usually carries positive sentiment by implying something is straightforward and easy to understand. The explanation, "It is easy to use," reinforces this positive sentiment by highlighting user-friendliness, thereby justifying a slightly higher sentiment score.
+32
+1. **"dated"**
+   - **Sentiment score:** 0.20
+   - **Adjusted score:** 0.15
+   - **Confidence:** High
+   - **Explanation:** The word "dated" has a generally negative sentiment because it implies that something is no longer current or fresh. The explanation reinforces this sentiment by stating the graphics and setup are plain and reminiscent of the past 5-10 years, which suggests obsolescence or a lack of modern appeal.
+
+2. **"easy to use"**
+   - **Sentiment score:** 0.90
+   - **Adjusted score:** 0.88
+   - **Confidence:** High
+   - **Explanation:** "Easy to use" has a very positive sentiment as it suggests simplicity and accessibility. The explanation "self-explanatory" confirms that the interface or design is intuitive, further supporting the positive feeling.
+
+3. **"educational"**
+   - **Sentiment score:** 0.85
+   - **Adjusted score:** 0.85 
+   - **Confidence:** High
+   - **Explanation:** The word "educational" carries a positive sentiment, indicating that something provides learning or knowledge enhancement. The explanation that it "can help teach" supports this positive sentiment by confirming a beneficial, informative purpose.
+
+4. **"effective"**
+   - **Sentiment score:** 0.75
+   - **Adjusted score:** 0.78
+   - **Confidence:** High
+   - **Explanation:** "Effective" generally has a positive sentiment, implying success in achieving a purpose. The explanation that it "gets the information across" validates its efficacy, enhancing the positive sentiment.
+
+5. **"straightforward"**
+   - **Sentiment score:** 0.70
+   - **Adjusted score:** 0.72
+   - **Confidence:** High
+   - **Explanation:** The word "straightforward" typically has a positive sentiment as it denotes clarity and simplicity. The use of "self-explanatory" in the explanation enhances this sentiment by confirming the ease of understanding, suggesting a lack of complexity or confusion.
+33
+1. "organized"
+   - Sentiment Analysis Score: 0.70
+   - Adjusted Score: 0.85 (based on positive context of ease of use)
+   - Confidence: High
+   - Contextual Explanation: The word "organized" generally conveys a positive sentiment as it implies structure and order. The additional context that the software was "easy to use" amplifies this positivity, indicating a user-friendly and well-thought-out design, which would be highly valued by users.
+
+2. "fast"
+   - Sentiment Analysis Score: 0.65
+   - Adjusted Score: 0.75 (based on positive context of quick progression)
+   - Confidence: Medium
+   - Contextual Explanation: The word "fast" typically has a positive connotation when discussing software performance, suggesting efficiency. The context that it "did not take long to get to the next question" highlights a seamless user experience, enhancing the positive sentiment.
+
+3. "efficient"
+   - Sentiment Analysis Score: 0.80
+   - Adjusted Score: 0.90 (based on the absence of distractions)
+   - Confidence: High
+   - Contextual Explanation: "Efficient" conveys a strong positive sentiment, especially in the context of software usability. The absence of distracting ads or banners further emphasizes the streamlined and effective nature of the software, making it more attractive to users who value productivity.
+
+4. "business-like"
+   - Sentiment Analysis Score: 0.55
+   - Adjusted Score: 0.60 (based on neutral to slightly positive formal context)
+   - Confidence: Medium
+   - Contextual Explanation: The word "business-like" has a more neutral sentiment, leaning slightly positive due to its connotation of professionalism. The context of the text being "formal and concise" suggests effectiveness in communication, which is beneficial in a business setting, but doesn't evoke strong emotional positivity.
+
+Overall, these scores and adjustments provide a nuanced view that considers both the inherent sentiment of the words and the specific contexts in which they are used, offering a comprehensive assessment aligned with the intended message of the text.
+34
+**Initial Sentiment Analysis Score:**
+Word: unattractive  
+Score: 0.20
+
+**Adjusted Sentiment Analysis Score:**
+Adjusted Score: 0.50  
+Confidence: Medium
+
+**Explanation:**
+The initial score of 0.20 indicates a negative sentiment, as "unattractive" generally implies a lack of appeal. However, the context ("The look was very old school") introduces a different perspective. "Old school" can carry nostalgic or vintage connotations that are not entirely negative. Therefore, while the term "unattractive" is inherently negative, the explanation adds nuance, suggesting that the assessment isn't wholly negative. This justifies a more neutral adjusted score of 0.50.
+35
+1. **Word: "educational"**
+   - **Sentiment Analysis Score: 0.80** 
+   - **Adjusted Score: 0.85**
+   - **Confidence: High**
+   - **Contextual Explanation**: The word "educational" generally carries a positive sentiment because education is seen as valuable and enriching. In the context of a "Good resource tool for farmers," the sentiment is slightly elevated because it implies that the resource is not only instructive but also practically beneficial to a specific group, enhancing its positive connotation. 
+
+2. **Word: "useful"**
+   - **Sentiment Analysis Score: 0.85**
+   - **Adjusted Score: 0.88**
+   - **Confidence: High**
+   - **Contextual Explanation**: "Useful" has a positive sentiment as it indicates functionality and benefit. The explanation "Will come in handy for those wanting to know why the grasshoppers have broken out on their property" specifies a practical and immediate benefit, making the term more favorable as it addresses a direct and potentially pressing issue for property owners.
+
+3. **Word: "simple"**
+   - **Sentiment Analysis Score: 0.75**
+   - **Adjusted Score: 0.80**
+   - **Confidence: High**
+   - **Contextual Explanation**: The word "simple" is positive because it suggests ease of use and accessibility. The explanation "Was very easy to use. Even those who are not really computer savvy will be able to figure it out" enhances this sentiment by emphasizing inclusivity and ease, which are particularly valuable traits for technology or tools, thereby increasing the positivity slightly.
+
+4. **Word: "new"**
+   - **Sentiment Analysis Score: 0.60**
+   - **Adjusted Score: 0.55**
+   - **Confidence: Medium**
+   - **Contextual Explanation**: "New" is generally neutral to slightly positive, as it indicates freshness but not necessarily quality or utility. The explanation "Something that I've never seen before" provides no additional positive or negative context, leaving the sentiment relatively unchanged. It slightly lowers because novelty alone doesn't necessarily equate to usefulness or positive impact.
+
+5. **Word: "cutting edge"**
+   - **Sentiment Analysis Score: 0.90**
+   - **Adjusted Score: 0.70**
+   - **Confidence: Medium**
+   - **Contextual Explanation**: "Cutting edge" typically carries a highly positive sentiment as it implies advanced, innovative technology or ideas. However, the explanation "Brand new to the farming community. Can read about it in magazines, but are unable to really interact with the different types" suggests some limitations, such as inaccessibility or a lack of practical application, which diminishes the overall positivity of the term in this specific context.
+36
+1. **Word: "business-like"**
+   - **Sentiment Score: 0.65** 
+   - **Explanation: "well organized"**
+   - **Adjusted Score: 0.75**
+   - **Confidence: High**
+   - **Contextual Explanation:**
+     - The term "business-like" typically implies professionalism and efficiency, which conveys a moderately positive sentiment. When paired with "well organized," it highlights a higher level of positivity, suggesting a more structured and reliable system. This adjustment increases the positivity due to the implication of orderliness and methodical operation.
+
+2. **Word: "simple"**
+   - **Sentiment Score: 0.70**
+   - **Explanation: "easy to use"**
+   - **Adjusted Score: 0.85**
+   - **Confidence: High**
+   - **Contextual Explanation:**
+     - "Simple" generally has a positive connotation because it suggests ease and straightforwardness. With the explanation "easy to use," the sentiment becomes more explicitly positive, as ease of use is highly valued in many contexts, indicating user-friendliness and accessibility.
+
+3. **Word: "fast"**
+   - **Sentiment Score: 0.75**
+   - **Explanation: "fast results"**
+   - **Adjusted Score: 0.80**
+   - **Confidence: Medium**
+   - **Contextual Explanation:**
+     - The word "fast" is positive as it suggests efficiency and quickness. When specified as "fast results," the sentiment is slightly enhanced because speed becomes more directly beneficial, emphasizing timely outcomes which are usually appreciated in both personal and professional settings.
+
+4. **Word: "convenient"**
+   - **Sentiment Score: 0.80**
+   - **Explanation: "use whenever"**
+   - **Adjusted Score: 0.85**
+   - **Confidence: High**
+   - **Contextual Explanation:**
+     - "Convenient" generally suggests something beneficial and advantageous due to the ease it offers. The explanation "use whenever" strengthens this positive sentiment by highlighting flexibility and accessibility, key elements that enhance the overall value and usability of something.
+
+5. **Word: "responsive"**
+   - **Sentiment Score: 0.70**
+   - **Explanation: "on the spot results"**
+   - **Adjusted Score: 0.80**
+   - **Confidence: Medium**
+   - **Contextual Explanation:**
+     - "Responsive" implies prompt attention or reaction, which is a positive quality. The phrase "on the spot results" makes this even more favorable by underscoring its immediacy and effectiveness, which are highly desirable traits for responsiveness in various contexts, particularly in customer service or technology.
+37
+1. 
+   - Word: "educational" 
+     - Sentiment Analysis Score: 0.75
+     - Explanation-based Adjusted Score: 0.80
+     - Confidence: High
+     - Contextual Explanation: The term "educational" typically carries positive connotations associated with learning and growth. In this context, the user expresses a positive experience from gaining knowledge about grasshoppers, which slightly enhances the sentiment score.
+
+2. 
+   - Word: "organized"
+     - Sentiment Analysis Score: 0.70
+     - Explanation-based Adjusted Score: 0.75
+     - Confidence: Medium
+     - Contextual Explanation: "Organized" generally indicates a positive sentiment related to good structure or order. The user's additional explanation about "many questions and pictures" implies effective arrangement and thorough coverage of material, enabling a slight positive adjustment in the sentiment score.
+38
+1. "old"
+   - Sentiment Score: 0.30
+   - Adjusted Score: 0.35 (medium confidence)
+   - Contextual Explanation: The term "old" generally implies something that is not new, which can carry a slightly negative connotation, particularly if it's perceived negatively. However, describing something as originating from the 80s can also invoke nostalgia for that period, making it slightly more positive depending on the context.
+
+2. "dated"
+   - Sentiment Score: 0.20
+   - Adjusted Score: 0.20 (high confidence)
+   - Contextual Explanation: The term "dated" implies that something is out of style or no longer current, which generally carries a negative connotation without the potential for positive nostalgia. It clearly suggests that the item is old and possibly obsolete or less desirable.
+
+3. "clear"
+   - Sentiment Score: 0.75
+   - Adjusted Score: 0.80 (high confidence)
+   - Contextual Explanation: The term "clear" is positively associated with ease of understanding and organization. The explanation that "information was not jumbled on the page" reinforces the positive sentiment, indicating good readability and user experience.
+
+4. "simplistic"
+   - Sentiment Score: 0.50
+   - Adjusted Score: 0.60 (medium confidence)
+   - Contextual Explanation: The term "simplistic" may carry mixed connotations; it suggests basic or uncomplicated design, which can be positive, but also implies a lack of sophistication. The explanation that information was not jumbled on the page offers a more positive context, indicating that the simplicity improved readability.
+
+5. "unattractive"
+   - Sentiment Score: 0.10
+   - Adjusted Score: 0.15 (high confidence)
+   - Contextual Explanation: The term "unattractive" is strongly negative, implying something is displeasing to look at or use. This sentiment is further reinforced by the explanation that the type/font was hard to read, highlighting a usability flaw that adds to the negative perception.
+39
+1. "easy to use","It walked you through the steps of what to do"
+   - Sentiment Score: 0.85
+   - Adjusted Score: 0.89
+   - Confidence: High
+   - Explanation: Initially, "easy to use" is a positive sentiment, highlighting simplicity and user-friendliness, with a score of 0.85. The explanation strengthens the sentiment by illustrating a guided process, increasing the positive sentiment to 0.89. High confidence is indicated due to the clear and direct nature of the statement.
+
+2. "convenient","It gave diagrams on which grasshoppers to look for and how to identify them"
+   - Sentiment Score: 0.75
+   - Adjusted Score: 0.80
+   - Confidence: Medium
+   - Explanation: The word "convenient" suggests a positive experience, hence a sentiment score of 0.75. The explanation adds value by mentioning useful diagrams for identification, making the experience more positive, thus raising the score to 0.80. Medium confidence is set because while the diagrams are helpful, the overall sentiment could vary based on individual preferences.
+
+3. "useful","Provided information on whether the area has a grasshopper outbreak based on the information you give"
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - Explanation: "Useful" is inherently positive, with a sentiment score of 0.80. The explanation specifies beneficial features (identifying grasshopper outbreaks), which enhances the perception of usefulness, adjusting the score to 0.85. High confidence is indicated due to the clear articulation of a practical benefit.
+
+4. "straightforward","Does not ask questions that lead nowhere"
+   - Sentiment Score: 0.70
+   - Adjusted Score: 0.75
+   - Confidence: Medium
+   - Explanation: "Straightforward" usually conveys easiness and clarity, assigning a sentiment score of 0.70. The description underlines the absence of pointless questions, thus positively augmenting the experience to 0.75. Confidence is medium, as the actual impact might depend on the complexity of questions that were potentially frustrating before.
+
+5. "accessible","The buttons are easy to find and easy to use"
+   - Sentiment Score: 0.85
+   - Adjusted Score: 0.88
+   - Confidence: High
+   - Explanation: "Accessible" is a strongly positive term, scoring 0.85 for suggesting ease of access. The sentiment is improved to 0.88 with specifics about button placement, reinforcing the theme of usability. High confidence is noted due to the tangible nature of the given example.
+40
+### 1. "simplistic"
+
+**Initial Sentiment Analysis Score:**
+0.40
+
+**Adjusted Score:**
+0.30
+
+**Confidence:**
+High
+
+**Contextual Explanation:**
+The term "simplistic" generally carries a somewhat negative connotation, implying that something is overly simple, lacking depth or complexity. In the given context, the explanation emphasizes that the interface requires minimal interaction ("Just clicking on buttons..."), reinforcing the slightly negative sentiment.
+
+### 2. "boring"
+
+**Initial Sentiment Analysis Score:**
+0.20
+
+**Adjusted Score:**
+0.10
+
+**Confidence:**
+High
+
+**Contextual Explanation:**
+The word "boring" has a definite negative sentiment, indicating a lack of interest and engagement. The explanation ("Not much to it. Pull down menus were plain.") underscores this by describing the simplicity and lack of engaging elements, which would contribute to user dissatisfaction.
+
+### 3. "confusing"
+
+**Initial Sentiment Analysis Score:**
+0.25
+
+**Adjusted Score:**
+0.15
+
+**Confidence:**
+High
+
+**Contextual Explanation:**
+"Confusing" suggests difficulty in understanding or navigating something, which is a negative experience. The explanation indicates that the user couldn't find specific information and was uncertain about the process ("... Was I supposed to go to a field and count?"), thus deepening the sense of confusion and frustration.
+
+### 4. "educational"
+
+**Initial Sentiment Analysis Score:**
+0.75
+
+**Adjusted Score:**
+0.70
+
+**Confidence:**
+Medium
+
+**Contextual Explanation:**
+The term "educational" is generally positive, suggesting that the content provides valuable knowledge. The accompanying explanation supports this by stating that the information contained was about grasshopper infestation and solutions, which is useful and presumably appreciated by the user. The score is slightly adjusted due to the neutral wording of the explanation.
+
+### 5. "frustrating"
+
+**Initial Sentiment Analysis Score:**
+0.10
+
+**Adjusted Score:**
+0.05
+
+**Confidence:**
+High
+
+**Contextual Explanation:**
+"Frustrating" strongly indicates a negative experience, reflecting annoyance and dissatisfaction. The explanation ("Could not find the information I was looking for.") directly ties to this feeling, as the inability to find desired information can significantly contribute to user frustration.
+41
+1. **Word choice: "easy to use"**
+   - Original Sentiment Score: 0.85
+     - *Contextual Explanation:* The phrase "easy to use" generally conveys a positive sentiment as it implies user-friendliness.
+   - Adjusted Score: 0.90
+     - *Explanation:* The user's mention of having no prior knowledge about grasshoppers or the system, yet still finding it understandable, heightens the positivity of this statement.
+   - Confidence: High
+     - *Contextual Explanation:* The additional context shows that the instructions are accessible even to beginners, which extends the sentiment from positive to very positive.
+
+2. **Word choice: "effective"**
+   - Original Sentiment Score: 0.75
+     - *Contextual Explanation:* "Effective" typically suggests a positive outcome, indicating that the method works as intended.
+   - Adjusted Score: 0.80
+     - *Explanation:* Since the statement describes it as a "very easy way" to solve a significant problem (infestation), it slightly elevates the sentiment compared to the word alone.
+   - Confidence: Medium
+     - *Contextual Explanation:* The context of managing infestation problems easily strengthens the sentiment, though it's still somewhat reliant on the inherent positivity of "effective."
+
+3. **Word choice: "straightforward"**
+   - Original Sentiment Score: 0.72
+     - *Contextual Explanation:* "Straightforward" usually indicates clarity and simplicity, carrying a positive connotation.
+   - Adjusted Score: 0.78
+     - *Explanation:* The phrase "instructions were very clear" enhances "straightforward," pushing it into a more strongly positive territory.
+   - Confidence: High
+     - *Contextual Explanation:* The additional description that the instructions were "very clear" provides stronger evidence of ease and positive user experience.
+
+4. **Word choice: "efficient"**
+   - Original Sentiment Score: 0.75
+     - *Contextual Explanation:* "Efficient" means achieving maximum productivity with minimum wasted effort, a positive quality.
+   - Adjusted Score: 0.77
+     - *Explanation:* The statement "didn't take very long to come up with recommendations" affirms the word’s meaning, offering a small increase in positive sentiment.
+   - Confidence: High
+     - *Contextual Explanation:* The confirmation that it saves time supports the efficient label and enhances the positive sentiment, confirming it’s not only efficient in theory but also in practice.
+
+5. **Word choice: "clear"**
+   - Original Sentiment Score: 0.70
+     - *Contextual Explanation:* "Clear" suggests that the information is easy to understand, indicating positivity.
+   - Adjusted Score: 0.78
+     - *Explanation:* The mention of simple language and detailed pictures implies even greater clarity and usefulness, raising the score.
+   - Confidence: High
+     - *Contextual Explanation:* The additional details support that the material is not only clear but also thoughtfully designed to aid understanding, significantly enhancing the sentiment.
+42
+1. **"usable"**
+   - **Sentiment Score:** 0.70
+   - **Adjusted Sentiment Score:** 0.75
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "usable" has a positive sentiment, as it indicates that the tool is functional and practical. The explanation confirms this by describing the tool as "very usable," boosting the score slightly.
+
+2. **"high quality"**
+   - **Sentiment Score:** 0.80
+   - **Adjusted Sentiment Score:** 0.75
+   - **Confidence:** Medium
+   - **Contextual Explanation:** The phrase "high quality" typically carries a strong positive connotation, suggesting excellence. However, the explanation, "I thought that it presented a good product," is slightly less enthusiastic, so a slight reduction is applied, showing moderate confidence in general positivity.
+
+3. **"friendly"**
+   - **Sentiment Score:** 0.85
+   - **Adjusted Sentiment Score:** 0.90
+   - **Confidence:** High
+   - **Contextual Explanation:** "Friendly" suggests a welcoming and easy-to-navigate interface, which is highly positive. The explanation "It was easy to use" reinforces the strong positive sentiment, leading to a higher score.
+
+4. **"fast"**
+   - **Sentiment Score:** 0.75
+   - **Adjusted Sentiment Score:** 0.80
+   - **Confidence:** High
+   - **Contextual Explanation:** "Fast" has a positive sentiment as it indicates efficiency. The explanation "It didn't take a long time to load" confirms this positive attribute, leading to a slight increase in the score.
+
+5. **"not valuable"**
+   - **Sentiment Score:** 0.10
+   - **Adjusted Sentiment Score:** 0.05
+   - **Confidence:** High
+   - **Contextual Explanation:** The phrase "not valuable" conveys a strong negative sentiment, indicating a lack of worth. The explanation "I didn't think it added any value" confirms the negative perception, which slightly lowers the already negative sentiment score.
+43
+1. **"busy"**  
+   - Sentiment Analysis Score: 0.20  
+   - Adjusted Score: 0.15  
+   - Confidence: High  
+   - Contextual Explanation: The word "busy" alone might not inherently carry a strongly negative sentiment, but in the context provided, the reference to it causing confusion due to "too much stuff everywhere" lowers the sentiment score. The term describes a negative user experience involving clutter and confusion, which impacts its overall sentiment negatively.
+
+2. **"distracting"**  
+   - Sentiment Analysis Score: 0.30  
+   - Adjusted Score: 0.25  
+   - Confidence: High  
+   - Contextual Explanation: "Distracting" is already somewhat negative, indicating something that pulls away focus. The explanation that it causes confusion because "there was stuff everywhere" further cements the negative sentiment. The term indicates an inability to focus due to overwhelming elements, which is clearly an undesirable experience.
+
+3. **"poor quality"**  
+   - Sentiment Analysis Score: 0.10  
+   - Adjusted Score: 0.05  
+   - Confidence: High  
+   - Contextual Explanation: "Poor quality" is an intrinsically negative term, and the explanation that it results in taking the user back to the beginning when a certain button is hit exacerbates this negativity. The term coupled with the described frustrating experience results in a very low sentiment score.
+
+4. **"awkward"**  
+   - Sentiment Analysis Score: 0.25  
+   - Adjusted Score: 0.20  
+   - Confidence: Medium  
+   - Contextual Explanation: The word "awkward" suggests discomfort and lack of ease, which is already negative. With the additional context that it wasn't "personal or warm, colorful or inviting," the user experience is described in a way that increases the negative sentiment. The score is adjusted slightly lower to reflect this emotional aspect of discomfort and lack of effort put into making it inviting.
+
+5. **"new"**  
+   - Sentiment Analysis Score: 0.65  
+   - Adjusted Score: 0.55  
+   - Confidence: Medium  
+   - Contextual Explanation: "New" generally carries a positive sentiment, indicating something fresh or updated. However, within the given context, "You can tell," may imply an observation that isn't overwhelmingly positive or negative, leading to a slight reduction in the sentiment score. The neutrality in the additional sentence makes the sentiment less enthusiastic than it could have been initially perceived.
+44
+1. Word: "ordinary"
+   - Sentiment Score: 0.50
+   - Adjusted Score: 0.45
+   - Confidence: High
+   - Contextual Explanation: The word "ordinary" typically has a neutral sentiment. However, the explanation "Didn't really distinguish itself user wise" leans slightly negative, suggesting mediocrity or lack of standout features.
+
+2. Word: "old"
+   - Sentiment Score: 0.40
+   - Adjusted Score: 0.30
+   - Confidence: High
+   - Contextual Explanation: "Old" generally has a mildly negative sentiment score, particularly in the context of software, implying outdated technology. The comparison to an "Atari game" further devalues it, emphasizing it as out-of-date and less sophisticated compared to "newer software."
+
+3. Word: "effortless"
+   - Sentiment Score: 0.70
+   - Adjusted Score: 0.75
+   - Confidence: Medium
+   - Contextual Explanation: "Effortless" usually carries a positive sentiment as it denotes ease of use. The explanation "As long as you could read and follow direction you were good" reinforces this positive aspect, suggesting minimal effort is required for a user to succeed. However, confidence is medium since the ease described doesn't necessarily imply a rich user experience.
+
+4. Word: "clear"
+   - Sentiment Score: 0.70
+   - Adjusted Score: 0.65
+   - Confidence: High
+   - Contextual Explanation: The word "clear" typically has a positive sentiment as it suggests straightforwardness. The phrase "No need to think as you went through software" indicates that the software is user-friendly and intuitive, reinforcing the positive sentiment, although it might imply over-simplicity slightly reducing the score.
+
+5. Word: "simplistic"
+   - Sentiment Score: 0.60
+   - Adjusted Score: 0.40
+   - Confidence: High
+   - Contextual Explanation: While "simplistic" can have a neutral to mildly positive meaning suggesting simplicity, in this context, "Not very engaging" indicates a negative connotation, implying that the simplicity is to the extent of being uninteresting. This reduces the sentiment score to lean more towards the negative side.
+45
+1. "poor quality"
+   - Sentiment analysis score: 0.20
+   - Adjusted score: 0.30
+   - Confidence: High
+   - Contextual explanation: The sentiment of "poor quality" is initially quite negative due to its explicit indication of low standards. However, the explanation acknowledges some positive aspects ("good content"), which slightly mitigates the negativity, raising the adjusted score.
+
+2. "awkward"
+   - Sentiment analysis score: 0.25
+   - Adjusted score: 0.25
+   - Confidence: Medium
+   - Contextual explanation: "Awkward" suggests discomfort or unease, which carries a moderately negative connotation. The explanation doesn't provide any context to lighten this sentiment, particularly as it mentions the speaker's lack of knowledge about grasshoppers, which doesn't directly relate to enhancing or further degrading the sentiment of "awkward."
+
+3. "dated"
+   - Sentiment analysis score: 0.30
+   - Adjusted score: 0.30
+   - Confidence: High
+   - Contextual explanation: "Dated" implies that something is old-fashioned or out of style, a clearly negative sentiment. The specificity of the design feeling like it was from the 80's reinforces this without introducing any positive aspects, thereby maintaining the original sentiment score.
+
+4. "confusing"
+   - Sentiment analysis score: 0.25
+   - Adjusted score: 0.20
+   - Confidence: Medium
+   - Contextual explanation: "Confusing" has a negative connotation, indicating difficulty in understanding. The explanation reinforces this by emphasizing a complete lack of understanding (“had no idea what the content was about”), and even though they aren’t the target audience, which could provide some leniency, it fails to mitigate overall negativity.
+
+5. "dull"
+   - Sentiment analysis score: 0.20
+   - Adjusted score: 0.25
+   - Confidence: High
+   - Contextual explanation: "Dull" implies lack of interest or excitement, a negative sentiment. However, the explanation provides constructive feedback on how the situation might be improved (using a better design layout and typography), which slightly raises the adjusted score by suggesting a potential for improvement.
+46
+1. **Word: "responsive"**
+   - Sentiment Analysis Score: 0.75
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - Contextual Explanation: The word “responsive” generally conveys a positive sentiment as it indicates effectiveness and usefulness. The explanation highlights that the application reacted appropriately to user input and provided explanations, enhancing its utility, which slightly elevates its positive sentiment.
+
+2. **Word: "fast"**
+   - Sentiment Analysis Score: 0.85
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - Contextual Explanation: “Fast” carries a strongly positive sentiment because speed is highly valued in applications. The explanation reiterates that the application performed quickly, confirming the positive sentiment without providing additional nuance that might alter the score.
+
+3. **Word: "usable"**
+   - Sentiment Analysis Score: 0.80
+   - Adjusted Score: 0.90
+   - Confidence: High
+   - Contextual Explanation: “Usable” suggests that the application is practical and easy to operate, which is favorable. The explanation emphasizes that it is user-friendly and simple to comprehend, enhancing its usability value and thus increasing the sentiment score.
+
+4. **Word: "simple"**
+   - Sentiment Analysis Score: 0.70
+   - Adjusted Score: 0.75
+   - Confidence: Medium
+   - Contextual Explanation: “Simple” can have mixed connotations, but generally indicates ease of use without complexity. The explanation clarifies that the absence of unnecessary elements contributes positively to user experience, slightly increasing the positive sentiment score.
+
+5. **Word: "professional"**
+   - Sentiment Analysis Score: 0.80
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - Contextual Explanation: The term “professional” often implies quality and competence, which is favorable. The explanation confirms that the application's appearance met professional standards, reinforcing the original positive sentiment without significantly altering the score.
+47
+1. **Word: "frustrating"**
+   - Sentiment Score: 0.20
+   - Adjusted Score: 0.18 (Medium)
+   - Explanation: The word "frustrating" has a negative connotation as it denotes feelings of annoyance or difficulty, reflected in the struggle to get the percentages right. The adjustment lowers the score slightly to acknowledge the specific context of the difficulty experienced, without introducing any new factors beyond the initial frustration.
+
+2. **Word: "confusing"**
+   - Sentiment Score: 0.30
+   - Adjusted Score: 0.25 (Medium)
+   - Explanation: "Confusing" suggests uncertainty and lack of clarity, which is inherently a negative experience. The explanation implies a temporary state that was resolved, which reduces the intensity of the negative sentiment slightly from the base word score.
+
+3. **Word: "business-like"**
+   - Sentiment Score: 0.60
+   - Adjusted Score: 0.65 (High)
+   - Explanation: "Business-like" indicates a neutral to slightly positive sentiment focusing on professionalism and factual information. The context of "sticks to the facts" suggests an appreciation for this straightforward and methodical approach, which slightly increases the positive sentiment associated with the term.
+
+4. **Word: "poor quality"**
+   - Sentiment Score: 0.10
+   - Adjusted Score: 0.05 (High)
+   - Explanation: "Poor quality" clearly carries a highly negative sentiment due to dissatisfaction. The detailed explanation regarding the basic, boring, and crammed nature of the content intensifies the negative evaluation, resulting in a slightly lower adjusted score.
+
+5. **Word: "effective"**
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.85 (High)
+   - Explanation: "Effective" is a positive term suggesting successful achievement of purpose. The explanation emphasizes that the information provided achieved its intended outcome, reinforcing the positive sentiment. The context increases the positive sentiment slightly as the effectiveness directly aligned with the user's needs.
+
+These scores are derived by considering both the individual core sentiment of the words and the nuances provided by their context.
+48
+1. **"useful"**
+   - **Sentiment Score:** 0.75 
+   - **Adjusted Score:** 0.85
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "useful" generally carries a positive connotation, indicating that something is beneficial or provides utility. The detailed explanation highlights how the information provided was adequate and helpful in a specific situation, raising the sentiment to 0.85 due to the clear satisfaction with the aid offered.
+
+2. **"fast"**
+   - **Sentiment Score:** 0.70
+   - **Adjusted Score:** 0.75
+   - **Confidence:** High
+   - **Contextual Explanation:** The term "fast" is typically positive, implying efficiency and quick performance. The explanation reiterates that there were no lags and actions were performed swiftly, which enhances the positive sentiment slightly to 0.75. The satisfaction with speed is clear and unambiguous, bolstering confidence in the assessment.
+
+3. **"dull"**
+   - **Sentiment Score:** 0.30
+   - **Adjusted Score:** 0.40
+   - **Confidence:** Medium
+   - **Contextual Explanation:** "Dull" has a generally negative connotation, suggesting something is boring or lacks excitement. However, the explanation notes that simplicity is adequate for the context, slightly mitigating the negativity. Hence, the sentiment score adjusts to 0.40. The mixed sentiment makes the confidence level medium.
+
+4. **"responsive"**
+   - **Sentiment Score:** 0.80
+   - **Adjusted Score:** 0.85
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "responsive" is positive, indicating prompt and accurate reactions. The detailed explanation confirms that the program met expectations of responsiveness, with no errors or lags, enhancing the sentiment score to 0.85. The clarity and lack of any issues support a high confidence rating.
+
+5. **"clear"**
+   - **Sentiment Score:** 0.75
+   - **Adjusted Score:** 0.80
+   - **Confidence:** High
+   - **Contextual Explanation:** "Clear" indicates effective communication or easy understanding, a positive trait. The explanation supports this by stating that information was conveyed without distractions, slightly increasing the sentiment score to 0.80 due to the emphasis on the absence of obstructions. The straightforwardness of the explanation ensures high confidence.
+49
+1. **Word: "clear"**
+   - **Sentiment Score: 0.73**
+   - **Adjusted Score: 0.77**
+   - **Confidence: Medium**
+   - **Contextual Explanation:** The word "clear" has a generally positive connotation, implying something is free from confusion. The explanation "Seems easy enough to understand," reinforces this positive sentiment as it indicates the word achieves what it aims to describe, thus slightly elevating the sentiment score.
+
+2. **Word: "straightforward"**
+   - **Sentiment Score: 0.70**
+   - **Adjusted Score: 0.75**
+   - **Confidence: Medium**
+   - **Contextual Explanation:** "Straightforward" has a positive connotation indicating simplicity and directness without complications. The given explanation "Seems easy enough to understand," further supports this notion, making it seem practical and user-friendly, which slightly increases the sentiment score.
+
+3. **Word: "reliable"**
+   - **Sentiment Score: 0.80**
+   - **Adjusted Score: 0.85**
+   - **Confidence: High**
+   - **Contextual Explanation:** "Reliable" holds a very positive connotation suggesting dependability and trustworthiness. The explanation, "Seems easy to use and like it would really help a user to find the crop problems," robustly supports this positivity by highlighting both usability and utility, thus enhancing the sentiment score further.
+
+4. **Word: "efficient"**
+   - **Sentiment Score: 0.78**
+   - **Adjusted Score: 0.79**
+   - **Confidence: High**
+   - **Contextual Explanation:** "Efficient" suggests high performance and effectiveness, which are positive traits. The explanation "Worked well" corroborates the efficiency, confirming the effectiveness, though it is brief. This slightly bolsters the sentiment score as efficiency is validated through its performance.
+
+5. **Word: "understandable"**
+   - **Sentiment Score: 0.65**
+   - **Adjusted Score: 0.68**
+   - **Confidence: Medium**
+   - **Contextual Explanation:** "Understandable" implies that something can be grasped or comprehended, which is generally positive. However, compared to words like "clear" and "straightforward," it may suggest just adequate comprehensibility rather than exceptional clarity. The explanation, "Explains how to use fairly well," reinforces that it is good, but perhaps not outstanding, leading to a slight increase in the sentiment score.
+50
+1. **"innovative"**
+   - **Sentiment Score**: 0.85
+   - **Adjusted Score**: 0.89
+   - **Confidence**: High
+   
+   **Contextual Explanation**: "Innovative" typically carries a positive sentiment as it suggests creativity and advancement. In the context provided, it indicates that the graphs and maps are not just good but offer a new, creative way of helping consumers understand information, enhancing the positive sentiment slightly.
+
+2. **"cluttered"**
+   - **Sentiment Score**: 0.20
+   - **Adjusted Score**: 0.15
+   - **Confidence**: High
+   
+   **Contextual Explanation**: "Cluttered" implies a chaotic and disorganized presentation, which is inherently negative. When paired with the explanation that the paragraphs were too crammed to be readable, it intensifies the negativity, resulting in a slightly lower adjusted score.
+
+3. **"straightforward"**
+   - **Sentiment Score**: 0.80
+   - **Adjusted Score**: 0.85
+   - **Confidence**: High
+   
+   **Contextual Explanation**: "Straightforward" is a positive term indicating clarity and ease, important for directions. The explanation reinforces this positivity by confirming the directions were indeed easy to understand, slightly raising the adjusted sentiment score.
+
+4. **"understandable"**
+   - **Sentiment Score**: 0.75
+   - **Adjusted Score**: 0.78
+   - **Confidence**: Medium
+   
+   **Contextual Explanation**: "Understandable" suggests that the process is clear, which is a positive attribute. The concise explanation strengthens this sentiment but doesn’t provide additional context to significantly alter the initial score, resulting in a marginal increase.
+
+5. **"convenient"**
+   - **Sentiment Score**: 0.85
+   - **Adjusted Score**: 0.88
+   - **Confidence**: High
+   
+   **Contextual Explanation**: "Convenient" inherently carries strong positive sentiments, implying ease and suitability. The explanation confirms that the program simplifies finding information, reinforcing and slightly increasing the positive sentiment score.
+51
+1. **"relevant"**
+   - **Sentiment Score:** 0.70
+   - **Adjusted Score:** 0.85
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "relevant" on its own indicates usefulness or applicability, leaning positively in sentiment due to its inherent value. Given the explanation -- "Important tool for farmers and valuable resource" -- the score is adjusted upwards because it emphasizes its significant utility and importance, especially in a practical context like farming. This enhances the positive sentiment.
+
+2. **"professional"**
+   - **Sentiment Score:** 0.75
+   - **Adjusted Score:** 0.80
+   - **Confidence:** High
+   - **Contextual Explanation:** The term "professional" typically conveys competence and reliability, resulting in a positive sentiment. The explanation "Sounds like the author knew what he's talking about" reinforces this by adding credibility to the author's knowledge, thus slightly increasing the score.
+
+3. **"clear"**
+   - **Sentiment Score:** 0.80
+   - **Adjusted Score:** 0.85
+   - **Confidence:** High
+   - **Contextual Explanation:** "Clear" suggests transparency and ease of understanding, yielding a high positive sentiment. The explanation "Didn't get lost in the directions and the layout was easy to understand" supports this by emphasizing the ease of navigation and comprehension, which are vital for user experience, thereby slightly increasing the score.
+
+4. **"organized"**
+   - **Sentiment Score:** 0.75
+   - **Adjusted Score:** 0.85
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "organized" conveys a sense of order, which is inherently positive. The explanation "The program had a natural flow and was well organized" underscores this by attesting to a seamless and pleasant user experience, justifying an increase in the sentiment score.
+
+5. **"easy to use"**
+   - **Sentiment Score:** 0.85
+   - **Adjusted Score:** 0.90
+   - **Confidence:** High
+   - **Contextual Explanation:** The phrase "easy to use" is highly positive as it immediately suggests user-friendliness and convenience. The support provided by "Directions were concise and easy to follow" reinforces this strong positive sentiment by highlighting practical usability, hence the slight increase in score.
+52
+1. "poor quality"
+   - Sentiment Analysis Score: 0.15
+   - Adjusted Score: 0.20
+   - Confidence: Medium
+   - Contextual Explanation: "Poor quality" typically carries a negative connotation, implying that the program does not meet standards or expectations. However, the explanation "The way the program opens seems kind of goofy" softens the negativity slightly by presenting the issue in a somewhat light-hearted or less severe manner.
+
+2. "creative"
+   - Sentiment Analysis Score: 0.85
+   - Adjusted Score: 0.90
+   - Confidence: High
+   - Contextual Explanation: "Creative" is inherently positive, indicating originality and innovation. The explanation "Never seen anything like it before" adds to this positivity by emphasizing the uniqueness and novelty of the concept.
+
+3. "useful"
+   - Sentiment Analysis Score: 0.75
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - Contextual Explanation: "Useful" is a positive term that suggests practical value and utility. The explanation "Seems like it would be useful to farmers" reaffirms and possibly enhances this sentiment by specifying a beneficial application, making it more relevant and impactful.
+
+4. "straightforward"
+   - Sentiment Analysis Score: 0.65
+   - Adjusted Score: 0.70
+   - Confidence: High
+   - Contextual Explanation: "Straightforward" generally carries a positive sentiment, signifying clarity and ease of understanding. The explanation "Questions were easy to understand" concretely supports this interpretation, reaffirming the simplicity and directness of the questions.
+
+5. "simplistic"
+   - Sentiment Analysis Score: 0.40
+   - Adjusted Score: 0.45
+   - Confidence: Medium
+   - Contextual Explanation: "Simplistic" can be slightly negative or neutral, suggesting oversimplification and lack of complexity. The explanation "Questions were easy to understand, layout simple" suggests a positive aspect in terms of ease of use, but it also hints at a possible lack of depth, thus slightly improving the score but not entirely removing the underlying negative connotation.
+53
+Sure, here is the sentiment analysis for each word, adjusted for context, along with the analysis confidence:
+
+1. **awkward**
+   - **Sentiment Score:** 0.30
+   - **Adjusted Score:** 0.25
+   - **Confidence:** High
+   - **Contextual Explanation:** The term "awkward" suggests a lack of ease or comfort, which is generally negative. The explanation provides specific issues with the user interface, reinforcing the negative sentiment.
+
+2. **useful**
+   - **Sentiment Score:** 0.70
+   - **Adjusted Score:** 0.75
+   - **Confidence:** High
+   - **Contextual Explanation:** "Useful" implies positivity, indicating value and practicality. The explanation confirms this by noting the general utility for a knowledge base without addressing specific limitations, enhancing the positive sentiment.
+
+3. **fast**
+   - **Sentiment Score:** 0.80
+   - **Adjusted Score:** 0.75
+   - **Confidence:** Medium
+   - **Contextual Explanation:** The word "fast" conveys a positive impression concerning speed. However, the context mentions "acceptable period of time," which slightly tempers the enthusiasm for the speed, resulting in a slight downward adjustment.
+
+4. **vague**
+   - **Sentiment Score:** 0.35
+   - **Adjusted Score:** 0.30
+   - **Confidence:** Medium
+   - **Contextual Explanation:** "Vague" generally describes something unclear or imprecise, carrying a somewhat negative connotation. The explanation mentions limited value to experienced users, hinting at inadequacy but acknowledging some utility, leading to a slight adjustment downward.
+
+5. **confusing**
+   - **Sentiment Score:** 0.20
+   - **Adjusted Score:** 0.15
+   - **Confidence:** High
+   - **Contextual Explanation:** "Confusing" indicates difficulty in understanding, clearly a negative sentiment. The detailed explanation about initial difficulty and lack of prior information supports this negative sentiment strongly.
+
+In conclusion:
+- "awkward" is clearly negative due to usability issues.
+- "useful" is generally positive because it serves a purpose well.
+- "fast" is positive but tempered by relativity to acceptable standards.
+- "vague" is slightly negative due to lack of clarity and limited utility.
+- "confusing" is strongly negative due to the difficulty in understanding the program's purpose.
+54
+1. **Word: "simplistic"**
+   - **Sentiment Analysis Score:** 0.60
+     - **Contextual Explanation:** "Simplistic" often has a slightly positive connotation as it implies ease and simplicity, but can be perceived as lacking depth or being overly basic.
+   - **Adjusted Score based on Explanation:** 0.70
+     - **Explanation and Confidence:** With the explanation "easy to use. not a lot of buttons," the sentiment leans towards positive, emphasizing the user-friendly aspect. **Confidence: High**
+
+2. **Word: "flexible"**
+   - **Sentiment Analysis Score:** 0.75
+     - **Contextual Explanation:** "Flexible" is generally positive, highlighting the ability to adapt and adjust to different needs or situations.
+   - **Adjusted Score based on Explanation:** 0.80
+     - **Explanation and Confidence:** The explanation "allows you to view multiple areas. not restricted to one." reinforces the positive nature of flexibility and adaptability. **Confidence: High**
+
+3. **Word: "straightforward"**
+   - **Sentiment Analysis Score:** 0.70
+     - **Contextual Explanation:** "Straightforward" is typically positive, suggesting clarity and ease of understanding.
+   - **Adjusted Score based on Explanation:** 0.75
+     - **Explanation and Confidence:** The explanation "Easy to understand statments and questions" confirms the positive connotation by emphasizing ease of comprehension. **Confidence: High**
+
+4. **Word: "unattractive"**
+   - **Sentiment Analysis Score:** 0.10
+     - **Contextual Explanation:** "Unattractive" has a negative connotation as it suggests something is not pleasing to look at or lacks appeal.
+   - **Adjusted Score based on Explanation:** 0.15
+     - **Explanation and Confidence:** The explanation "boring color scheme" further supports the negative sentiment by specifying lack of visual appeal, but is less severe. **Confidence: High**
+
+5. **Word: "organized"**
+   - **Sentiment Analysis Score:** 0.80
+     - **Contextual Explanation:** "Organized" is strongly positive, indicating proper arrangement and orderliness.
+   - **Adjusted Score based on Explanation:** 0.85
+     - **Explanation and Confidence:** The explanation "easy to use" aligns perfectly with the positive sentiment associated with being well-organized, thus enhancing it slightly. **Confidence: High**
+55
+1. "useful":
+   - Sentiment Score: 0.75
+   - Adjusted Score: 0.80
+   - Confidence: High
+   - Contextual Explanation: The word "useful" by itself carries a moderately positive sentiment as it implies practicality and utility. When combined with the explanation "contains the correct information," the positivity slightly increases as it stresses precision and reliability, making it valuable to users.
+
+2. "flexible":
+   - Sentiment Score: 0.70
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - Contextual Explanation: "Flexible" indicates an adaptable and versatile nature, which is positive. The explanation "adaptable to user's needs" raises the sentiment as it underscores customization and user-focus, making it even more favorable in context.
+
+3. "approachable":
+   - Sentiment Score: 0.80
+   - Adjusted Score: 0.85
+   - Confidence: High
+   - Contextual Explanation: The word "approachable" is generally positive, implying friendliness and ease of access. With the explanation "easy to use," the sentiment is further elevated as it emphasizes user-friendliness and simplicity.
+
+4. "straightforward":
+   - Sentiment Score: 0.65
+   - Adjusted Score: 0.70
+   - Confidence: Medium
+   - Contextual Explanation: "Straightforward" suggests clarity and directness, which is positive, albeit relatively neutral. When described as "understandable," the sentiment slightly improves, highlighting ease of comprehension, which is a desirable quality, though not overtly enthusiastic.
+
+5. "business-like":
+   - Sentiment Score: 0.50
+   - Adjusted Score: 0.60
+   - Confidence: Medium
+   - Contextual Explanation: The term "business-like" is more neutral, connoting professionalism and efficiency, but lacking warmth or emotional engagement. The explanation "professional" aligns well with the initial sentiment, lending a slight positive boost as professionalism is generally considered a positive attribute, though still not particularly emotive.
+56
+1. **Word:** "straightforward"
+   - **Sentiment Analysis Score:** 0.60
+   - **Adjusted Score:** 0.70
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "straightforward" generally has a moderately positive sentiment, indicating something that is easy to understand and follow. The explanation that it gives options on a step-by-step basis adds clarity and ease of use, making it slightly more positive.
+
+2. **Word:** "vague"
+   - **Sentiment Analysis Score:** 0.30
+   - **Adjusted Score:** 0.20
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "vague" has a relatively negative sentiment as it indicates a lack of clarity or precision. The explanation that the maps need landmarks emphasizes this lack of detail, making the score more negative.
+
+3. **Word:** "customizable"
+   - **Sentiment Analysis Score:** 0.75
+   - **Adjusted Score:** 0.80
+   - **Confidence:** High
+   - **Contextual Explanation:** "Customizable" has a positive sentiment because it implies flexibility and the ability to tailor something to individual needs. The explanation that it can be attuned to an individual person enhances this sentiment, making the word appear even more beneficial.
+
+4. **Word:** "intuitive"
+   - **Sentiment Analysis Score:** 0.85
+   - **Adjusted Score:** 0.90
+   - **Confidence:** High
+   - **Contextual Explanation:** The word "intuitive" holds a very positive sentiment as it suggests that something is easy to understand and operate without much effort. The reference to a simple control panel and a "Help" button further enhances this positive sentiment, demonstrating user-friendliness.
+
+5. **Word:** "time-consuming"
+   - **Sentiment Analysis Score:** 0.20
+   - **Adjusted Score:** 0.15
+   - **Confidence:** High
+   - **Contextual Explanation:** The phrase "time-consuming" carries a negative sentiment as it implies that something requires a lot of time and effort. The additional explanation about repetitive clicking due to high customization suggests frustration and inefficiency, lowering the score further.

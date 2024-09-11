@@ -1,0 +1,259 @@
+﻿clean,0.7,0.65,medium,"'The word 'clean' has a positive sentiment, with a score of 0.7. After the explanation in the context which said words are a bit small and hard to read, score lowers slightly to 0.65, as some difficulty in readability is mentioned.'"
+approachable,0.8,0.7,medium,"''Approachable' usually has a positive sentiment. Here, it's lowered from 0.80 to 0.70, due to the critique about words being small and hard to read.'"
+simple,0.7,0.6,medium,"''Simple' has a positive sentiment in this context, but the mention of words being a bit small and hard to read decreased the score from 0.70 to 0.60.'"
+professional,0.8,0.7,high,"''Professional' is generally viewed positively, but due to the critique about small, hard to read words, the score is decreased from 0.80 to 0.70.'"
+fast,0.8,0.7,high,"''Fast' is positive, conveying efficiency. The context about words being hard to read lowers its score from 0.80 to 0.70.'"
+fast,0.8,0.85,high,'The sentiment score for 'fast' increases from 0.80 to 0.85 due to the positive explanation which highlights the efficiency of getting useful information quickly.'
+convenient,0.85,0.9,high,"'The word 'convenient' generally has a very positive score at 0.85, but the positive context about providing quick solutions increases its score to 0.90.'"
+educational,0.8,0.85,high,"''Educational' has a positive sentiment score or 0.80, which increases to 0.85 in context of learning new things about grasshoppers.'"
+useful,0.9,0.95,high,"'The term 'useful' has a score of 0.90, which is increased to 0.95 based on the positive context of providing specific solutions.'"
+confusing,0.3,0.4,medium,"''Confusing' has a low sentiment score of 0.30. However, the score is increased to 0.40 as the explanation hinted at understanding after some time.'"
+usable,0.75,0.8,high,"''Usable' generally has a score of 0.75 in sentiment, increased to 0.80 in the context of a simple Java applet.'"
+easy to use,0.85,0.9,high,'The score for 'easy to use' normally already is high at 0.85 and the sentiment gets further boosted in this context to 0.90.'
+time-consuming,0.2,0.15,low,''Time-consuming' has a negative sentiment score of 0.20; the recommendation for refinement makes it decrease to 0.15.'
+boring,0.1,0.05,low,"''Boring' is extremely negative, with a score of 0.10. The complaint about long program run time reduces the sentiment further to 0.05.'"
+dull,0.15,0.1,low,''Dull' has a low sentiment score of 0.15. The suggestion to make the interface more user-friendly lowers the score slightly to 0.10.'
+business-like,0.75,0.8,high,''Business-like' usually conveys professionalism and thus has a score of 0.75. The mention of appropriate vocabulary raises the sentiment slightly to 0.80.'
+customizable,0.8,0.85,high,"''Customizable' has a score of 0.80, increased to 0.85 due to the positive context of accommodating special circumstances.'"
+understandable,0.7,0.75,high,"''Understandable' has a sentiment score of 0.70, which is increased to 0.75 due to the context which suggests clear explanations were available if needed.'"
+organized,0.75,0.86,high,"'The word 'organized' has a positive sentiment, suggesting that things are well-arranged or orderly. The explanation given reinforces this by describing an organized sequence or methodology, enhancing the positive sentiment.'"
+straightforward,0.75,0.68,medium,"'The word 'straightforward' has a positive sentiment, suggesting simplicity and ease of understanding. However, in the explanation given, the user expresses uncertainty and a limited applicability of the information, which slightly lowers the sentiment score.'"
+clean,0.78,0.88,high,"''Clean' has a positive sentiment, suggesting something neat and free from unnecessary clutter. The statement implies that it was easy and clear to understand the required actions, hence the sentiment is heightened.'"
+incomprehensible,0.02,0.01,high,"''Incomprehensible' carries a strong negative sentiment, suggesting something that is impossible to understand. The explanation reinforces this, as the user states they have no idea about the subject, prompting a decrease in the sentiment score.'"
+complex,0.3,0.1,high,"''Complex' carries a somewhat negative sentiment as it suggests that something is hard to understand or analyze. In the context given, the user doesn't know about the topic, highlighting the complexity they perceive and lowering the sentiment score.'"
+too technical,0.1,0.05,high,"''Too technical' carries a negative sentiment, suggesting that something may be difficult for a non-specialist to understand. The user explains that the content is not for people who lack knowledge about grasshoppers, which affirms the negative sentiment and even lowers the sentiment score.'"
+business-like,0.7,0.8,high,"''Business-like' generally has a positive sentiment, suggesting efficiency and professionalism. The user's explanation that the site is professional and easy to navigate reinforces this positive sentiment, thus increasing the sentiment score.'"
+clean,0.78,0.8,medium,"''Clean' carries a positive sentiment. In the user's explanation, they mention there are no excessive graphics to distract the user, implying that the interface is neat and clutter-free, therefore slightly increasing the positive sentiment score.'"
+business-like,0.7,0.82,high,"'Again, 'business-like' suggests a positive sentiment of professionalism. The user elaborates that there are very direct questions that are easy to understand, enhancing this positive sentiment.'"
+straightforward,0.75,0.85,high,"''Straightforward' generally has a positive sentiment of simplicity and directness. When the user notes the directness and easy understanding of the questions, the sentiment becomes more positive.'"
+organized,0.75,0.9,high,"''Organized' already has a positive sentiment, indicating orderliness. The explanation states that it's easy to follow with one question per page, which emphasizes the organization, thus increasing the sentiment score.'"
+easy to use,0.88,0.94,high,"''Easy to use' carries a very positive sentiment, suggesting user-friendliness. The statement reinforces this by saying it's easy to follow, raising the sentiment score.'"
+stimulating,0.75,0.82,medium,"''Stimulating' has a positive sentiment, implying that it's interesting or thought-provoking. The user shares that it's an interesting way to evaluate a problem - even for non-specialists - which upgrades the positive sentiment slightly.'"
+usable,0.78,0.92,high,"''Usable' has a positive sentiment, suggesting practicality and ease of use. The explanation furthers this by stating that no special instructions were required to use it, which amplifies the positive sentiment.'"
+straightforward,0.75,0.92,high,"''Straightforward' already has a positive sentiment. The explanation mentioned that it got to the point and wasn't cluttered, unequivocally reinforcing the positive sentiment.'"
+fun,0.82,0.88,medium,"''Fun' carries a positive sentiment. The explanation offered describes the program as cool and potentially very useful, enhancing the sentiment slightly.'"
+innovative,0.85,0.9,high,"''Innovative' has a strong positive sentiment, expressing newness or creativity. The explanation points out that the program aids individuals and provides alternatives based on individual circumstances, reinforcing the positive sentiment and slightly increasing the sentiment score.'"
+straightforward,0.75,0.8,high,"''Straightforward', in this instance, simplifies and clarifies; it is mentioned in a positive context leading to a higher positive sentiment score.'"
+dated,0.1,0.05,medium,"''Dated' carries a negative sentiment, suggesting that something is old or out-of-date. The explanation characterizes the setup as boring and uninteresting, which lowers the sentiment score further.'"
+boring,0.1,0.02,high,"''Boring' has a strong negative sentiment, indicating a lack of interest. The user's explanation diverts interest away from the program, substantially lowering the sentiment score.'"
+simple,0.7,0.8,high,"''Simple' has a positive sentiment, suggesting that something is easy to understand. As the user says the questions were easy to understand, the sentiment score increases.'"
+dull,0.1,0.02,medium,"''Dull' signals a negative sentiment. The analogy of a black and white newspaper without any allure further strengthens this negative sentiment, leading to a lower sentiment score.'"
+easy to use,0.88,0.92,high,"''Easy to use' carries a very positive sentiment. The user suggests that the questions were easy to answer and find, slightly heightening the positive sentiment.'"
+customizable,0.85,0.92,high,"''Customizable' conveys a positive sentiment, denoting flexibility and adaptability. The notion of numerous options to adapt to each person's needs augments this positive sentiment.'"
+flexible,0.7,0.85,High,'The word 'flexible' carries a positive sentiment being an adjective used to describe something adaptable or changeable. The context of being easily changed and navigated raises the sentiment slightly.'
+understandable,0.7,0.8,High,"''Understandable' generally carries a positive sentiment since it denotes clarity and comprehension. The context provided, which refers to straightforward and clear instructions, further boosts this positive sentiment.'"
+useful,0.75,0.65,Medium,"''Useful' typically has a positive sentiment being indicative of helpfulness or benefit. However, the context notes personal lack of use, slightly reducing the sentiment score, while still acknowledging its potential larger-scale usefulness.'"
+educational,0.7,0.8,High,"'The word 'educational' generally carries a positive sentiment. In the context provided, it refers to ease of learning — a positive attribute, increasing the sentiment slightly.'"
+responsive,0.75,0.85,High,''Responsive' is a word with a generally positive sentiment since it indicates prompt or efficient reactions. Characterizing a quick response time escalates its positive sentiment further.'
+complex,0.4,0.3,Medium,"'The word 'complex' carries a neutral to slightly negative sentiment as it can imply difficulty. The context provided suggests confusion and difficulty in processes, which lowers its sentiment.'"
+time-consuming,0.3,0.2,High,"'Typically, 'time-consuming' carries a negative sentiment, as it suggests inefficiency and long durations. The context describes time wastage, which further reduces sentiment.'"
+awkward,0.2,0.1,High,"''Awward' usually carries a negative sentiment because it implies discomfort or lack of ease. The context given affirms this by describing confusion around button functionalities, further lowering sentiment.'"
+usable,0.7,0.7,High,''Usable' carries a positive sentiment as it suggests practicality and utility. The context confirms this sentiment by highlighting the programs practical use.'
+straightforward,0.8,0.8,High,'The word 'straightforward' typically has a positive sentiment as it suggests clarity and ease. The context provided aligns with this.'
+simple,0.75,0.75,High,"'The term 'simple' normally implies ease and clarity, leading to a positive sentiment. The context does not modify its positivity.'"
+time-saving,0.8,0.8,High,''Time-saving' typically carries a positive sentiment as it suggests efficiency. The context aligns with this sentiment.'
+cutting edge,0.85,0.85,High,'The phrase 'cutting edge' has a positive sentiment because it suggests innovation and advancement.'
+useful,0.75,0.85,High,''Useful' normally carries a positive sentiment because it indicates usefulness or benefit. The context here enhances this sentiment by mentioning appreciation for the variety of features available.'
+easy to use,0.85,0.85,High,'The phrase 'easy to use' typically signals a positive sentiment because it signifies user-friendliness.'
+clear,0.75,0.85,High,"''Clear' usually carries a positive sentiment, suggesting clarity and unambiguity. The context here increases this positive sentiment by highlighting its ease of use.'"
+fun,0.8,0.8,High,''Fun' usually carries a positive sentiment as it suggests enjoyment or pleasure. The context does not modify this positive sentiment.'
+time-consuming,0.3,0.2,Medium,"''Time-consuming' normally has a negative sentiment, connoting inefficiency and long durations. The context in this case, which refers to a long process, intensifies this negative sense.'"
+awkward,0.2,0.15,High,"'The term 'awkward' carries a negative sentiment as it implies discomfort or lack of ease. The context, describing confusing menus, further reduces sentiment.'"
+comprehensive,0.75,0.85,High,"''Comprehensive' generally has a positive sentiment as it suggests thoroughness or inclusivity. The context given, referring to utility for dealing with a specific problem, enhances this sentiment.'"
+old,0.3,0.2,Medium,"'The word 'old' carries a neutral to negative sentiment, depending on the context. Here, its sentiment is slightly lowered, as it refers to an 'old-fashioned' or outdated appearance.'"
+understandable,0.7,0.8,High,"''Understandable' typically carries a positive sentiment, reflecting clarity. The context that the questions were easy to understand heightens this positive sentiment.'"
+efficient,0.8,0.9,High,"''Efficient' is a term with generally positive sentiment, often associated with promptness and effectiveness. The context echoes a quick and smooth process, raising the sentiment score.'"
+easy to use,0.9,0.96,High,"'The phrase 'easy to use' is generally positive, indicating something is user-friendly. The given context strengthens this sentiment as it talks about well-labeled buttons, which make an interface easier to use.'"
+simple,0.8,0.86,High,"''Simple' generally has a positive sentiment as it indicates that something is uncomplicated and easy to understand. The context, explaining the purposeful design of the page, further supports this positive sentiment.'"
+professional,0.9,0.94,High,"''Professional' tends to carry strong positive sentiments, and the context talking about it not being cluttered with advertisements or unnecessary pictures maintains the sentiment.'"
+educational,0.85,0.89,High,"'The word 'educational' generally has a positive sentiment, implying knowledge gain. In this context, providing useful information about a particular situation strengthens the sentiment.'"
+expected,0.7,0.76,Medium,"'As neutral as ‘expected’ is, in this case, it was positively used since it speaks about a need met in treating the field with pesticides. Thus, there's a rise in the sentiment score.'"
+trustworthy,0.95,0.99,High,"''Trustworthy' naturally holds a high positive sentiment, indicating reliability or truthfulness. The context suggests it is perceived as reliable, enhancing its positive sentiment.'"
+clear,0.8,0.84,High,"''Clear', denoting easy interpretation, generally has a positive sentiment. Buttressed by the context of easy to understand directions, it maintains a strong positive sentiment.'"
+efficient,0.85,0.89,High,''Efficient' is typically associated with a high positive sentiment showing its effectiveness. The context of doing a good job enhances this sentiment.'
+entertaining,0.8,0.85,Medium,"''Entertaining' generally has a positive sentiment, bringing joy or amusement. In this context, it refers to the pleasing experience of learning about bugs.'"
+fun,0.85,0.88,Medium,"''Fun' has inherently positive sentiment. Seeing cool pictures while learning adds a tint of fun, thus maintaining its positive sentiment.'"
+impressive,0.9,0.94,High,"''Impressive' indicates high positive sentiment often associated with admiration. The context, considering the idea interesting, boosts this sentiment.'"
+simplistic,0.75,0.8,High,"'Though 'simplistic' can be neutral or mildly negative in some contexts, here it is used positively to describe a user-friendly interface thereby raising its sentiment score.'"
+too technical,0.35,0.28,Medium,"''Too technical' carries a negative sentiment implying complexity. Due to technical terms need to be studied prior, the sentiment is further driven towards negativity.'"
+confusing,0.25,0.19,High,"''Confusing' has a negative sentiment, meaning not clear or difficult to understand. The context of technical terminology adds to the negative sentiment.'"
+vague,0.3,0.28,Medium,"'The word 'vague' generally carries a negative sentiment, as it implies lack of clarity. In this case, the sentiment remains negative, as it suggests ambiguity in information about weather stations.'"
+usable,0.85,0.91,High,''Usable' typically has a positive sentiment suggesting an easy and effective use. The context comparing it with cleanliness and ease of use strengthens the sentiment.'
+relevant,0.8,0.87,High,''Relevant' is generally positive suggesting something directly connected or appropriate. The context of usefulness for farmers in the grasshopper situation strengthens this sentiment.'
+clean,0.8,0.86,High,"''Clean' generally conveys a positive sentiment, indicating a simple and nea layout. The context supports this positive sentiment by highlighting its straightforwardness and ease of use.'"
+fast,0.9,0.95,High,"''Fast' has strong positive sentiment, suggesting speed and efficiency. The context about getting results quicker than expected strongly enhances this sentiment.'"
+organized,0.85,0.89,High,''Organized' generally conveys positive sentiment indicating order and clarity. The context strengthens the sentiment by emphasizing on easy and logical steps.'
+simplistic,0.75,0.8,High,"'Even though 'simplistic' can sometimes be perceived as negative for oversimplification, in this case, it indicates user-friendliness and easy navigation, thus it has a positive sentiment.'"
+responsive,0.9,0.94,High,"''Responsive' generally carries a high positive sentiment, indicating quick and reliable interaction. Quick page transitions in the context reinforces its positive sentiment.'"
+dull,0.25,0.2,Low,"''Dull' carries a negative sentiment. The context, focusing on readability issues and lack of navigation clarity, confirms and even deepens this negativity.'"
+business-like,0.75,0.8,Medium,"''Business-like' holds a mild positive sentiment depicting professional behavior. In this case, the high level of professional writing elevates the sentiment score.'"
+system-oriented,0.7,0.74,Medium,"''System-oriented' generally carries neutral to positive sentiment. Here, it suggests a well-structured order, hence maintaining a mild positive sentiment.'"
+overwhelming,0.3,0.26,Medium,"''Overwhelming' typically has a negative sentiment, indicating too much to handle. The context reinforces this by suggesting too much information in a small space.'"
+educational,0.85,0.9,High,"''Educational' has a positive sentiment indicating it's informative. The context reinforces this, stating it provides good information.'"
+uncontrollable,0.2,0.16,High,"''Uncontrollable' carries a negative sentiment implicating an excess beyond control. The context focuses on the frustrating experience with regard to input of acreage, thereby reinforcing the negativity.'"
+professional,0.9,1,High,"'The initial sentiment of 'professional' is positive, but the explanation of it being used in the context of a 'speech' enhances its positivity to a full score.'"
+too technical,0.4,0.3,Medium,"'The term 'too technical' carries a slightly negative sentiment initially. After considering the explanation, the sentiment is further reduced due to the complexity of the terminology being a problem for the lay person.'"
+unattractive,0.2,0.1,High,"''Unattractive' initially holds a negative sentiment, being reduced even further in light of the context in which the figures were described as not good looking.'"
+illogical,0.15,0.05,High,"''Illogical' carries a very negative sentiment, which decreases after reading the explanation about the difficulty of understanding what was to be done.'"
+poor quality,0.1,0.05,High,''Poor quality' carries a negative sentiment. The sentiment becomes even more negative when the explanation reveals that the wording was difficult to read.'
+awkward,0.3,0.2,Medium,"'The sentiment of the term 'awkward' is initially negative but with the indication of the software appearing thrown together, the sentiment becomes even more negative.'"
+exciting,0.85,0.95,High,"''Exciting' holds a positive sentiment, which increases after reading the reviewer's enthusiasm about using this type of software for the first time.'"
+old,0.2,0.1,High,"'The initial sentiment of 'old' is negative; however, it becomes even more negative once it is revealed that the outdated aspect applies to the interface.'"
+meaningful,0.9,0.85,High,"'The term 'meaningful' carries a positive sentiment. However, the context applied to 'useful for teaching' slightly reduces the positive sentiment.'"
+fun,0.8,0.9,High,"''Fun' initially has a positive sentiment, which increases with the mention of finding enjoyment in checking bugs.'"
+clean,0.85,0.95,High,"''Clean' per se has a high positive sentiment, which becomes even stronger once clarity and simplicity of design are emphasized.'"
+time-saving,0.9,0.85,Medium,"'The term 'time-saving' carries a positive sentiment. The explanation indirectly refers to the function but lacks sufficient details, so the sentiment slightly decreases.'"
+usable,0.8,0.9,High,"''Usable' has a positive sentiment, which increases after the context reveals that the entity is well-organized.'"
+effective,0.85,0.7,Medium,"''Effective' initially holds a positive sentiment, but this decreases slightly due to the uncertain context in the phrase 'could be given the right circumstances'.'"
+fresh,0.85,0.95,High,''Fresh' is positive and becomes more positive after the reviewer indicates that they have never seen anything quite like it before.'
+useful,0.8,0.9,High,''Useful' has a positive sentiment which increases after being associated with problem-solving for farmers.'
+educational,0.8,1,High,''Educational' has a positive sentiment which increases to a full score with the context of the user having learned new things.'
+efficient,0.85,1,High,''Efficient' has a positive sentiment which improves to a full score when being associated with time-saving diagnostics.'
+convenient,0.9,1,High,''Convenient' carries a high degree of positive sentiment which gets even higher when it's associated with ease of access to information.'
+understandable,0.85,0.95,High,''Understandable' carries a positive sentiment which rises when associated with ease of use.'
+straightforward,0.8,0.9,Medium,"''Straightforward' has a positive sentiment which increases slightly with the association of delivering concise, informative content.'"
+educational,0.8,0.85,high,"'Educational' is positive, implying that the user learned new information. The explanation about learning new things about grasshoppers supports this high sentiment."
+efficient,0.8,0.85,high,"'Efficient' is positive, indicating that the process is effective and time-saving. The explanation about diagnosing without wasting time reinforces this sentiment."
+convenient,0.75,0.8,high,"'Convenient' is positive, suggesting ease of use and minimal effort. The explanation about not requiring a lot of work supports this sentiment."
+understandable,0.8,0.85,high,"'Understandable' is positive, indicating clarity and ease of comprehension. The explanation about being easy to use and not complex supports this high sentiment."
+straightforward,0.75,0.8,high,"'Straightforward' is positive, suggesting clear and direct presentation. The explanation about getting to the point in an informative manner reinforces this sentiment."
+boring,0.2,0.1,Medium,''Boring' carries a negative sentiment that intensifies in the context of the user lacking interest in the software.'
+unattractive,0.2,0.15,High,''Unattractive' has a negative sentiment which slightly intensifies when linked to the software looking dated.'
+dated,0.25,0.15,High,''Dated' carries a negative sentiment which intensifies with the associated context of the software looking old.'
+simplistic,0.7,0.8,Medium,''Simplistic' carries a slightly positive sentiment which slightly increases with the implication of ease and clarity in obtaining necessary help and knowledge.'
+old,0.2,0.1,High,''Old' has a negative sentiment which intensifies when associated with the software appearing aged.'
+educational,0.8,0.85,High,''Educational' carries a positive sentiment which slightly increases when context reveals new learning about grasshoppers.'
+high quality,0.9,0.85,High,''High quality' has a high degree of positive sentiment which slightly decreases in the context of the term 'good' which isn't as strong.'
+time-consuming,0.15,0.1,Medium,''Time-consuming' carries a negative sentiment which becomes more negative in the context of taking a long time.'
+cutting edge,0.95,0.9,High,''Cutting edge' carries a high positive sentiment which slightly decreases with the explanation of just being described as 'very good information'.'
+professional,0.9,0.95,High,''Professional' carries a positive sentiment which slightly increases after the mention of a well-organized layout.'
+organized,0.75,0.9,high,"'The sentiment is positive. The context indicates the user appreciates the organization of the software, making it easier to use.'"
+educational,0.65,0.75,medium,'The sentiment is positive. The context shows the user learned something from the software.'
+clear,0.8,0.9,high,'The sentiment is positive. The clear and concise nature of the instruction and results from the software makes it user-friendly.'
+attractive,0.7,0.75,medium,"'The sentiment is positive. The user didn't specify what was cute, but cute images generally suggest attractiveness.'"
+usable,0.75,0.85,medium,'The sentiment is positive. The user found it easy to use and follow the software.'
+understandable,0.65,0.45,medium,"'The sentiment starts positive, but the context indicates confusion, bringing down the sentiment score slightly.'"
+unattractive,0.35,0.2,medium,"'The sentiment is negative. Despite functionality, the user didn't like visual appearance, particularly the font.'"
+simplistic,0.55,0.15,low,'The sentiment is neutral. But the user's dislike for the font and rushed appearance makes the sentiment more negative.'
+effortless,0.85,0.95,high,'The sentiment is positive. It's easy for the user to navigate the software.'
+simplistic,0.55,0.8,medium,"'The sentiment is neutral. But, in this context, easy-to-use implies a positive sentiment.'"
+unattractive,0.35,0.25,low,'The sentiment is negative. The user feels that software lacks a visual appeal ('pizzaz')'
+useful,0.75,0.9,high,'The sentiment is positive. The software meets the needs for farmers.'
+simple,0.65,0.85,medium,'The sentiment is positive. The software is described as easy to use.'
+dated,0.4,0.3,low,'The sentiment is negative. The user finds the design outdated.'
+easy to use,0.85,0.9,high,"'The sentiment is positive. The software is described as self-explanatory, implying its ease of use.'"
+educational,0.65,0.75,medium,'The sentiment is positive. The user finds the software to be a teaching instrument.'
+effective,0.8,0.9,high,'The sentiment is positive. The user feels that the software accurately conveys information.'
+straightforward,0.8,0.85,high,'The sentiment is positive. The context indicates the software is easy to understand and use.'
+organized,0.75,0.9,high,'The sentiment is positive. The user appreciates the organization of the software which adds to its ease of use.'
+fast,0.7,0.8,medium,'The sentiment is positive. The speed of progressing through the software is appreciated by the user.'
+efficient,0.8,0.9,high,'The sentiment is positive. User appreciates absence of distracting elements in the software.'
+business-like,0.6,0.7,medium,'The sentiment is positive. The user appreciates the formality and concise nature of the text in the software.'
+unattractive,0.35,0.25,low,'The sentiment is negative. The user perceives the software as outdated or old-fashioned.'
+educational,0.65,0.75,medium,'The sentiment is positive. The user finds the software to be a helpful resource for farmers.'
+useful,0.75,0.85,high,'The sentiment is positive. The software is presented as beneficial for landowners dealing with grasshoppers.'
+simple,0.65,0.85,high,"'The sentiment is positive. The software is easy to use, with even those less familiar with technology able to navigate it.'"
+new,0.65,0.7,medium,'The sentiment is positive. The user perceives the software as fresh or innovative.'
+cutting edge,0.85,0.9,high,'The sentiment is positive. The software is perceived as a modern and new tool in the farming community.'
+business-like,0.6,0.7,medium,'The sentiment is positive. The software's structure and organization are perceived as professional.'
+simple,0.82,0.89,High,"'The word 'simple' carries a positive sentiment in this context, indicating that the user experience is uncomplicated and easy.'"
+fast,0.85,0.9,High,"''Fast' is generally seen as positive, indicating efficiency and a respect for the user's time.'"
+convenient,0.9,0.93,High,"''Convenient' is a positive term, indicating the product or service is easily accessible and fits well into the user's lifestyle.'"
+responsive,0.88,0.92,High,"''Responsive' is a positive term often used in user experience design, signifying the product reacts well to user interaction.'"
+educational,0.75,0.81,Medium,"''Educational' is usually seen as a positive word, particularly when discussing an application or service.'"
+organized,0.78,0.82,High,"''Organized' has a positive connotation, suggesting content is well-structured and easy to navigate.'"
+old,0.3,0.25,Medium,"''Old' can be seen negatively due to associations with being outdated or obsolete, especially in a technology or trending context.'"
+dated,0.25,0.2,Medium,"'Much like 'old', 'dated' can be perceived as negative, suggesting lack of updates or advancements.'"
+clear,0.83,0.88,High,"''Clear' has positive sentiment, indicating information is easily understandable.'"
+simplistic,0.62,0.67,Medium,"''Simplistic' can be seen as positive or negative based on context. Here, it is positive, as the simplicity aids understanding.'"
+unattractive,0.22,0.18,High,'The word 'unattractive' carries a negative sentiment implying the platform is not visually appealing or engaging.'
+easy to use,0.9,0.95,High,"''Easy to use' is innately positive, suggesting the product or service is user-friendly, from the first interaction on.'"
+convenient,0.9,0.94,High,'Signifies positive sentiment as it simplifies the user's experience.'
+useful,0.85,0.92,High,'Implies positive sentiment; means the application is able to fulfil the user's needs.'
+straightforward,0.81,0.85,High,"'Carries positive sentiment, stating the user's experience was free from complexity.'"
+accessible,0.82,0.87,High,'Positively represents an easily navigable and user-friendly platform.'
+simplistic,0.6,0.55,medium,"'Simplistic' can have a neutral or slightly negative connotation, suggesting that the system is too basic. The explanation about just clicking buttons to see information supports a somewhat neutral sentiment."
+boring,0.2,0.15,High,'A negative sentiment word suggesting the content was not interesting or engaging.'
+confusing,0.15,0.1,High,'Carries strong negative sentiment indicating a difficult user experience.'
+educational,0.8,0.85,high,"'Educational' is positive, indicating that the content was informative. The explanation about containing valuable information on grasshopper infestations reinforces this high sentiment."
+frustrating,0.12,0.08,High,'Strong negative sentiment implying user dissatisfaction and difficulty.'
+easy to use,0.8,0.85,high,"'Easy to use' is very positive, suggesting user-friendliness. The explanation about finding instructions easy to understand supports this high sentiment."
+effective,0.85,0.9,High,'A strong positive sentiment word suggesting functionality and success.'
+straightforward,0.75,0.8,high,"'Straightforward' is positive, indicating clarity and simplicity. The explanation about very clear instructions supports this sentiment."
+efficient,0.88,0.92,High,'Positive sentiment suggesting quick and seamless functionality.'
+clear,0.75,0.8,high,"'Clear' is positive, suggesting that the information was easy to comprehend. The explanation about simple language and helpful pictures reinforces this sentiment."
+usable,0.7,0.75,medium,"'Usable' is positive, indicating functionality. The explanation about finding the tool very usable supports this sentiment."
+high quality,0.88,0.94,High,'This phrase signifies excellence in service provision hence strongly positive.'
+friendly,0.88,0.92,High,'Signifies pleasant interaction with users thus a positive sentiment.'
+not valuable,0.15,0.11,High,'Strongly negative sentiment suggesting lack of worth or added benefit from the product.'
+not valuable,0.2,0.15,high,"'Not valuable' is negative, indicating lack of usefulness. The explanation about not adding any value strongly supports this low sentiment."
+busy,0.3,0.25,High,'Negative sentiment indicating overwhelming information or layout.'
+distracting,0.2,0.15,High,'Negative sentiment implying an unwanted diversion from core tasks.'
+poor quality,0.15,0.05,High,"'The low sentiment score reflects the negativity towards 'poor quality', the adjusted score considering the extra annoyance because the software took the user back to the beginning.'"
+awkward,0.25,0.15,High,"'The low sentiment score reflects the negativity towards 'awkward', the score was further adjusted considering the software was impersonal and not inviting.'"
+new,0.8,0.95,Medium,"'The sentiment score is generally positive for 'new', this was adjusted upwards because the reviewer could tell the newness.'"
+ordinary,0.5,0.4,Medium,"''Ordinary' carries a neutral sentiment score, this was adjusted down as the user found the software didn't stand out.'"
+old,0.2,0.1,High,'The low sentiment score for 'old' was adjusted down due to the software being compared to an outdated game.'
+effortless,0.85,0.95,High,"'The positive sentiment score reflects the ease of use, this was adjusted upwards considering the reviewer's ease in following directions.'"
+clear,0.8,0.95,High,"'The positive sentiment score reflects the clarity, adjusted higher because user didn't have to think while using the software.'"
+simplistic,0.6,0.45,Medium,"'The sentiment score is mildly positive for 'simplistic', it is adjusted lower indicating lack of user engagement.'"
+poor quality,0.15,0.25,High,"'Again, 'poor quality' carries a low sentiment score, it's adjusted upward slightly because of the good content.'"
+awkward,0.25,0.3,Low,'The sentiment score for 'awkward' remains low as the reviewer is unsure about certain aspects.'
+dated,0.2,0.1,High,'The low sentiment score is further reduced because of the old-fashioned design style.'
+confusing,0.1,0.15,Medium,"''Confusing' is negative, however, it was slightly adjusted upwards as the reviewer admits they're not the target audience.'"
+dull,0.25,0.2,High,"''Dull' carries low sentiment score, adjusted slightly down due to the suggestions to improve appeal.'"
+responsive,0.85,0.95,High,''Responsive' is positive and is adjusted higher thanks to the software providing explanations and responding well to interactions.'
+fast,0.85,1,High,'The sentiment 'fast' remains high and is adjusted to the maximum indicating the software's efficient speed.'
+usable,0.85,0.95,High,''Usable' carries high sentiment and is adjusted upwards indicating user-friendly design.'
+simple,0.75,0.85,High,"''Simple' has a positive sentiment, adjusted higher for the software not having unnecessary elements.'"
+professional,0.9,0.95,High,''Professional' carries a high sentiment score and is further adjusted upwards due to its professional appearance.'
+frustrating,0.1,0.05,High,"''Frustrating' has a low sentiment score, which is adjusted down due to difficulties with percentages.'"
+confusing,0.1,0.2,Medium,'Initially negative 'confusing' is adjusted upwards due to eventual understanding from the user.'
+business-like,0.75,0.8,Medium,"''Business-like' carries a positive score, adjusted slightly up for maintaining factual accuracy.'"
+poor quality,0.15,0.1,High,"'Low sentiment for 'poor quality', adjusted downwards due to being too basic, crammed, and boring.'"
+effective,0.9,0.95,High,"'High sentiment for 'effective', adjusted upwards due to the presence of all necessary information.'"
+useful,0.9,1,High,"'High sentiment for 'useful', adjusted up because it contained all necessary information to solve the user's problem.'"
+fast,0.85,0.95,High,''Fast' carries a high sentiment score and is adjusted upwards due to no lag in the software.'
+dull,0.25,0.3,Medium,"'Low sentiment score for 'dull', adjusted slightly up for the clean simplicity.'"
+responsive,0.85,0.95,High,"'High sentiment for 'responsive', adjusted upwards reflecting the software's responsiveness to user commands.'"
+clear,0.8,0.9,high,"'The word 'clear' generally has a positive sentiment. In this context, the user found the information presented to be clear without distractions, increasing its positive sentiment.'"
+clear,0.75,0.85,medium,"'While 'clear' generally has a positive sentiment, this context does not add much to it. Consequently, the score increases modestly.'"
+straightforward,0.75,0.85,medium,"''Straightforward' typically has a positive sentiment. The context shows the user sees the information as easy to understand, maintaining this positive sentiment.'"
+reliable,0.9,0.95,high,"''Reliable' carries a strong positive sentiment. In this context, the user considers the tool as a trustworthy aid in identifying crop problems, reinforcing this positive sentiment.'"
+efficient,0.85,0.9,high,''Efficient' generally conveys a positive sentiment. The user's confirmation that it worked well reinforces this sentiment.'
+understandable,0.75,0.83,medium,"''Understandable' generally has a positive sentiment. This case slightly boost the sentiment, as the tool provides a fair explanation on its use.'"
+innovative,0.85,0.92,medium,"''Innovative' has a positive sentiment. Here, it is used to describe unique and detailed attributes of the tool, which enhances this sentiment.'"
+cluttered,0.2,0.15,high,"''Cluttered' has a negative sentiment, and the user's description of the paragraphs being too crammed together furthers this.'"
+straightforward,0.75,0.82,medium,"''Straightforward' generally has a positive sentiment. Given the context, the sentiment increases as the directions were deemed simple and easy to understand.'"
+understandable,0.75,0.85,medium,"'The term 'understandable' typically has a positive sentiment, which is further reinforced as the user found the process easy to understand.'"
+convenient,0.85,0.9,medium,"''Convenient' generally holds a positive sentiment. The user's comments further amplify this sentiment, as they find the program simple and informational.'"
+relevant,0.8,0.86,medium,"''Relevant' carries a positive sentiment. Since the tool is deemed important and valuable for farmers, it increases this sentiment.'"
+professional,0.9,0.93,high,"'The word 'professional' generally has a positive sentiment. Here, the author's knowledge adds to this positive sentiment.'"
+clear,0.8,0.87,medium,"''Clear' carries a positive sentiment. In this context, it is amplified as the user did not get lost and found the layout easy to understand.'"
+organized,0.85,0.9,high,''Organized' has a positive sentiment. The user finds the program to have a 'natural flow' which increases this sentiment.'
+easy to use,0.95,0.98,high,''Easy to use' has a very positive sentiment. The fact that the directions were concise and user-friendly reinforces this sentiment.'
+poor quality,0.15,0.12,high,''Poor quality' has a strong negative sentiment. The user's comment on the opening mechanism of the program further lowers its sentiment value.'
+creative,0.85,0.9,high,''Creative' carries a strong positive sentiment. The user's comment about the tool's uniqueness increases this sentiment.'
+useful,0.9,0.93,high,"'The term 'useful' generally has a high sentiment value, especially in this context since the user sees it as a helpful resource for farmers.'"
+straightforward,0.75,0.82,medium,"''Straightforward' generally carries a positive sentiment. Given the context, the sentiment increases since the questions were easy to understand.'"
+simplistic,0.75,0.83,medium,"''Simplistic' usually holds a neutral to positive sentiment. In this context it leans more positive, as it illustrates the ease of use and understandability of the layout.'"
+awkward,0.2,0.17,high,''Awkward' has a negative sentiment. This appears to decrease with the users negative experience with the buttons on the screen.'
+useful,0.9,0.93,high,"''Useful' normally has a high sentiment. The general knowledge base makes the program more valuable, increasing the sentiment.'"
+fast,0.85,0.9,high,"'The word 'fast' generally has a high sentiment value. In this context, it slightly increases as the quick responses fall within the user's acceptable timeframe.'"
+vague,0.2,0.22,medium,"''Vague' usually carries a negative sentiment. In this context, the sentiment remains generally negative as it appears to offer little value to an experienced user.'"
+confusing,0.15,0.18,medium,"''Confusing' typically holds a negative sentiment. The user expresses some struggle in understanding the program's intent, maintaining this sentiment.'"
+simplistic,0.3,0.6,medium,"'The sentiment of the word 'simplistic' in usual context is neutral or slightly negative, associating with lacking intricacy or depth. However, due to the provided explanation that it's easy to use and not cluttered with buttons, the sentiment becomes more positive leading to an increased sentiment score.'"
+flexible,0.7,0.9,high,"'The term 'flexible' is typically viewed in a positive light because of its association with adaptability. Given the explanation, the positivity of the word increases as it implies a high degree of usability, allowing for viewing of multiple areas without restriction.'"
+straightforward,0.75,0.9,high,''Straightforward' has a positive sentiment as it connects with clarity and lack of complication. The explanation strengthens this positive sentiment as it signifies ease of understanding.'
+unattractive,0.2,0.15,high,'The word 'unattractive' has a negative sentiment because of its association with lack of appeal. The explanation reinforces its negativity by pinpointing to a boring color scheme.'
+organized,0.8,0.95,high,''Organized' is considered positive due to its connection to efficiency and structure. The given explanation elevates it to an even higher positive level by associating it with ease of use.'
+useful,0.8,0.85,medium,"'While 'useful' already has a positive sentiment, the explanation suggesting it contains the correct information provides a slight increase in it's positivity.'"
+flexible,0.7,0.9,high,"'Once again, 'flexible' is positive given its association with adaptability. The provided explanation elevates its sentiment score by stating that it adapts to users’ needs.'"
+approachable,0.85,0.95,high,"''Approachable' has a strongly positive sentiment, implying accessibility and friendliness. With 'easy to use' as the explanation, the sentiment maintains its strong positivity.'"
+straightforward,0.75,0.8,medium,''Straightforward' typically carries a positive sentiment due to its association with simplicity and clarity. Saying it is 'understandable' elevates its positivity slightly.'
+business-like,0.65,0.75,medium,'Being 'business-like' is generally positive as it evokes professionalism. The explanation 'professional' further strengthens this sentiment.'
+straightforward,0.75,0.85,high,''Straightforward' again maintains a positive sentiment due to its connection with simplicity. It becomes even more positive with the explanation implying ease of navigation and user-friendliness.'
+vague,0.35,0.3,high,"''Vague' is generally perceived as having a negative sentiment, being unclear or uncertain. The given explanation about the maps being vague and needing landmarks further decreases its sentiment score.'"
+customizable,0.8,0.85,medium,"'The sentiment of 'customizable' is highly positive given the notion it provides for personalization. When the explanation says it can tune to an individual's needs, the sentiment positivity slightly increases.'"
+intuitive,0.85,0.9,high,"'The term 'intuitive' itself is positive, symbolizing ease-of-use and instinctiveness. With the explanation suggesting the presence of a help button and a simple control panel, the sentiment strengthens.'"
+time-consuming,0.15,0.1,medium,''Time-consuming' inherently carries a negative sentiment due to its ties with inefficiency and repetition. The explanation mentioning repetitive clicking due to high customizability further enforces this negative sentiment.'
