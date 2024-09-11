@@ -28,6 +28,9 @@ Changes From V2
 - CSV formatting
 - Selection of GPT Model
 
+Changes From V3
+- Allows for input from standardized form
+
 Future work for V3/V4
 - Confirmation of fields
 - Preventing invalid runs from occurring
@@ -55,7 +58,7 @@ systemPrompts = [
 
 GPTmodels = ["gpt-4o", "gpt-4", "gpt-3.5-turbo"]
 
-def get_sentiment(modelType, response, promptIndex, dataTypeInt):
+def getSentiment(modelType, response, promptIndex, dataTypeInt):
     completion = client.chat.completions.create(
         model = modelType,
         messages = [
@@ -71,7 +74,7 @@ def get_sentiment(modelType, response, promptIndex, dataTypeInt):
         )
     return completion.choices[0].message.content
 
-def read_and_group_data(dataType):
+def readGroupedData(dataType):
     filePath = fd.askopenfilename()
     with open(filePath, 'r', encoding="UTF-8-sig") as file:
         reader = csv.DictReader(file)
@@ -98,7 +101,7 @@ def read_and_group_data(dataType):
                     return {}, 0
         return responseDict, int(dataType) - 1
 
-def read_data(dataType):
+def readIndividualData(dataType):
     filePath = fd.askopenfilename()
     with open(filePath, 'r', encoding="UTF-8-sig") as file:
         reader = csv.DictReader(file)
@@ -121,10 +124,11 @@ def read_data(dataType):
                     currentPrompt += ('"' + line[fields[1]].replace("\n", "") + '","' + line[fields[2]].replace("\n", "") + '"\n')
                 case _:
                     return [], 0
-        responses.append(currentPrompt)
-    return responses, int(dataType) - 1
+        if(currentPrompt != ""):
+            responses.append(currentPrompt)
+        return responses, int(dataType) - 1
 
-def analyze_data(usingAPI):
+def analyzeData(usingAPI):
     sentiments = []
     if(usingAPI):
         print("Please select a GPT model")
@@ -150,7 +154,7 @@ def analyze_data(usingAPI):
 [2] - Explanation scoring
 [3] - Term + explanation scoring
 """)
-            responseDict, dataTypeInt = read_and_group_data(dataType)
+            responseDict, dataTypeInt = readGroupedData(dataType)
             if(len(responseDict) == 0):
                 return []
             promptIndex = int(analysisIndex) - 1
@@ -161,7 +165,7 @@ def analyze_data(usingAPI):
                     print(responseDict[key])
                     print("=== END OF CURRENT DATA ===")
                     sentiments.append("\n" + key + ",")
-                    sentiments.append(str(get_sentiment(GPTmodels[modelIndex], responseDict[key], promptIndex, dataTypeInt)).replace('"', "'"))
+                    sentiments.append(str(getSentiment(GPTmodels[modelIndex], responseDict[key], promptIndex, dataTypeInt)).replace('"', "'"))
                 else:
                     sentiments.append(key + "\n")
                     sentiments.append(responseDict[key])              
@@ -171,7 +175,7 @@ def analyze_data(usingAPI):
 [2] - Explanation scoring
 [3] - Term + explanation scoring
 """)
-            responses, dataTypeInt = read_data(dataType)
+            responses, dataTypeInt = readIndividualData(dataType)
             if(len(responses) == 0):
                 return []
             promptIndex = int(analysisIndex)-1
@@ -182,7 +186,7 @@ def analyze_data(usingAPI):
                     print("=== START OF CURRENT DATA ===")
                     print(response)
                     print("=== END OF CURRENT DATA ===")
-                    sentiments.append(str(get_sentiment(GPTmodels[modelIndex], response, promptIndex, dataTypeInt)).replace('"', "'") + "\n")
+                    sentiments.append(str(getSentiment(GPTmodels[modelIndex], response, promptIndex, dataTypeInt)).replace('"', "'") + "\n")
                 else:
                     return responses
         case _:
@@ -192,7 +196,7 @@ def analyze_data(usingAPI):
         
 def main():
     usingAPI = input("Use openAI API? (y/n): ").lower()[0] == 'y'
-    sentiments = analyze_data(usingAPI)
+    sentiments = analyzeData(usingAPI)
     if(len(sentiments) != 0):
         outFileName = "PDT_Analysis_" + datetime.datetime.now().strftime("%d/%m/%Y %H:%M:%S").replace(" ", "_").replace("/", "-").replace(":", ";") + ".txt"
         outFile = open(outFileName, "w", encoding="UTF-8-sig")
